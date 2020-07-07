@@ -56,7 +56,7 @@ broadcast
 --- /task ---
 
 --- task ---
-Add the blocks to make your sprite do **what** you want it to do. Go to Blocks you now know or Ingredients to help you. You can also check the [Interactive cards studio] and see inside.
+Add the blocks to make your sprite do **what** you want it to do. Go to Blocks you now know or Ingredients to help you. You can also check the [Interactive cards studio]() and see inside.
 
 --- /task ---
 

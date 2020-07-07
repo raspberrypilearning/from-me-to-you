@@ -4,7 +4,7 @@ Now it's time to share your card with the person you made it for.
 --- task ---
 Share the Scratch project. This will share the project with anyone who finds it. 
  
-[[[ sharing / commenting safely ]]]
+ingredient: sharing / commenting safely
 
 --- /task ---
 
