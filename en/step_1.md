@@ -1,14 +1,19 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+You will create an interactive card to send to someone to cheer them up or help them celebrate an occasion. You will decide who to make a card for and will look at cards that others have made to get ideas.
+
+You will use the skills you have learnt in the Look after yourself pathway which included projects on being kind to yourself and others. In the [Make your own] projects you used those skills to create your own projects.
+
+You now have a range of skills and in this Independent project you will choose some of those skills to use to make your very own project which is different to all the other interactive card projects.
+
 
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
+Click anywhere to make the rocket ship fly. What happens if the rocket ship flies into the star?
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/408916353/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /no-print ---
 
@@ -26,7 +31,7 @@ title: What you will need
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
 + Python 3
 + This project can be completed in a web browser using [trinket.io](https://trinket.io/)
 
@@ -41,8 +46,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ How to come up with original design ideas to create a project for someone specific
++ How to use the skills you have learned to turn your ideas into code
++ How to use the feedback of others in your development process
 
 --- /collapse ---
 
