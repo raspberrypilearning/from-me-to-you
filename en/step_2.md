@@ -12,7 +12,7 @@ investigate
 develop
 share
 reflect
-redifine
+redefine
 ```
 
 For each part of your project, you'll have to think really carefully about what you want it to do, then you'll need to develop it and improve it.
