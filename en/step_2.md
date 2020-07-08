@@ -5,7 +5,14 @@
 The process looks like this:
 
 ```blocks3
-
+when green flag clicked
+idea
+forever
+investigate
+develop
+share
+reflect
+redifine
 ```
 
 For each part of your project, you'll have to think really carefully about what you want it to do, then you'll need to develop it and improve it.
