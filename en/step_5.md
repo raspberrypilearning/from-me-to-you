@@ -1,10 +1,10 @@
 ## Develop the interaction
 Now you're going to make your digital card do something to make it interactive. 
 
-You now need to break up your project up into parts so you can develop the parts one at a time. In computing, this process is called decomposition.
+You need to break up your project up into parts so you can develop the parts one at a time. In computing, this process is called decomposition.
 
 --- task ---
-What behaviour will your first sprite have? Describe what the sprite will do in words. You need to think about **what** you want your sprite to do and **when** it will do it. 
+What behaviour will your first sprite have? You need to think about **what** you want your sprite to do and **when** it will do it. 
 
 Examples:
 "When you click on the balloon it will pop and disappear."
@@ -14,6 +14,11 @@ Examples:
 "When you click on the Dance button, all the person sprites will dance."
 
 You might have lots of ideas. Just choose one of them to start with.
+
+--- /task ---
+
+--- task ---
+Describe what the sprite will do in words. Tell a friend or someone in your family. 
 
 --- /task ---
 
