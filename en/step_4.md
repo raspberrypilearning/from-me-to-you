@@ -1,5 +1,5 @@
 ## Choose a theme
-You're going to be making a card to share with someone. You need to decide who your card will be for and pick a theme that they will like. The choice is yours.
+You're going to be making a digital card to share with someone. You need to decide who your card will be for and pick a theme that they will like. The choice is yours.
 
 --- task ---
 Create a new Scratch project to start trying out your ideas. 
