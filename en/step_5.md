@@ -1,17 +1,7 @@
 ## Develop the interaction
 Now you're going to make your digital card do something to make it interactive. 
 
---- task ---
-Choose a sprite or costume from Scratch for now. You can create your own costumes later.
-
-Defn: Breaking your project up into parts that you can develop one at a time is called decomposition. 
-
---- /task ---
-
---- task ---
-Choose a backdrop.
-
---- /task ---
+You now need to break up your project up into parts so you can develop the parts one at a time. In computing, this process is called decomposition.
 
 --- task ---
 What behaviour will your first sprite have? Describe what the sprite will do in words. You need to think about **what** you want your sprite to do and **when** it will do it. 
@@ -41,7 +31,7 @@ when stage clicked
 
 ```
 
-Or you may need a `forever`{:class="block3control"} loop that does something when a condition is true.
+And you may need a `forever`{:class="block3control"} loop that does something when a condition is true.
 ```blocks3
 when green flag clicked
 forever 
@@ -50,18 +40,22 @@ if <condition>
 end
 ```
 
-If more than one sprite or the Stage is involved then you may need to use event blocks:
+If more than one sprite or the stage is involved then you may need to use event blocks:
 
 ```blocks3
-when I receive
+when I receive :: events
 
-broadcast
+```
+OR
+
+```blocks3
+broadcast :: events
 ```
 
 --- /task ---
 
 --- task ---
-Add the blocks to make your sprite do **what** you want it to do. Go to Blocks you now know or Ingredients to help you. You can also check the [Interactive cards studio]() and see inside.
+Add the blocks to make your sprite do **what** you want it to do. Go to blocks you now know or use a How to... to help you. You can also check the [Interactive cards studio]() and see inside.
 
 --- /task ---
 
