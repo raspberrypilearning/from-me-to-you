@@ -1,4 +1,4 @@
-## Send your card
+## Share your card
 Now it's time to share your card with the person you made it for. 
 
 --- task ---
