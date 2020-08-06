@@ -2,10 +2,11 @@
 
 You will create an interactive card to send to someone to cheer them up or help them celebrate an occasion. You will decide who to make a card for and will look at cards that others have made to get ideas.
 
-You will use the skills you have learnt in the Look after yourself pathway which included projects on being kind to yourself and others. In the [Make your own] projects you used those skills to create your own projects.
+You will use the skills you have learnt in the Look After Yourself Learning Journey which included Skills projects on being kind to yourself and others. 
 
-You now have a range of skills and in this Independent project you will choose some of those skills to use to make your very own project which is different to all the other interactive card projects.
+In the [Challenge] projects - [Looping sprites](https://learning-admin.raspberrypi.org/en/projects/looping-sprites), [Stamping app](https://learning-admin.raspberrypi.org/en/projects/stamping-app) and [Same but different](https://learning-admin.raspberrypi.org/en/projects/same-but-different) - you used your skills to create your own projects.
 
+You now have a range of skills. In this Independent project you will choose some of those skills to use to make your very own project which is different to all other digital card projects.
 
 ### What you will make
 
