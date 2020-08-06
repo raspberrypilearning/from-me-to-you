@@ -1,20 +1,25 @@
 ## Develop the interaction
-Now you're going to make your card do something to make it interactive. 
+Now you're going to make your digital card do something to make it interactive. 
 
 --- task ---
-Choose a sprite to work on first. Adapt your ideas to match the sprites and costumes that are available in Scratch for now. You can create your own costumes later. You could also choose the Stage which has its own code.
+Choose a sprite or costume from Scratch for now. You can create your own costumes later.
 
 Defn: Breaking your project up into parts that you can develop one at a time is called decomposition. 
 
 --- /task ---
 
 --- task ---
-Choose a behaviour to add to your first sprite and make sure you can describe what it will do in words. You need to think about **what** you want your sprite to do and **when** it will do it. 
+Choose a backdrop.
+
+--- /task ---
+
+--- task ---
+What behaviour will your first sprite have? Describe what the sprite will do in words. You need to think about **what** you want your sprite to do and **when** it will do it. 
 
 Examples:
 "When you click on the balloon it will pop and disappear."
 "The flower will spin 10 times when you click on it."
-"When you click on the Stage, the donut will stamp where you clicked."
+"When you click on the Stage, the doughnut will stamp where you clicked."
 "When the rocket touches the star, the star will spin and make a sound."
 "When you click on the Dance button, all the person sprites will dance."
 
@@ -36,7 +41,7 @@ when stage clicked
 
 ```
 
-Or you may need a `forever` loop that does something when a condition is true.
+Or you may need a `forever`{:class="block3control"} loop that does something when a condition is true.
 ```blocks3
 when green flag clicked
 forever 
