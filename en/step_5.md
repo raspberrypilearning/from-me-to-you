@@ -55,7 +55,7 @@ broadcast :: events
 --- /task ---
 
 --- task ---
-Add the blocks to make your sprite do **what** you want it to do. Go to blocks you now know or use a How to... to help you. You can also check the [Interactive cards studio]() and see inside.
+Add the blocks to make your sprite do **what** you want it to do. Go to blocks you now know or use a How to... to help you. Or you can revist step 3: [Investigate digital cards](https://learning-admin.raspberrypi.org/en/projects/digital-card/2) and See inside.
 
 --- /task ---
 
