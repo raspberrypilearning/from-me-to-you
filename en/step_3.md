@@ -1,5 +1,5 @@
-## Investigate: Look at some interactive cards
-The interactive card that you make will be different to the ones that other people have made. You will decide what it looks like, which sprites it has and what happens when you click on the stage or on the sprites. 
+## Investigate digital cards
+The digital card that you make will be different to the ones that other people have made. You will decide what it will look like, which sprites, costumes and backdrops used and what happens when you click on the stage or on the sprites. 
 
 Looking at projects that other people have made is a good way to get started. 
 
