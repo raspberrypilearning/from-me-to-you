@@ -3,7 +3,7 @@ The digital card that you make will be different to the ones that other people h
 
 Looking at projects that other people have made is a good way to get started. 
 
-Explore some of the many [digital cards](https://scratch.mit.edu/search/projects?q=digital%20card) and [interactive cards](https://scratch.mit.edu/search/projects?q=interactive%20card) Scratch projects created by others.
+Explore some of the many [digital cards](https://scratch.mit.edu/search/projects?q=digital%20card) and [interactive cards](https://scratch.mit.edu/search/projects?q=interactive%20card) created by others in Scratch.
 
 --- task ---
 **PABLE DO WE WANT  TO ADD A STUDIO OF EXAMPLES. MY FEELING IS THIS  IS WHERE THEY EXPLORE OTHER PROJECTS. IF THEEY DON'T UNDERSTAND THE SKILLS USED THEN THEY MAY WELL NOT USE THE PROJECT.**
