@@ -1,12 +1,14 @@
 ## Introduction
 
-You will create an digital, interactive card to send to someone to cheer them up or help them celebrate an occasion or for any other reason - it's up to  you. You will decide who to make the card for and, to help you develop your ideas, you will investigate cards that others have made.
+You will create a digital, interactive card to send to someone to cheer them up or help them celebrate an occasion or for any other reason - it's up to you. You will decide who you will make the card for and, to help you develop your ideas, you will investigate cards that others have made.
 
-You have a range of skills which you have learnt during the Look After Yourself projects. 
+You have a range of skills which you have learnt during the Look After Yourself projects.
+
+You will now choose some of the skills you have learnt to independently make your very own, original project.
 
 ### What you will make
 
-In this project you will choose some of the skills you have learnt to independently make your very own, original project.
+In this Independent pathway, you will choose some of the skills you have learnt to make your very own, original project.
 
 --- no-print ---
 Below is an example of a digital card. Click anywhere to make the rocket ship fly. What happens if the rocket ship flies into the star?
@@ -51,7 +53,5 @@ title: Additional information for educators
 ---
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/digital-card/print){:target="_blank"}.
-
-**TAKE OUT?  [Here is a link to the resources for this project](http://rpf.io/digital-card-go).**
 
 --- /collapse ---
