@@ -72,9 +72,9 @@ Test your new code. Is it running as you imagined?
 
 **Tip:** If your code runs when it detects another sprite touching it then you can just drag the other sprite on the stage to test it. 
 
-**Add: scratch-testingcode-dragbloc/dragspritek**
-
 **Tip:** If your code uses a `when I receive`{:class="block3event"}  block you can click on the `broadcast`{:class="block3event"} block to test it. 
+
+**Add: scratch-testingcode-dragbloc/dragsprite/broadcast**
 
 --- /task ---
 
@@ -87,7 +87,7 @@ Show someone else your project and tell them what you’ve done and what your pl
 --- task ---
 What’s your next step? It might be to develop the sprites’s behaviour. It might be to add code to another sprite. 
 
-If you have used a `when I receive [event]` block then you may want to add `broadcast [event]` block to another sprite (or the other way around).
+If you have used a `when I receive`{:class="block3event"} block then you may want to add `broadcast`{:class="block3event"}  block to another sprite (or the other way around).
 
 Are you stuck for ideas? Take a look at the Scratch Studio and don’t forget to look at step 3: [Investigate digital cards](https://learning-admin.raspberrypi.org/en/projects/digital-card/2) to See inside.
 
