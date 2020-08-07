@@ -2,7 +2,7 @@
 The digital card that you make will be different to the ones that other people have made. You will decide what the card will look like and which sprites, costumes and backdrops to you. Importanatly, you willd ecide what interaction the card will have i.e. what happens when a person clicks on the green flag, the stage, on the sprites etc.
 
 --- task ---
-Take a look at the [Digital cards](https://scratch.mit.edu/studios/27073994) in the Scratch studio. These projects have all been made using skills that you have learnt during the Looking After Yourself projects.
+Take a look at the [Digital cards](https://scratch.mit.edu/studios/27073994){:target=”_blank”} in the Scratch studio. These projects have all been made using skills that you have learnt during the Looking After Yourself projects.
 
 Click `See inside`{:class="block3motion"} to investigate how they have been made.
 
