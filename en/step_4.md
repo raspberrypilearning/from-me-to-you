@@ -1,9 +1,7 @@
 ## How to...
 
-Use the many 'How to...' below to remind you how to do useful things. 
+Use the many tips below to remind you 'How to...' do useful things in Scratch.
 
- create a button to communicate with another sprite 
-
-etc
+**Caitlyn to add list of ingredients here in Sept in categories such as Graphics, Debugging, Sharing etc**
 
 
