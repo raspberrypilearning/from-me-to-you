@@ -39,13 +39,11 @@ when stage clicked
 And you may need a `forever`{:class="block3control"} loop that does something when a condition is true.
 ```blocks3
 when green flag clicked
-forever 
-if <condition>
-
-end
+forever :: control
+if  <condition ::  operators> :: control 
 ```
 
-If more than one sprite or the stage is involved in the interaction then you may need to use event blocks:
+If more than one sprite or the stage is involved in the interaction then you may need to use event block:
 
 ```blocks3
 broadcast :: events
@@ -91,7 +89,7 @@ What’s your next step? It might be to develop the sprites’s behaviour. It mi
 
 If you have used a `when I receive [event]` block then you may want to add `broadcast [event]` block to another sprite (or the other way around).
 
-Are you stuck for ideas? Take a look at the Scratch Studio and don’t forget to look at step 3: [Investigate digital cards](https://learning-admin.raspberrypi.org/en/projects/digital-card/2) for ideas.
+Are you stuck for ideas? Take a look at the Scratch Studio and don’t forget to look at step 3: [Investigate digital cards](https://learning-admin.raspberrypi.org/en/projects/digital-card/2) to See inside.
 
 If you have finished or don't have much time left then carry on to the next step to share your card.
 --- /task ---
