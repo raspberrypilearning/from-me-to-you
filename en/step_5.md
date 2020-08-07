@@ -72,7 +72,7 @@ Test your new code. Is it running as you imagined?
 
 **Tip:** If your code runs when it detects another sprite touching it then you can just drag the other sprite on the stage to test it. 
 
-**Tip:** If your code uses a `when I receive`{:class="block3event"}  block you can click on the `broadcast`{:class="block3event"} block to test it. 
+**Tip:** If your code uses a `when I receive`{:class="block3event"} block you can click on the `broadcast`{:class="block3event"} block to test it. 
 
 **Add: scratch-testingcode-dragbloc/dragsprite/broadcast**
 
