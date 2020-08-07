@@ -11,6 +11,7 @@ Investigated other projects to help me get ideas
 --- /task ---
 --- task ---
 Refered to How to... when I was stuck
+--- /task ---
 --- task ---
 Come up with original design ideas to create a project for someone specific
 --- /task ---
