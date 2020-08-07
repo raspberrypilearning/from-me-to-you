@@ -6,5 +6,15 @@ Looking at projects that other people have made is a good way to get started.
 --- task ---
 Take a look at the [Digital cards](https://scratch.mit.edu/studios/27073994) in the Scratch studio. These projects have all been made using skills that you have learnt during the Looking After Yourself projects.
 
-Click `See inside`{:class="block3motion"} to investigate how they have been created.
+Click `See inside`{:class="block3motion"} to investigate how they have been made.
+
+--- task ---
+Investgate the **You are a star** Scratch project.
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/410071125/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/410071125/editor/){:target="_blank"}
+
 --- /task ---
