@@ -3,7 +3,7 @@ The digital card that you make will be different to the ones that other people h
 
 Take a look at some Digital card projects that have all been made using skills that you have learnt during the Looking After Yourself projects.
 
-Click `See inside`{:class="block3motion"} to investigate how they have been made.
+Don't forget to click `See inside`{:class="block3motion"} to investigate how the projects have been made.
 
 --- task ---
 Investigate the **You are a star** Scratch project.
