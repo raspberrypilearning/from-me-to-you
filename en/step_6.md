@@ -68,7 +68,7 @@ when I receive ( v):: events
 --- /task ---
 
 --- task ---
-Add the blocks to make your sprite do **what** you want it to do. Go to blocks you now know or use a How to... to help you. Or you can revist step 3: [Investigate digital cards](https://learning-admin.raspberrypi.org/en/projects/digital-card/2) to See inside projects.
+Add the blocks to make your sprite do **what** you want it to do. Go to blocks you now know and use a [How to...](https://learning-admin.raspberrypi.org/en/projects/digital-card/4){:target=”_blank”} to remind yourself about block options.
 
 --- /task ---
 
@@ -100,7 +100,9 @@ What’s your next step? It might be to develop the sprites’s behaviour. It mi
 
 If you have used a `when I receive`{:class="block3events"} block then you may want to add `broadcast`{:class="block3events"}  block to another sprite (or the other way around).
 
-Are you stuck for ideas? Take a look at the Scratch Studio and don’t forget to look at step 3: [Investigate digital cards](https://learning-admin.raspberrypi.org/en/projects/digital-card/2) to `See inside`{:class="block3motion"}.
+Are you stuck for ideas? Take a look at the Scratch Studio and don’t forget to look at step 3: [Investigate digital cards](https://learning-admin.raspberrypi.org/en/projects/digital-card/2){:target=”_blank”} and `See inside`{:class="block3motion"} the projects.
+
+Step 5, [How to...](https://learning-admin.raspberrypi.org/en/projects/digital-card/4){:target=”_blank”}, is also a good place to get ideas for the next step.
 
 If you have finished or don't have much time left then carry on to the next step to share your card.
 --- /task ---
