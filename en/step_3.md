@@ -4,7 +4,7 @@ The digital card that you make will be different to the ones that other people h
 Looking at projects that other people have made is a good way to get started. 
 
 --- task ---
-Take a look at the [Digital cards](https://scratch.mit.edu/studios/27073994)in the Scratch studio. These projects have all been made using skills that you have learnt during the Looking After Yourself projects.
+Take a look at the [Digital cards](https://scratch.mit.edu/studios/27073994) in the Scratch studio. These projects have all been made using skills that you have learnt during the Looking After Yourself projects.
 
 Click `See inside`{:class="block3motion"} to investigate how they have been created.
 --- /task ---
