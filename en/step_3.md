@@ -8,6 +8,8 @@ Take a look at the [Digital cards](https://scratch.mit.edu/studios/27073994) in 
 
 Click `See inside`{:class="block3motion"} to investigate how they have been made.
 
+--- /task ---
+
 --- task ---
 Investgate the **You are a star** Scratch project.
 
