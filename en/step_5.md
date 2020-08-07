@@ -74,7 +74,7 @@ Test your new code. Is it running as you imagined?
 
 **Add: scratch-testingcode-dragbloc/dragspritek**
 
-**Tip:** If your code uses a `when I receive [event]` block you can click on the `broadcast [event]` block to test it. 
+**Tip:** If your code uses a `when I receive`{:class="block3event"}  block you can click on the `broadcast`{:class="block3event"} block to test it. 
 
 --- /task ---
 
