@@ -1,6 +1,6 @@
 ## The digital making process
 
-**Digital making** is learning about technology by making things. Digital making starts with an idea of something to make, the idea for this project is an interactive card that you can send to someone. It's best to start small and simple and keep adding to your project until you're happy with it.  
+**Digital making** is learning about technology by making things. Digital making starts with an idea of something to make. The idea for this project is an digital, interactive card that you can send to someone. It's best to start small and simple and keep adding to your project until you're happy with it.  
 
 The process looks like this:
 
