@@ -1,12 +1,9 @@
 ## Investigate digital cards
 The digital card that you make will be different to the ones that other people have made. You will decide what the card will look like and which sprites, costumes and backdrops to you. Importantly, you will decide what interaction the card will have.
 
---- task ---
-Take a look at the [Digital cards](https://scratch.mit.edu/studios/27073994){:target=”_blank”} in the Scratch studio. These projects have all been made using skills that you have learnt during the Looking After Yourself projects.
+Take a look at some Digital card projects that have all been made using skills that you have learnt during the Looking After Yourself projects.
 
 Click `See inside`{:class="block3motion"} to investigate how they have been made.
-
---- /task ---
 
 --- task ---
 Investigate the **You are a star** Scratch project.
@@ -42,3 +39,5 @@ Investigate the **Mother's Day Interactive Card** Scratch project.
 Click `See inside`{:class="block3motion"} to investigate how it has been made.
 
 --- /task ---
+
+All the above projects can also be accessed from the [Digital cards](https://scratch.mit.edu/studios/27073994){:target=”_blank”} Scratch studio. 
