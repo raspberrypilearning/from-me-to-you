@@ -11,7 +11,7 @@ Click `See inside`{:class="block3motion"} to investigate how they have been made
 --- /task ---
 
 --- task ---
-Investgate the **You are a star** Scratch project.
+Investigate the **You are a star** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/410071125/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
