@@ -13,12 +13,3 @@ Decide who your interactive card is for. What do they like?
 --- task ---
 Choose a theme for your project. It could be under the sea, space, a party, nature or something completely different. 
 --- /task ---
-
---- task ---
-Add a backdrop that fits with your theme. 
---- /task ---
-
---- task ---
-Add one or more sprites that you think you will use in your card. Don't worry you can always change, delete or add more sprites later as you develop your ideas. 
---- /task ---
-
