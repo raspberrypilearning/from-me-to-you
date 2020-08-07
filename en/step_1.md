@@ -2,13 +2,11 @@
 
 You will create an digital, interactive card to send to someone to cheer them up or help them celebrate an occasion or for any other reason - it's up to  you. You will decide who to make the card for and, to help you develop your ideas, you will investigate cards that others have made.
 
-You have a range of skills which you have learnt during the Look After Yourself projects.
-
-You will now choose some of the skills you have learnt to independently make your very own, original project.
+You have a range of skills which you have learnt during the Look After Yourself projects. 
 
 ### What you will make
 
-In this Independent pathway, you will choose some of the skills you have learnt to make your very own, original project.
+In this project you will choose some of the skills you have learnt to independently make your very own, original project.
 
 --- no-print ---
 Below is an example of a digital card. Click anywhere to make the rocket ship fly. What happens if the rocket ship flies into the star?
@@ -33,10 +31,6 @@ title: What you will need
 ### Software
 
 + Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-
-### Downloads
-
-**TAKE OUT?  + Download the project [starter file](http://rpf.io/p/en/serene-scene-go){:target="_blank"} if working offline**
 
 --- /collapse ---
 
