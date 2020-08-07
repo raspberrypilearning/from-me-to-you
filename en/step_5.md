@@ -1,7 +1,7 @@
 ## Develop the interaction
 Now you're going to make your digital card do something to make it interactive. 
 
-You need to break up your project up into parts so you can develop the parts one at a time. In computing, this process is called decomposition.
+You need to break up your project up into parts so you can develop each part, one at a time. In computing, this process is called decomposition.
 
 --- task ---
 What behaviour will your first sprite have? You need to think about **what** you want your sprite to do and **when** it will do it. 
@@ -18,7 +18,7 @@ You might have lots of ideas. Just choose one of them to start with.
 --- /task ---
 
 --- task ---
-Describe what the sprite will do in words. Tell a friend or someone in your family. 
+Describe what the sprite will do in words. Tell a friend or family member.
 
 --- /task ---
 
@@ -45,52 +45,53 @@ if <condition>
 end
 ```
 
-If more than one sprite or the stage is involved then you may need to use event blocks:
+If more than one sprite or the stage is involved in the interaction then you may need to use event blocks:
+
+```blocks3
+broadcast :: events
+```
+and:
 
 ```blocks3
 when I receive :: events
 
 ```
-OR
-
-```blocks3
-broadcast :: events
-```
-
 --- /task ---
 
 --- task ---
-Add the blocks to make your sprite do **what** you want it to do. Go to blocks you now know or use a How to... to help you. Or you can revist step 3: [Investigate digital cards](https://learning-admin.raspberrypi.org/en/projects/digital-card/2) and See inside.
+Add the blocks to make your sprite do **what** you want it to do. Go to blocks you now know or use a How to... to help you. Or you can revist step 3: [Investigate digital cards](https://learning-admin.raspberrypi.org/en/projects/digital-card/2) to See inside projects.
 
 --- /task ---
 
-**Tip:** Have a go. It won’t break. Some of the best ideas come from playing. 
+**Tip:** Have a go. Your computer won’t break!
 
-**Tip:** You will come across good ideas by accident.
+**Tip:** Some of the best ideas come from playing. You will come across good ideas by accident.
 
 --- task ---
 Test your new code. Is it running as you imagined? 
 
-**Tip:** You can drag some of your blocks away and add them back one at a time to help you understand what your code is doing.
+**Tip:** You can drag some of your blocks away from the script but keep them within the Code area and add them back one at a time to help you understand what your code is doing.
+
+**Tip:** If your code runs when it detects another sprite touching it then you can just drag the other sprite on the stage to test it. 
+
+**Add: scratch-testingcode-dragbloc/dragspritek**
 
 **Tip:** If your code uses a `when I receive [event]` block you can click on the `broadcast [event]` block to test it. 
-
-**Tip:** If your code runs when it detects another sprite touching then you can just drag the other sprite on the stage to test it. 
 
 --- /task ---
 
 --- task ---
-Show someone else you project and tell them what you’ve done and what your plans  are. Ask for their honest feedback. You might want to improve your project.
+Show someone else your project and tell them what you’ve done and what your plans are. Ask for their honest feedback. You might want to improve your project based on their feedback.
 --- /task ---
 
-**Tip:** It’s ok to change your mind. Be clear about what you’re aiming for.
+**Tip:** It’s ok to change your mind but always be clear about what you’re aiming for.
 
 --- task ---
 What’s your next step? It might be to develop the sprites’s behaviour. It might be to add code to another sprite. 
 
 If you have used a `when I receive [event]` block then you may want to add `broadcast [event]` block to another sprite (or the other way around).
 
-Are you stuck for ideas? Take a look at the Scratch Studio and don’t forget to look at the See inside.
+Are you stuck for ideas? Take a look at the Scratch Studio and don’t forget to look at step 3: [Investigate digital cards](https://learning-admin.raspberrypi.org/en/projects/digital-card/2) for ideas.
 
 If you have finished or don't have much time left then carry on to the next step to share your card.
 --- /task ---
