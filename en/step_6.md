@@ -55,7 +55,7 @@ if  <condition ::  operators> :: control
 
 For example, a condition which always checks whether one sprite is touching another sprite or a condition which always checks if `x` `is > than`{:class="block3operators"} `100`.
 
-If more than one sprite or the stage is involved in the interaction then you may need to use the `Events`{:class="block3events"} block `broadcast`{:class="block3events"} to send a message:
+If more than one sprite or the stage is involved in the interaction then you may need to use the `broadcast`{:class="block3events"} block to send a message:
 
 ```blocks3
 broadcast ( v):: events
@@ -68,7 +68,9 @@ when I receive ( v):: events
 --- /task ---
 
 --- task ---
-Add the blocks to make your sprite do **what** you want it to do. Go to blocks you now know and use a [How to...](https://learning-admin.raspberrypi.org/en/projects/digital-card/4){:target=”_blank”} to remind yourself about block options.
+Add the blocks you need to make your sprite do **what** you want it to do. 
+
+Go to blocks you now know and use a [How to...](https://learning-admin.raspberrypi.org/en/projects/digital-card/4){:target=”_blank”} to remind yourself about block options.
 
 --- /task ---
 
@@ -77,7 +79,7 @@ Add the blocks to make your sprite do **what** you want it to do. Go to blocks y
 **Tip:** Some of the best ideas come from playing. You will come across good ideas by accident.
 
 --- task ---
-Test your new code. Is it running as you imagined? For example:
+Test your new code. Is it running as you imagined? Here are some useful debugging tips:
 
 + You can drag some of your blocks away from the script but keep them within the Code area and add them back one at a time to help you understand what your code is doing.
 
