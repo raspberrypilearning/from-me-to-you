@@ -4,7 +4,7 @@ You will create an digital, interactive card to send to someone to cheer them up
 
 You have a range of skills which you have learnt during the Look After Yourself projects.
 
-You will now choose some of the skills you have learnt to make your very own, original project independently.
+You will now choose some of the skills you have learnt to independently make your very own, original project.
 
 ### What you will make
 
