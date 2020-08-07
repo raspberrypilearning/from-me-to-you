@@ -4,11 +4,9 @@ You will create a digital, interactive card to send to someone to cheer them up 
 
 You have a range of skills which you have learnt during the Look After Yourself projects.
 
-You will now choose some of the skills you have learnt to independently make your very own, original project.
-
 ### What you will make
 
-In this Independent pathway, you will choose some of the skills you have learnt to make your very own, original project.
+In this project, you will now choose some of those skills to independently make your very own, original digital card.
 
 --- no-print ---
 Below is an example of a digital card. Click anywhere to make the rocket ship fly. What happens if the rocket ship flies into the star?
