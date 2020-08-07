@@ -1,12 +1,10 @@
 ## Introduction
 
-You will create an interactive card to send to someone to cheer them up or help them celebrate an occasion. You will decide who to make a card for and will look at cards that others have made to get ideas.
+You will create an digital card to send to someone to cheer them up or help them celebrate an occasion. You will decide who to make a card for and will look at cards that others have made to get ideas.
 
-You will use the skills you have learnt in the Look After Yourself Learning Journey which included Skills projects on being kind to yourself and others. 
+In the Challenge projects - [Looping sprites](https://learning-admin.raspberrypi.org/en/projects/looping-sprites),  [Stamping app](https://learning-admin.raspberrypi.org/en/projects/stamping-app) and [Same but different](https://learning-admin.raspberrypi.org/en/projects/same-but-different) - you used the skills you developed in the Skills pathway to create your own projects.
 
-In the [Challenge] projects - [Looping sprites](https://learning-admin.raspberrypi.org/en/projects/looping-sprites), [Stamping app](https://learning-admin.raspberrypi.org/en/projects/stamping-app) and [Same but different](https://learning-admin.raspberrypi.org/en/projects/same-but-different) - you used your skills to create your own projects.
-
-You now have a range of skills. In this Independent project you will choose some of those skills to use to make your very own project which is different to all other digital card projects.
+You now have a range of skills which you have learnt during the Looks After Yourself Learning Journey. In this Independent project you will choose some of those skills to use to make your very own, original project.
 
 ### What you will make
 
@@ -28,17 +26,15 @@ title: What you will need
 ---
 ### Hardware
 
-+ Describe hardware here
++ A Computer or tablet capable of running Scratch
 
 ### Software
 
 + Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
 
 ### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+**TAKE OUT?  + Download the project [starter file](http://rpf.io/p/en/serene-scene-go){:target="_blank"} if working offline**
 
 --- /collapse ---
 
@@ -58,8 +54,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/digital-card/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+**TAKE OUT?  [Here is a link to the resources for this project](http://rpf.io/digital-card-go).**
 
 --- /collapse ---
