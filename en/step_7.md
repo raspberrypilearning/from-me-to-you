@@ -1,6 +1,6 @@
-## Ingredients to help you make
+## How to...
 
-Here are some ingredients that remind you how to do useful things. 
+Use the many 'How to...' below to remind you how to do useful things. 
 
  create a button to communicate with another sprite 
 
