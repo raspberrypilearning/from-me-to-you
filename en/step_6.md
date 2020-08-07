@@ -51,6 +51,10 @@ forever :: control
 if  <condition ::  operators> :: control 
 ```
 
+Add ingredient.
+
+For example a condition which checks whether one sprite is touching another sprite or when `x` `is > than`{:class="block3operators"} `100`.
+
 If more than one sprite or the stage is involved in the interaction then you may need to use event block:
 
 ```blocks3
@@ -74,13 +78,13 @@ Add the blocks to make your sprite do **what** you want it to do. Go to blocks y
 **Tip:** Some of the best ideas come from playing. You will come across good ideas by accident.
 
 --- task ---
-Test your new code. Is it running as you imagined? 
+Test your new code. Is it running as you imagined? For example:
 
-**Tip:** You can drag some of your blocks away from the script but keep them within the Code area and add them back one at a time to help you understand what your code is doing.
++ You can drag some of your blocks away from the script but keep them within the Code area and add them back one at a time to help you understand what your code is doing.
 
-**Tip:** If your code runs when it detects another sprite touching it then you can just drag the other sprite on the stage to test it. 
++ If your code runs when it detects another sprite touching it then you can just drag the other sprite on the stage to test it. 
 
-**Tip:** If your code uses a `when I receive`{:class="block3event"} block you can click on the `broadcast`{:class="block3event"} block to test it. 
++ If your code uses a `when I receive`{:class="block3events"} block you can click on the `broadcast`{:class="block3events"} block to test it. 
 
 **Add: scratch-testingcode-dragblock/dragsprite/broadcast**
 
@@ -95,7 +99,7 @@ Show someone else your project and tell them what you’ve done and what your pl
 --- task ---
 What’s your next step? It might be to develop the sprites’s behaviour. It might be to add code to another sprite. 
 
-If you have used a `when I receive`{:class="block3event"} block then you may want to add `broadcast`{:class="block3event"}  block to another sprite (or the other way around).
+If you have used a `when I receive`{:class="block3events"} block then you may want to add `broadcast`{:class="block3events"}  block to another sprite (or the other way around).
 
 Are you stuck for ideas? Take a look at the Scratch Studio and don’t forget to look at step 3: [Investigate digital cards](https://learning-admin.raspberrypi.org/en/projects/digital-card/2) to See inside.
 
