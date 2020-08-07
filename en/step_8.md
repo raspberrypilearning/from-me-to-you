@@ -27,6 +27,9 @@ Completed the Instructions, Notes and Credits in the Scratch Project page
 --- task ---
 Shared my project with someone I care about
 --- /task ---
+--- task ---
+Generated ideas for a new project which I plan to make
+--- /task ---
 
 Demonstrating these skills will contribute to the [Scratch Beginner]() and [Citizen Maker]() badges. 
 
