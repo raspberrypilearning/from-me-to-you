@@ -63,8 +63,7 @@ broadcast :: events
 and:
 
 ```blocks3
-when I receive :: events
-
+when I receive ( v):: events
 ```
 --- /task ---
 
