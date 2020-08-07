@@ -55,12 +55,12 @@ Add ingredient.
 
 For example a condition which checks whether one sprite is touching another sprite or when `x` `is > than`{:class="block3operators"} `100`.
 
-If more than one sprite or the stage is involved in the interaction then you may need to use event block:
+If more than one sprite or the stage is involved in the interaction then you may need to use the `Events`{:class="block3events"} block `broadcast`{:class="block3events"}:
 
 ```blocks3
-broadcast :: events
+broadcast ( v):: events
 ```
-and:
+and add the following block to a sprite or backdrop to recieve the broadcast:
 
 ```blocks3
 when I receive ( v):: events
