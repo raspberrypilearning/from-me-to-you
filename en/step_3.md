@@ -15,7 +15,7 @@ Investigate the **You are a star** Scratch project.
   <iframe src="https://scratch.mit.edu/projects/410071125/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/410071125/editor/){:target="_blank"}
+Click `See inside`{:class="block3motion"} to investigate how it has been made.
 
 --- /task ---
 
@@ -28,7 +28,7 @@ Investigate the **Interactive card** Scratch project.
   <iframe src="https://scratch.mit.edu/projects/72110460/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/72110460/editor/){:target="_blank"}
+Click `See inside`{:class="block3motion"} to investigate how it has been made.
 
 --- /task ---
 
@@ -39,6 +39,6 @@ Investigate the **Mother's Day Interactive Card** Scratch project.
   <iframe src="https://scratch.mit.edu/projects/61339728/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/61339728/editor/){:target="_blank"}
+Click `See inside`{:class="block3motion"} to investigate how it has been made.
 
 --- /task ---
