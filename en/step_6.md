@@ -51,9 +51,9 @@ forever :: control
 if  <condition ::  operators> :: control 
 ```
 
-Add ingredient.
+**Add scratch-condition ingredient**
 
-For example a condition which checks whether one sprite is touching another sprite or when `x` `is > than`{:class="block3operators"} `100`.
+For example, a condition which always checks whether one sprite is touching another sprite or a condition which always checks if `x` `is > than`{:class="block3operators"} `100`.
 
 If more than one sprite or the stage is involved in the interaction then you may need to use the `Events`{:class="block3events"} block `broadcast`{:class="block3events"} to send a message:
 
