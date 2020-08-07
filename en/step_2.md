@@ -2,7 +2,8 @@
 
 **Digital making** is learning about technology by making things. Digital making starts with an idea of something to make. The idea for this project is a digital, interactive card that you can send to someone. It's best to start small and simple and keep adding to your project until you're happy with it.  
 
-The process looks like this:
+The process looks like this: **When we have the agreed graphic to represent the Framework we may put it here!**
+
 
 ```blocks3
 when green flag clicked
