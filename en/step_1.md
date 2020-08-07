@@ -2,7 +2,7 @@
 
 You will create an digital, interactive card to send to someone to cheer them up or help them celebrate an occasion or for any other reason - it's up to  you. You will decide who to make the card for and, to help you develop your ideas, you will investigate cards that others have made.
 
-You now have a range of skills which you have learnt during the Look After Yourself Learning Journey. You developed skills during the Skills pathway and then, in the Projects Challenge pathway ([Looping sprites](https://learning-admin.raspberrypi.org/en/projects/looping-sprites), [Stamping app](https://learning-admin.raspberrypi.org/en/projects/stamping-app) and [Same but different](https://learning-admin.raspberrypi.org/en/projects/same-but-different)) you created your own projects using those skills.
+You now have a range of skills which you have learnt during the Look After Yourself Learning Journey. During the Skills pathway you developed your skills and then, in the Projects Challenge pathway ([Looping sprites](https://learning-admin.raspberrypi.org/en/projects/looping-sprites), [Stamping app](https://learning-admin.raspberrypi.org/en/projects/stamping-app) and [Same but different](https://learning-admin.raspberrypi.org/en/projects/same-but-different)), you created your own projects using those skills.
 
 ### What you will make
 
