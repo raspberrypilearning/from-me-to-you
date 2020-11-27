@@ -1,4 +1,4 @@
-## Reflect on your project
+## Reflect
 How did you get on with your Digital card project?
 
 In this project you have:
