@@ -49,6 +49,8 @@ And you may need a `forever`{:class="block3control"} loop that keeps running blo
 when green flag clicked
 forever :: control
 ```
+--- /task ---
+
 --- task ---
 Add the blocks you need to make your sprite do **what** you want it to do. 
 
@@ -84,4 +86,5 @@ Step 5, [How to...](https://learning-admin.raspberrypi.org/en/projects/digital-c
 
 If you have finished or don't have much time left then carry on to the next step to share your card.
 --- /task ---
+
 --- save ---
