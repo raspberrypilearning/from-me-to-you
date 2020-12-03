@@ -8,17 +8,7 @@ You have a range of skills which you have learnt during the Look After Yourself 
 
 In this project, you will now choose some of those skills to independently make your very own, original digital card.
 
---- no-print ---
-Below is an example of a digital card. Click anywhere to make the rocket ship fly. What happens if the rocket ship flies into the star?
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/408916353/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
 ![Complete project](images/showcase_static.png)
---- /print-only ---
 
 --- collapse ---
 ---
