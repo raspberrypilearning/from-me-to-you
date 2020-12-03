@@ -1,10 +1,20 @@
-## Develop the interaction
-Now you're going to make your digital card do something to make it interactive. 
+## Make
+Now you're going to make your digital card. 
 
 You need to break up your project up into parts so you can develop each part, one at a time. In computing, this process is called decomposition.
 
 --- task ---
-What behaviour will your first sprite have? You need to think about **what** you want your sprite to do and **when** it will do it. 
+If you haven't already chosen a backdrop and added sprites then start now. You can use costumes and backdrops from the library or use the Paint editor to create your own. 
+
+Add one or more sprites that you think you will use in your card. Don't worry you can always change, delete or add more sprites later as you develop your ideas. 
+
+You don't need to add everything at once, you might want to add code to one sprite before you paint a costume for another. 
+--- /task ---
+
+--- task ---
+What will your first sprite do? You need to think about **what** you want your sprite to do and **when** it will do it. 
+
+Describe what the sprite will do in words. Tell a friend or family member.
 
 Examples:
 "When you click the green flag the donut will start bouncing around"
@@ -14,25 +24,10 @@ Examples:
 "When you click on the green flag the THANK YOU message will switch between bigger and smaller sizes"
 
 You might have lots of ideas. Just choose one of them to start with.
-
 --- /task ---
 
 --- task ---
-Describe what the sprite will do in words. Tell a friend or family member.
-
---- /task ---
-
---- task ---
-Add a backdrop that fits with your theme. 
---- /task ---
-
---- task ---
-Add one or more sprites that you think you will use in your card. Don't worry you can always change, delete or add more sprites later as you develop your ideas. 
---- /task ---
-
---- task ---
-Add the blocks that you need to decide **when** your sprite will do something. 
-
+Add the blocks for **when** your sprite should do something. 
 
 ```blocks3
 when green flag clicked
@@ -40,6 +35,8 @@ when green flag clicked
 when this sprite clicked
 
 ```
+
+These blocks have a different shape, they are sometimes called **Hat blocks** and they start code running when a particular event happens. 
 
 You could also use a `wait`{:class="block3control"} block to add a delay before running other blocks.
 
@@ -54,13 +51,15 @@ forever :: control
 --- task ---
 Add the blocks you need to make your sprite do **what** you want it to do. 
 
-Go to blocks you now know and use a [How to...](https://learning-admin.raspberrypi.org/en/projects/digital-card/4){:target=”_blank”} to remind yourself about block options.
+Go to blocks you now know and use a [How to...](https://learning-admin.raspberrypi.org/en/projects/digital-card/4){:target=”_blank”} to remind yourself what you can do.
 
 --- /task ---
 
 **Tip:** Have a go. Your computer won’t break!
 
 **Tip:** Some of the best ideas come from playing. You will come across good ideas by accident.
+
+**Tip**: You can add code to the backdrop too.
 
 --- task ---
 Test your new code. Is it running as you imagined? Here are some useful debugging tips:
