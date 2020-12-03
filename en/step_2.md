@@ -9,7 +9,7 @@ The process looks like this:
 <mark>When we have the agreed graphic to represent the Framework we may put it here!</mark>
 
 ```blocks3
-when I receive [idea]
+when I receive [idea v]
 forever
 imagine :: custom
 make :: custom
