@@ -1,7 +1,7 @@
 ## Reflect
 How did you get on with your Digital card project?
 
-In this project you have:
+Mark the tasks you have completed:
 
 --- task ---
 Come up with original design ideas to create a project for someone specific
@@ -13,7 +13,7 @@ Investigated other projects to help me get ideas
 Used the skills I have learnt to turn my ideas into code
 --- /task ---
 --- task ---
-Refered to How to... when I needed help
+Referred to Information when I needed help
 --- /task ---
 --- task ---
 Created a project independently with very little support
