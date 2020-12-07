@@ -6,10 +6,6 @@ Click on your Scratch project's **See Project Page** where you can fill in more 
 
 Fill in the instructions to explain how to use your digital card as well as complete the Notes & Credits.
 
-[[[notes-credit-scratch]]]
-
-[[[comments-feedback-scratch]]]
-
 **Add in: scratch-sharing-instructions Notes & Credit**
 
 --- /task ---
@@ -17,16 +13,12 @@ Fill in the instructions to explain how to use your digital card as well as comp
 --- task ---
 Share your Scratch project.
  
- [[[share-scratch]]]
-
 **Add in: scratch-sharing-commenting safely**
 
 --- /task ---
 
 --- task ---
 Use the project's unique web address to send to the person you made the digital card for.
-
- [[[share-webaddress-scratch]]]
 
 **Add in: scratch-sharing-webaddress/add tip about seeing projects on mobile device**
 
