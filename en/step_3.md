@@ -8,7 +8,7 @@ Don't forget to click `See inside`{:class="block3motion"} to investigate how the
 --- task ---
 Looking at projects that other people have made is a good way to get started. 
 
-Investigate the [Digital cards](https://scratch.mit.edu/studios/27073994){:target=”_blank”} or try these projects:
+Investigate the [Digital cards](https://scratch.mit.edu/studios/27073994){:target=”_blank”} in the Scratch studio or try the same projects below:
 
 **Space thank you**: [See inside](https://scratch.mit.edu/projects/456062813/editor){:target="_blank"}
 
@@ -35,4 +35,3 @@ Investigate the [Digital cards](https://scratch.mit.edu/studios/27073994){:targe
 
 --- /task ---
 
-All the above projects can also be accessed from the [Digital cards](https://scratch.mit.edu/studios/27073994){:target=”_blank”} Scratch studio. 
