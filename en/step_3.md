@@ -7,11 +7,9 @@ The digital card that you make will be different to the ones that other people h
 Take a look at some Digital card projects that have been made using skills that you have learnt during the Looking after yourself projects.
 
 Whilst you are exploring, ask yourself:
-+ Who has the card been made for? 
-+ What is the theme of the card?
++ Can you guess who the card been made for? 
 + How has the digital maker communicated the theme?
-+ How have they made the card personal?
-+ How are text or audio messages accessed?
++ How does the user access the text or audio message?
 + What is the user interaction in the cards? It might be event blocks and/or a variable slider?
 
 Don't forget to click `See inside`{:class="block3motion"} to investigate how the projects have been made.
