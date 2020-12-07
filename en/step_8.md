@@ -12,7 +12,7 @@ Investigated other projects to help me get ideas
 --- /task ---
 
 --- task ---
-Broke down my project tasks into manageable parts which I completed part by part
+Broke down my project into smaller parts which I developed one at a time.
 --- /task ---
 
 --- task ---
