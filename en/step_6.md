@@ -31,6 +31,13 @@ You might have lots of ideas. Just choose one of them to start with.
 
 Add the blocks for **when** your sprite should do something. 
 
+--- collapse ---
+---
+
+title: Event blocks
+
+---
+
 ```blocks3
 when green flag clicked
 
@@ -48,22 +55,18 @@ And you may need a `forever`{:class="block3control"} loop that keeps running blo
 when green flag clicked
 forever :: control
 ```
+--- /collapse ---
+
 --- /task ---
 
 --- task ---
 Add the blocks you need to make your sprite do **what** you want it to do. 
-
-Go to blocks you now know and use a [How to...](https://learning-admin.raspberrypi.org/en/projects/digital-card/4){:target=”_blank”} to remind yourself what you can do.
-
---- /task ---
 
 **Tip:** Have a go. Your computer won’t break!
 
 **Tip:** Some of the best ideas come from playing. You will come across good ideas by accident.
 
 **Tip**: You can add code to the backdrop too.
-
---- task ---
 
 Use snippets of information to remind yourself how to do useful things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch) guide.
 
@@ -72,14 +75,25 @@ Use snippets of information to remind yourself how to do useful things in Scratc
 --- task ---
 Test your new code. Is it running as you imagined? Here are some useful debugging tips:
 
+--- collapse ---
+---
+
+title: Debugging tools
+
+---
+
 + You can click on block in the Menu and run it. You could try some `graphic effects`{:class="block3looks"} blocks to see what you like and then use `clear graphic effects`{:class="block3looks"} to make your sprite normal again.
 
 + You can drag some of your blocks away from the script but keep them within the Code area and add them back one at a time to help you understand what your code is doing.
 
+--- /collapse ---
+
 --- /task ---
 
 --- task ---
+
 Show someone else your project and tell them what you’ve done and what your plans are. Ask for their honest feedback. You might want to improve your project based on their feedback.
+
 --- /task ---
 
 **Tip:** It’s ok to change your mind but always be clear about what you’re aiming for.
@@ -89,7 +103,8 @@ What’s your next step? It might be to develop the sprites’s behaviour. It mi
 
 Are you stuck for ideas? Don’t forget to look at step 3: [Investigate](https://learning-admin.raspberrypi.org/en/projects/digital-card/2){:target=”_blank”} and `See inside`{:class="block3motion"} some projects.
 
-If you have finished or don't have much time left then carry on to the next step to share your card.
+If you have finished or don't have much time left then carry on to the next step to share your digital card.
+
 --- /task ---
 
 --- save ---
