@@ -11,6 +11,14 @@ Decide who your interactive card is for. What do they like?
 --- /task ---
 
 --- task ---
-Choose a theme for your project. It could be under the sea, space, a party, nature or something completely different. 
+
+What's the occasion?  It could be  a birthday or anniversary; an annual day of celebration such as Valentine's Day; a religious holiday; or something else?
+
+--- /task ---
+
+--- task ---
+
+Choose a theme for your project. The theme could follow an occasion or be something different such as under the sea, space, a party, nature or something completely different. 
+
 --- /task ---
 
