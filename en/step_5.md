@@ -1,10 +1,6 @@
 ## Information
 
-Use the many tips below to remind you 'How to...' do useful things in Scratch. Keep coming back to this step when you get stuck or are looking for inspiration.
-
-**Caitlyn to add list of ingredients here in Sept in categories such as Graphics, Debugging, Sharing etc**
-
-<mark>Would this actually be better as a separate page (or pages) outside the project that we link to so that learners can have it open in a separate tab and also access it when they want to make independent projects in the future? Then it could be linked to from within the Make step and the Share step. Needs some UX work.</mark>
+Use snippets of information to remind yourself how to do useful things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch) guide. Here's a few snippets from the guide to start you off:
 
 + [Paint editor](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/6){:target="scratch_guide"}
 + [Useful code](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/4){:target="scratch_guide"}
