@@ -1,5 +1,5 @@
 ## Choose a theme
-You're going to be making a digital card to share with someone special.
+You're going to be making a digital card to share with someone you care about.
 
 --- task ---
 
