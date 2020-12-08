@@ -15,7 +15,7 @@ Decide who your digital card is for. What do they like?
 
 --- task ---
 
-Pick a reason for the digital card. It could be a thank you, a birthday or an anniversary; an annual day of celebration such as World Earth Day; a cultural holiday; or something else.
+Pick a reason for the digital card. It could be a thank you, a birthday or an anniversary; an annual day of celebration such as World Environment Day; a cultural holiday; or something else.
 
 --- /task ---
 
