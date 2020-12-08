@@ -1,10 +1,10 @@
 ## The digital making process
 
-**Digital making** is learning about technology by making things. Digital making starts with an idea of something to make or a problem to be solved. The **idea** for this project is to use Scratch to send a greeting to someone. You can think of this as a 'digital card'.
+**Digital making** is learning about digital technology by making things. Digital making starts with an idea of something to make or to address an issue using digital technology. 
 
-<mark>Better wording that focuses on the problem? You want to communicate with someone and let them know you are thinking of them. It doesn't have to be a digital card exactly, but there's so much variety in what a digital card can be that this isn't really constraining.</mark> 
+The **idea** for this project is to send a message to someone particular to let them know you are thinking of them on a special occasion. The message needs to be accessed via a webpage link. Because the message is made in Scratch with graphics, interaction, sound and available to access online, you can think of this message as a **digital card**.
 
-The process looks like this: 
+The digital making process looks like this: 
 
 <mark>When we have the agreed graphic to represent the Framework we may put it here!</mark>
 
@@ -17,6 +17,15 @@ use :: custom
 reflect :: custom
 ```
 
+```blocks3
+when green flag clicked
+forever
+imagine :: custom
+investigate :: custom
+make :: custom
+reflect :: custom
+share :: custom
+```
 + **imagine** part of your project, you can go straight to Scratch or use paper if you prefer,
 + **make** it using Code, Sounds and the Paint Editor, 
 + **use** it to test and see if it works, you may also want to show someone else and get their feedback,
