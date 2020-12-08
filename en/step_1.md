@@ -40,6 +40,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
+You can [download the completed project here](https://rpf.io/p/en/digital-card-get).
+
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/digital-card/print){:target="_blank"}.
 
 --- /collapse ---
