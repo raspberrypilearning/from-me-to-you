@@ -30,8 +30,8 @@ title: What you will learn
 ---
 
 + How to come up with original design ideas to create a project for someone specific
-+ How to use the skills you have learnt to turn your ideas into code
-+ How to use the feedback of others in your development process
++ How to breakdown a project into smaller tasks and what order to do them in
++ How to explain how to use the project online via a web address
 
 --- /collapse ---
 
