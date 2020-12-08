@@ -1,6 +1,6 @@
 ## The digital making process
 
-**Digital making** is learning about digital technology by making things. It starts with an idea of something to make or an issue to address.
+**Digital making** is learning about digital technology by making things. It starts with an idea of something to make and/or an issue to address.
 
 The **idea** for this project is to send a message to someone particular to let them know you are thinking of them. The message will be accessed via a webpage link. Because the message is made in Scratch with graphics, interaction, sound and available to access online, you can think of this message as a **digital card**.
 
