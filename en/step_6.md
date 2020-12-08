@@ -13,7 +13,9 @@ Fill in the instructions to explain how to use your digital card as well as comp
 --- task ---
 Share your Scratch project.
  
-**Add in: scratch-sharing-commenting safely**
+ [[[share-scratch]]]
+ 
+[[[comments-feedback-scratch]]]
 
 --- /task ---
 
