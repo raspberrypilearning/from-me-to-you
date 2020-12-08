@@ -16,6 +16,6 @@ interact :: custom
 + **imagine** and investigate for part of your project, you can go straight to Scratch or use paper if you prefer;
 + **make** it using Code, Sounds and the Paint Editor;
 + **interact** with it to test and see if it works, reflect on your project, you may also want to show someone else and get their feedback;
-+ go round again, either refining what you have made so far or adding more.  
++ go round again, either by refining what you have made so far or adding more.  
 
 **Tip**: It's best to start small and simple and keep adding to your project until you're happy with it or you run out of time. You can always add more later. 
