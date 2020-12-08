@@ -4,13 +4,13 @@ The digital card that you make will be different to the ones that other people h
 
 --- task ---
 
-Take a look at some digital card projects that have been made using skills that you have learnt during the Looking after yourself pathway.
+Take a look at some digital card projects that have been made using skills that you have learnt during the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself) pathway.
 
-Whilst you are exploring, ask yourself:
+Whilst you are exploring the projects, ask yourself:
 + Can you tell what message is being sent? 
-+ How does the user access the text or audio message?
++ How does the user access the text and/or audio message?
 
-Is it easy to know what to do? If not click on the `See Project Page`{:class="block3motion"} to investigate how the projects have been made.
+Is it easy to know what to do? If not click on the `See Project Page`{:class="block3motion"} and read the **Instructions** section.
 
 Investigate the [Digital cards](https://scratch.mit.edu/studios/27073994){:target=”_blank”} in the Scratch studio or try the same projects below:
 
