@@ -22,7 +22,7 @@ Use the project's unique web address to send to the person you made the digital 
 
 **Add in: scratch-sharing-webaddress/add tip about seeing projects on mobile device**
 
-**Tip:** You can play Scratch projects on a mobile device even if the screen is too small to use to create projects. 
+**Tip:** You can access completed Scratch projects on a computer or mobile device. 
 
 --- /task ---
 
