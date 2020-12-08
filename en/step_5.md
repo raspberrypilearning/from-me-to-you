@@ -3,6 +3,8 @@ Now you're going to make your digital card project.
 
 You need to break up your project up into smaller parts so you can develop each part, one at a time. In computing, this process is called **decomposition**.
 
+As you work your way through your digital project, remind yourself how to do things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch) guide. 
+
 --- task ---
 If you haven't already chosen a backdrop and added sprites then start now. You can use costumes and backdrops from the libraries or use the Paint editor to create your own. 
 
@@ -28,16 +30,24 @@ You might have lots of ideas. Just choose one of them to start with.
 --- /task ---
 
 --- task ---
+Do you need to paint a new costume for your sprite? 
 
 As you work your way through your digital project, remind yourself how to do things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch){:target="scratch_guide"} guide. 
 
-Here's some to start you off:
+You might find it useful to use the text tool in the paint editor to write a short message: 
+
+--- collapse ---
+---
+title: Using the text tool
+---
+
+<mark>Text tool, fonts, resizing, centering.</mark>
+
+--- /collapse ---
+
+You can also use any other paint tool skills you have learned:
 
 + [Paint editor](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/6){:target="scratch_guide"}
-+ [Useful code](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/4){:target="scratch_guide"}
-+ [Block reference](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/5){:target="scratch_guide"}
-+ [Backpack](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/9){:target="scratch_guide"}
-+ [Sharing and commenting](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/10){:target="scratch_guide"}
 
 --- /task ---
 
@@ -46,7 +56,7 @@ Add the blocks for **when** your sprite should do something.
 
 --- collapse ---
 ---
-title: Hat blocks
+title: Starting code with hat blocks
 ---
 
 ```blocks3
@@ -68,7 +78,12 @@ forever :: control
 
 --- task ---
 
-Add the blocks you need to make your sprite do **what** you want it to do. 
+Add the blocks you need to make your sprite do **what** you want it to do.
+
+You can use any of the skills you have learnt:
+
++ [Useful code](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/4){:target="scratch_guide"}
++ [Block reference](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/5){:target="scratch_guide"}
 
 --- /task ---
 
