@@ -29,7 +29,7 @@ You might have lots of ideas. Just choose one of them to start with.
 
 --- task ---
 
-As you work your way through your digital project, remind yourself how to do things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch) guide. 
+As you work your way through your digital project, remind yourself how to do things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch){:target="scratch_guide"} guide. 
 
 Here's some to start you off:
 
