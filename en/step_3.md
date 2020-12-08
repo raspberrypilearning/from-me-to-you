@@ -25,13 +25,12 @@ Investigate the [Digital cards](https://scratch.mit.edu/studios/27073994){:targe
 </div>
 
 **World Environment Day**: [See Project Page](https://scratch.mit.edu/projects/460628546){:target="_blank"}
-<mark>Update to only use concepts from LAY1-3</mark>
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/460628546/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 **Happy Birthday!**: [See Project Page](https://scratch.mit.edu/projects/460632311)
-<mark>Update to only use concepts from LAY1-3</mark>
+<mark>Update to only use concepts fromLAY1-3</mark>
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/460632311/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
