@@ -1,27 +1,27 @@
 ## Choose a theme
-You're going to be making a digital card to share with someone specific who you care about.
+Now decide who you will make your digital card for, the reason for making it and what it will look like.
 
 --- task ---
 
-Open a new Scratch project or use a pen and paper. You will be using either or both to sketch out your ideas. 
+Open a new Scratch project or use a pen and paper. Use either or both to sketch out your ideas. 
 
 --- /task ---
 
 --- task ---
 
-Decide who your interactive card is for. What do they like?
+Decide who your digital card is for. What do they like?
 
 --- /task ---
 
 --- task ---
 
-Pick an occasion? It could be a birthday or anniversary; an annual day of celebration such as Valentine's Day; a religious holiday; or something else.
+Pick a reason for the digital card. It could be a thank you, a birthday or an anniversary; an annual day of celebration such as World Earth Day; a cultural holiday; or something else.
 
 --- /task ---
 
 --- task ---
 
-Choose a theme that they will like. The theme could follow the occasion or be something totally different such as under the sea, space, a party, nature or something completely else. 
+Choose a theme that they will like such as under the sea, space, a party, nature or something completely else. 
 
 --- /task ---
 
