@@ -1,16 +1,12 @@
 ## Make
 Now you're going to make your digital card project. 
 
-You need to break up your project up into smaller parts so you can develop each part, one at a time. In computing, this process is called **decomposition**.
+Start small and add more to your project if you have time. You will need to decide on what to do first and what to save for later. You might want to add code to one sprite before you paint a costume for another. 
 
 As you work your way through your digital project, remind yourself how to do things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch) guide. 
 
 --- task ---
-If you haven't already chosen a backdrop and added sprites then start now. You can use costumes and backdrops from the libraries or use the Paint editor to create your own. 
-
-Add the basic sprites that you think you need for your digital card. Don't worry you can always change, delete or add more sprites later as you develop your ideas. 
-
-You don't need to add everything at once. For instance, you might want to add code to one sprite before you paint a costume for another. 
+If you haven't already chosen a backdrop and added sprites then start now. You can always add more later including using the paint editor to make your own. 
 --- /task ---
 
 --- task ---
@@ -18,21 +14,15 @@ What will your first sprite do? You need to think about **what** you want your s
 
 Describe what the sprite will do in words. Tell a friend or family member.
 
-Examples:
-+ "When you click the green flag the donut will start bouncing around"
-+ "When you click on the penguin it will get the fisheye effect and play a whistle sound"
-+ "2 seconds after clicking the green flag the squirrel will make a squeak sound and start bouncing around"
+For example:
 + "When you click on the number 1 it will get brighter"
-+ "When you click on the green flag the THANK YOU message will switch between bigger and smaller sizes"
 
 You might have lots of ideas. Just choose one of them to start with.
 
 --- /task ---
 
 --- task ---
-Do you need to paint a new costume for your sprite? 
-
-As you work your way through your digital project, remind yourself how to do things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch){:target="scratch_guide"} guide. 
+You can use sprites from the Scratch library including the letter and number sprites.
 
 You might find it useful to use the text tool in the paint editor to write a short message: 
 
@@ -52,7 +42,21 @@ You can also use any other paint tool skills you have learned:
 --- /task ---
 
 --- task ---
-Add the blocks for **when** your sprite should do something.
+Do you need to add sounds to a sprite or to the Stage?
+
+You can record a spoken message if you like:
+
+--- collapse ---
+---
+title: Recording a sound
+---
+
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+Add a block for **when** your sprite should do something.
 
 --- collapse ---
 ---
@@ -91,8 +95,6 @@ You can use any of the skills you have learnt:
 
 **Tip:** Some of the best ideas come from playing. You will come across good ideas by accident.
 
-**Tip**: You can add code to the backdrop too.
-
 --- task ---
 Test your new code. Is it running as you imagined? Here are some useful debugging tips:
 
@@ -120,7 +122,7 @@ Show someone else your project and tell them what you’ve done and what your pl
 **Tip:** It’s ok to change your mind but always be clear about what you’re aiming for.
 
 --- task ---
-What’s your next step? It might be to develop the sprites’s behaviour. It might be to add code to another sprite. 
+What’s your next step? It might be to add more code to your sprite. It might be to add code to another sprite. It might be to record a sound or paint a new costume. 
 
 Are you stuck for ideas? Don’t forget to look at step 3: [Investigate](https://learning-admin.raspberrypi.org/en/projects/digital-card/2){:target=”_blank”} and `See inside`{:class="block3motion"} some projects.
 
