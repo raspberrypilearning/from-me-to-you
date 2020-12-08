@@ -17,11 +17,11 @@ What will your first sprite do? You need to think about **what** you want your s
 Describe what the sprite will do in words. Tell a friend or family member.
 
 Examples:
-"When you click the green flag the donut will start bouncing around"
-"When you click on the penguin it will get the fisheye effect and play a whistle sound"
-"2 seconds after clicking the green flag the squirrel will make a squeak sound and start bouncing around"
-"When you click on the number 1 it will get brighter"
-"When you click on the green flag the THANK YOU message will switch between bigger and smaller sizes"
++ "When you click the green flag the donut will start bouncing around"
++ "When you click on the penguin it will get the fisheye effect and play a whistle sound"
++ "2 seconds after clicking the green flag the squirrel will make a squeak sound and start bouncing around"
++ "When you click on the number 1 it will get brighter"
++ "When you click on the green flag the THANK YOU message will switch between bigger and smaller sizes"
 
 You might have lots of ideas. Just choose one of them to start with.
 
@@ -29,9 +29,9 @@ You might have lots of ideas. Just choose one of them to start with.
 
 --- task ---
 
-## Information
+As you work your way through your digital project, remind yourself how to do things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch) guide. 
 
-As you work your way through your digital project, use snippets of information to remind yourself how to do useful things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch) guide. Here's a few snippets from the guide to start you off:
+Here's some to start you off:
 
 + [Paint editor](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/6){:target="scratch_guide"}
 + [Useful code](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/4){:target="scratch_guide"}
@@ -42,28 +42,21 @@ As you work your way through your digital project, use snippets of information t
 --- /task ---
 
 --- task ---
-
-Add the blocks for **when** your sprite should do something. 
+Add the blocks for **when** your sprite should do something.
 
 --- collapse ---
 ---
-
-title: Event blocks
-
+title: Hat blocks
 ---
 
 ```blocks3
 when green flag clicked
-
 when this sprite clicked
-
 ```
 
-These blocks have a different shape, they are sometimes called **Hat blocks** and they start code running when a particular event happens. 
-
-You could also use a `wait`{:class="block3control"} block to add a delay before running other blocks.
-
-And you may need a `forever`{:class="block3control"} loop that keeps running blocks.
+These blocks have a different shape, they are sometimes called **Hat blocks** and they start code running when a particular event happens.
+You could also use a `wait`{:class=“block3control”} block to add a delay before running other blocks.
+And you may need a `forever`{:class=“block3control”} loop that keeps running blocks.
 
 ```blocks3
 when green flag clicked
@@ -74,17 +67,16 @@ forever :: control
 --- /task ---
 
 --- task ---
+
 Add the blocks you need to make your sprite do **what** you want it to do. 
+
+--- /task ---
 
 **Tip:** Have a go. Your computer won’t break!
 
 **Tip:** Some of the best ideas come from playing. You will come across good ideas by accident.
 
 **Tip**: You can add code to the backdrop too.
-
-Use snippets of information to remind yourself how to do useful things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch) guide.
-
---- /task ---
 
 --- task ---
 Test your new code. Is it running as you imagined? Here are some useful debugging tips:
