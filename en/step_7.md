@@ -20,11 +20,7 @@ Used  the skills I have learnt to turn my ideas into code
 --- /task ---
 
 --- task ---
-Used the skills I have learnt to turn my ideas into code
---- /task ---
-
---- task ---
-Sourced the relevant Information when I needed help
+Sourced the relevant information when I needed help
 --- /task ---
 
 --- task ---
@@ -36,17 +32,15 @@ Used the feedback of others in my development process
 --- /task ---
 
 --- task ---
-Filled in the Instructions, Notes and Credits in the Scratch Project page
+Filled in the Instructions, Notes and Credits in the Scratch Project Page
 --- /task ---
 
 --- task ---
-Shared my project with someone I care about
+Shared my project with someone
 --- /task ---
 
 --- task ---
 Generated ideas for a new project which I plan to make
 --- /task ---
-
-Demonstrating these skills will contribute to the [Scratch Beginner]() and [Citizen Maker]() badges. 
 
 You can go back and improve your project whenever you have time.
