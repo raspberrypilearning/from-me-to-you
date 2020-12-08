@@ -30,7 +30,7 @@ when green flag clicked
 forever
 imagine :: custom
 make :: custom
-reflect :: custom
+use :: custom
 ```
 + **imagine** part of your project, you can go straight to Scratch or use paper if you prefer,
 + **make** it using Code, Sounds and the Paint Editor, 
