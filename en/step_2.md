@@ -11,11 +11,11 @@ when green flag clicked
 forever
 imagine :: custom
 make :: custom
-use :: custom
+interact :: custom
 ```
-+ **imagine** and investigate for part of your project, you can go straight to Scratch or use paper if you prefer,
-+ **make** it using Code, Sounds and the Paint Editor, 
-+ **use** it to test and see if it works, reflect on it, you may also want to show someone else and get their feedback,
++ **imagine** and investigate for part of your project, you can go straight to Scratch or use paper if you prefer;
++ **make** it using Code, Sounds and the Paint Editor;
++ **interact** it to test and see if it works, reflect on it, you may also want to show someone else and get their feedback;
 + go round again, either improving what you have made so far or adding more.  
 
 **Tip**: It's best to start small and simple and keep adding to your project until you're happy with it or you run out of time. You can always add more later. 
