@@ -14,24 +14,23 @@ Is it easy to know what to do? If not click on the `See Project Page`{:class="bl
 
 Investigate the [Digital cards](https://scratch.mit.edu/studios/27073994){:target=”_blank”} in the Scratch studio or try the same projects below:
 
-**Space thank you**: [See inside](https://scratch.mit.edu/projects/456062813){:target="_blank"}
-
+**Space thank you**: [See Project Page](https://scratch.mit.edu/projects/456062813){:target="_blank"}
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/456062813/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**Happy New Year**: [See inside](https://scratch.mit.edu/projects/455910740){:target="_blank"}
+**Happy New Year**: [See Project Page](https://scratch.mit.edu/projects/455910740){:target="_blank"}
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/455910740/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**Interactive card**: [See inside](https://scratch.mit.edu/projects/72110460){:target="_blank"}
+**Interactive card**: [See Project Page](https://scratch.mit.edu/projects/72110460){:target="_blank"}
 <mark>Update to only use concepts from LAY1-3</mark>
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/72110460/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**Mother's Day Interactive Card**: [See inside](https://scratch.mit.edu/projects/61339728)
+**Mother's Day Interactive Card**: [See Project Page](https://scratch.mit.edu/projects/61339728)
 <mark>Update to only use concepts from LAY1-3</mark>
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/61339728/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
