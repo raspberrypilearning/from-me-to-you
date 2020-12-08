@@ -1,6 +1,6 @@
 ## Introduction
 
-You will create a digital, interactive card to send to someone to cheer them up or help them celebrate an occasion or for any other reason - it's up to you. You will decide who you will make the card for and, to help you develop your ideas, you will investigate cards that others have made.
+You will create a digital card to send to someone to cheer them up or help them celebrate an occasion or for any other reason - it's up to you. You will decide who you will make the card for and, to help you develop your ideas, you will investigate cards that others have made.
 
 You have a range of skills which you have learnt during the Look after yourself pathway.
 
