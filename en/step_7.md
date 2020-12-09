@@ -4,7 +4,7 @@ How did you get on with your digital card project?
 Mark the tasks you have completed:
 
 --- task ---
-Come up with original design ideas to create a project for someone specific
+Came up with original design ideas to create a project for someone specific
 --- /task ---
 
 --- task ---
@@ -12,15 +12,11 @@ Investigated other projects to help me get ideas
 --- /task ---
 
 --- task ---
-Broke down my project into smaller parts which I developed one at a time.
+Decided on a small part of my project to make first and then added more
 --- /task ---
 
 --- task ---
-Used  the skills I have learnt to turn my ideas into code
---- /task ---
-
---- task ---
-Sourced the relevant information when I needed help
+Looked at relevant information when I needed help
 --- /task ---
 
 --- task ---
