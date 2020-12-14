@@ -33,7 +33,7 @@ Before you start this project, we recommend that you complete the first three pr
 + [Butterfly garden](https://projects.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}
 + [Serene scene](https://projects.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
 
-And also complete the Design projects
+Also we recommend you complete the Design projects:
 + [Interactive animation](https://projects.raspberrypi.org/en/projects/interactive-animation){:target="_blank"}
 + [3D scene](https://projects.raspberrypi.org/en/projects/3d-scene){:target="_blank"}
 
