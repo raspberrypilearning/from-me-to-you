@@ -26,6 +26,30 @@ title: What you will need
 
 --- collapse ---
 ---
+title: Skills you should have
+---
+Before you start this project, we recommend that you complete the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway: 
++ [Stress ball](https://projects.raspberrypi.org/en/projects/stress-ball){:target="_blank"}
++ [Butterfly garden](https://projects.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}
++ [Serene scene](https://projects.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
+
+And also complete the Design projects
++ [Interactive animation](https://projects.raspberrypi.org/en/projects/interactive-animation){:target="_blank"}
++ [3D scene](https://projects.raspberrypi.org/en/projects/3d-scene){:target="_blank"}
+
+For this project, you need to know how to:  
++ Add code to sprites and a backdrop
++ Customise sprites in the Paint editor
++ Add `graphic effects`{:class="block3looks"}, `motion`{:class="block3motion"}, and `sound`{:class="block3sound"} to a sprite
++ Use the `forever`{:class="block3control"} block
++ Use the `next costume`{:class="block3looks"} and `wait`{:class="block3control"} blocks to animate a sprite
++ Make a `variable`{:class="block3control"}, turn it into a slider with a range, and use it as an input to a block
++ Use `layers`{:class="block3looks"} blocks to move sprites in front of or behind other sprites
+
+--- /collapse ---
+
+--- collapse ---
+---
 title: What you will learn
 ---
 
