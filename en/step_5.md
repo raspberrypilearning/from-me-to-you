@@ -10,21 +10,32 @@ If you haven't already chosen a backdrop and added sprites then start now. You c
 --- /task ---
 
 --- task ---
-What will your first sprite do? You need to think about **what** you want your sprite to do and **when** it will do it. 
 
-Describe what the sprite will do in words. Tell a friend or family member.
+Think about **what** you want to say in your message.
+
+--- /task ---
+
+--- task ---
+
+Describe the connection between a sprite, your message and the user interaction.
 
 For example:
-+ "When you click on the number 1 it will get brighter"
++ "When you click on a sprite the message appears as text in a next costume"
+
++ "When you click on a sprite you can hear the message spoken"
+
+Write this idea down or tell a friend or family member. It's easier when you can 
 
 You might have lots of ideas. Just choose one of them to start with.
 
 --- /task ---
 
+You need to think about **how** you are going to say your message. You can either use **graphic text** or **sound**.
+
 --- task ---
 You can use sprites from the Scratch library including the letter and number sprites.
 
-You might find it useful to use the text tool in the paint editor to write a short message: 
+You might find it useful to use the text tool in the Paint editor to write a short message: 
 
 --- collapse ---
 ---
