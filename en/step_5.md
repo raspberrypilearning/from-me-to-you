@@ -11,26 +11,26 @@ If you haven't already chosen a backdrop and added sprites then start now. You c
 
 --- task ---
 
-Think about **what** you want to say in your message.
+Think about **what** you want to say in your message in your digitial card.
 
 --- /task ---
 
 --- task ---
 
-Describe the connection between a sprite, your message and the user interaction.
+Now think about the connection between a sprite, your message and the user's interaction.
 
 For example:
-+ "When you click on a sprite the message appears as text in a next costume"
++ "When the user click on a sprite my message appears as text"
 
-+ "When you click on a sprite you can hear the message spoken"
++ "When the user clicks on a sprite you can hear me say my message"
 
-Write this idea down or tell a friend or family member. It's easier when you can 
+Write your initial idea down or tell a friend or family member. It's easier when you can explain what your ideaa is.
 
-You might have lots of ideas. Just choose one of them to start with.
+You might have lots of other ideas. Just choose the initial idea to start with.
 
 --- /task ---
 
-You need to think about **how** you are going to say your message. You can either use **graphic text** or **sound**.
+You now need to think about **how** you are going to say your message. You can either use **graphic text** or **sound**.
 
 --- task ---
 You can use sprites from the Scratch library including the letter and number sprites.
