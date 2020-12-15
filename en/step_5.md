@@ -20,7 +20,7 @@ Think about **what** you want to say in your message in your digitial card.
 Now think about how the user will interact with your project.
 
 For example:
-+ "When the user clicks on the green flag a sprite moves"
++ "When the user clicks on the green flag, a sprite moves"
 
 + "When the user clicks on the sprite, the sprite gets brighter"
 
@@ -30,7 +30,7 @@ You might have lots of other ideas. Start with the initial idea first.
 
 --- /task ---
 
-You now need to think about **how** you are going to say your message. You can either add your message as **sprites** or **sound**.
+You now need to think about **how** you are going to say your message. You can either add your message as **a sprite or a series of sprites** or **sound**.
 
 --- task ---
 You can choose sprites from the Scratch library by searching for **letters** and **numbers**.
