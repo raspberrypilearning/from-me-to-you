@@ -42,7 +42,11 @@ You might find it useful to use the **Text** tool in the Paint editor to write a
 title: Using the Text tool in the Paint editor
 ---
 
-<mark>Text tool, fonts, resizing, centering.</mark>
+Select the **Text** tool
+
+from-me-text-tool.png
+
+fonts, resizing, centering.</mark>
 
 --- /collapse ---
 
