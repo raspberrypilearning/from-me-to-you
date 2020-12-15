@@ -33,7 +33,7 @@ You might have lots of other ideas. Start with the initial idea first.
 You now need to think about **how** you are going to say your message. You can either add your message as a **sprite/sprites** or a **sound**.
 
 --- task ---
-You can **Choose a Sprite** from the Scratch library by selecting **Letters** or searching for **numbers**:
+You can go to **Choose a Sprite** and select **Letters** from the Sprite library or search for **numbers**:
 ![Show Choose a Sprite letters/numbers](images/from-me-letters-numbers.png){:width="1500px"}
 
 You might find it useful to use the **Text** tool in the Paint editor to write a short message: 
