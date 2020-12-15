@@ -86,7 +86,7 @@ You can record a spoken message if you like:
 title: Recording a sound
 ---
 
-Select the sprite you want to add the sound to. Click on its **Sound** tab and select **Record**:
+Select the sprite you want to add recorded sound to. Click on its **Sound** tab and select **Record**:
 ![Show Record](images/from-me-record.png){:width="200px"}
 
 Begin recording by clikcing the red button:
@@ -95,9 +95,9 @@ Begin recording by clikcing the red button:
 Stop record by clicking the red square:
 ![Show stop  Record](images/from-me-stop-sound.png){:width="200px"}
 
-You can **re-record**, **play** or **save** your sound.
+You can now **re-record**, **play** the recroding and **save** your sound.
 
-You might want to name your sound:
+Name your sound:
 ![Show name sound](images/from-me-name-sound.png){:width="300px"}
 
 --- /collapse ---
