@@ -89,13 +89,13 @@ title: Recording a sound
 Select the sprite you want to add recorded sound to. Click on its **Sound** tab and select **Record**:
 ![Show Record](images/from-me-record.png){:width="200px"}
 
-Begin recording by clikcing the red button:
+Start recording by clicking the red circle button:
 ![Show play Record](images/from-me-start-sound.png){:width="200px"}
 
-Stop record by clicking the red square:
+Stop recording by clicking the red square button:
 ![Show stop  Record](images/from-me-stop-sound.png){:width="200px"}
 
-You can now **re-record**, **play** the recroding and **save** your sound.
+You can now **re-record**, **play** the recording and/or **save** your sound.
 
 Name your sound:
 ![Show name sound](images/from-me-name-sound.png){:width="300px"}
