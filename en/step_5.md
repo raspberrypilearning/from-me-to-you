@@ -24,9 +24,9 @@ For example:
 
 + "When the user clicks on the sprite you can hear me say my message"
 
-Write your initial idea down or tell a friend or family member. It's easier when you can explain what your idea is.
+Write your initial idea down or tell a friend or family member. It's easier to make when you can explain what your idea is.
 
-You might have lots of other ideas. Start with the initial idea first.
+You might have lots of other ideas. Start with this initial idea first.
 
 --- /task ---
 
