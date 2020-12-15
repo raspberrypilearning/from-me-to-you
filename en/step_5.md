@@ -51,7 +51,7 @@ Select the **Text** tool:
 
 Click on the Paint editor and start typing.
 
-Select the font dropdown to change the text font:
+Select the font you want by clicking the drop-down:
 ![Show Font](images/from-me-text-font.png){:width="300px"}
 
 Click on the **Arrow** tool and select your text. Drag the corner handles to resize your text:
