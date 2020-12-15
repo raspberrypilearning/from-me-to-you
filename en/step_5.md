@@ -42,11 +42,23 @@ You might find it useful to use the **Text** tool in the Paint editor to write a
 title: Using the Text tool in the Paint editor
 ---
 
-Select the **Text** tool
+Select the first colour you want for your text.
 
-from-me-text-tool.png
+![Show Fill colour](images/from-me-fill-colour.png){:width="400px"}
 
-fonts, resizing, centering.</mark>
+Select the **Text** tool:
+
+![Show Text tool](images/from-me-text-tool.png){:width="400px"}
+
+Click on the Paint editor and start typing your message.
+
+Select the font dropdown to change the text font:
+![Show Font](images/from-me-text-font.png){:width="400px"}
+
+Click on the **Arrow** tool and select your message. Drag the corner handles to resize your message.
+![Show Arrow tool and resize handles](images/from-me-arrow-resize.png){:width="400px"}
+
+Centre
 
 --- /collapse ---
 
