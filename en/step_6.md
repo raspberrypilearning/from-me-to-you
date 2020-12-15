@@ -13,7 +13,7 @@ Fill in the instructions to explain how to use your digital card as well as comp
 --- task ---
 Share your Scratch project.
  
- [[[share-scratch]]]
+[[[share-scratch]]]
  
 [[[comments-feedback-scratch]]]
 
