@@ -17,7 +17,7 @@ Think about **what** you want to say in your message in your digitial card.
 
 --- task ---
 
-Now think about the user interaction.
+Now think about how the user will interact with your project.
 
 For example:
 + "When the user clicks on the green flag a sprite moves"
@@ -94,6 +94,26 @@ forever :: control
 --- task ---
 
 Add the blocks you need to make your sprite do **what** you want it to do.
+
+For example, in the New Year project, the small firework has the code:
+
+```blocks3
+when flag clicked
+set size to (70)%
+go to [back v] layer
+set volume to (40)%
+point in direction (-35)
+```
+
+and, 
+
+```blocks3
+when this sprite clicked
+start sound (Rip v)
+forever
+move (8) steps
+if on edge, bounce
+```
 
 You can use any of the skills you have learnt:
 
