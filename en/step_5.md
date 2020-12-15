@@ -47,7 +47,7 @@ Select the first colour you want for your text:
 ![Show Fill colour](images/from-me-fill-colour.png){:width="150px"}
 
 Select the **Text** tool:
-![Show Text tool](images/from-me-text-tool.png){:width="1500px"}
+![Show Text tool](images/from-me-text-tool.png){:width="150px"}
 
 Click on the Paint editor and start typing.
 
@@ -65,7 +65,7 @@ If you want each word in your message to be a different colour, size and font th
 Position your text and/or group of words with the **Arrow** tool at the centre of the Paint editor:
 
 Layer your words using the **Forward** and **Backward** tools:
-![Show forward/backward](images/from-me-paint-editor-forward-backward.png){:width="300px"}
+![Show forward/backward](images/from-me-paint-editor-forward-backward.png){:width="400px"}
 
 --- /collapse ---
 
