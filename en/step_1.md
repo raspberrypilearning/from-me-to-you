@@ -54,7 +54,7 @@ title: What you will learn
 ---
 
 + How to come up with original design ideas to create a project for someone specific
-+ How to breakdown a project into smaller tasks and what order to do them in
++ How to breakdown a project into smaller tasks and decide what order to do them in
 + How to explain how to use the project online via a web address
 
 --- /collapse ---
