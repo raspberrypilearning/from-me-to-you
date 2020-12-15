@@ -34,7 +34,7 @@ You now need to think about **how** you are going to say your message. You can e
 
 --- task ---
 You can go to **Choose a Sprite** and select **Letters** from the Sprite library or search for **numbers**:
-![Show Choose a Sprite letters/numbers](images/from-me-letters-numbers.png){:width="1500px"}
+![Show Choose a Sprite letters/numbers](images/from-me-letters-numbers.png){:width="150px"}
 
 You might find it useful to use the **Text** tool in the Paint editor to write a short message: 
 
@@ -87,18 +87,18 @@ title: Recording a sound
 ---
 
 Select the sprite you want to add the sound to. Click on its **Sound** tab and select **Record**:
-![Show Record](images/from-me-record.png){:width="400px"}
+![Show Record](images/from-me-record.png){:width="300px"}
 
 Begin recording by clikcing the red button:
-![Show play Record](images/from-me-start-sound.png){:width="400px"}
+![Show play Record](images/from-me-start-sound.png){:width="300px"}
 
 Stop record by clicking the red square:
-![Show stop  Record](images/from-me-stop-sound.png){:width="400px"}
+![Show stop  Record](images/from-me-stop-sound.png){:width="300px"}
 
 You can **re-record**, **play** or **save** your sound.
 
 You might want to name your sound:
-![Show name sound](images/from-me-name-sound.png){:width="400px"}
+![Show name sound](images/from-me-name-sound.png){:width="300px"}
 
 --- /collapse ---
 
