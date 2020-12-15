@@ -43,28 +43,28 @@ title: Using the Text tool in the Paint editor
 ---
 
 Select the first colour you want for your text:
-![Show Fill colour](images/from-me-fill-colour.png){:width="200px"}
+![Show Fill colour](images/from-me-fill-colour.png){:width="150px"}
 
 Select the **Text** tool:
-![Show Text tool](images/from-me-text-tool.png){:width="200px"}
+![Show Text tool](images/from-me-text-tool.png){:width="1500px"}
 
 Click on the Paint editor and start typing.
 
 Select the font dropdown to change the text font:
-![Show Font](images/from-me-text-font.png){:width="250px"}
+![Show Font](images/from-me-text-font.png){:width="300px"}
 
 Click on the **Arrow** tool and select your text. Drag the corner handles to resize your text:
-![Show Arrow tool and resize handles](images/from-me-arrow-resize.png){:width="250px"}
+![Show Arrow tool and resize handles](images/from-me-arrow-resize.png){:width="300px"}
 
 Do you want to change the **Fill** colour? Select the **Fill (bucket)** tool and hover over your text - it will automatically change colour:
-![Show Fill (bucket) tool](images/from-me-fill-bucket.png){:width="200px"}
+![Show Fill (bucket) tool](images/from-me-fill-bucket.png){:width="150px"}
 
 If you want each word in your message to be a different colour, size and font then go through the process above for each word in your message.
 
 Position your text and/or group of words with the **Arrow** tool at the centre of the Paint editor:
 
 Layer your words using the **Forward** and **Backward** tools:
-![Show forward/backward](images/from-me-paint-editor-forward-backward.png){:width="400px"}
+![Show forward/backward](images/from-me-paint-editor-forward-backward.png){:width="300px"}
 
 --- /collapse ---
 
