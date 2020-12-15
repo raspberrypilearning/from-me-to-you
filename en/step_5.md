@@ -86,6 +86,20 @@ You can record a spoken message if you like:
 title: Recording a sound
 ---
 
+Select the sprite you want to add the sound to. Click on its **Sound** tab and select **Record**:
+![Show Record](images/from-me-paint-record.png){:width="400px"}
+
+Begin recording by clikcing the red button:
+![Show play Record](images/from-me-start-sound.png){:width="400px"}
+
+Stop record by clicking the red square:
+![Show stop  Record](images/from-me-stop-sound.png){:width="400px"}
+
+You can **re-record**, **play** or **save** your sound.
+
+You might want to name your sound:
+![Show name sound](images/from-me-name-sound.png){:width="400px"}
+
 --- /collapse ---
 
 --- /task ---
