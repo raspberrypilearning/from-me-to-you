@@ -6,7 +6,7 @@ Start small and add more to your project if you have time. You will need to deci
 As you work your way through your digital project, remind yourself how to do things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch) guide. 
 
 --- task ---
-If you haven't already chosen a backdrop and added sprites then start now. You can always add more later including using the paint editor to make your own. 
+If you haven't already chosen a backdrop and added a sprite then start now. You can always add more later including using the Paint editor to make your own. 
 --- /task ---
 
 --- task ---
@@ -17,36 +17,36 @@ Think about **what** you want to say in your message in your digitial card.
 
 --- task ---
 
-Now think about the connection between a sprite, your message and the user's interaction.
+Now think about the connection between your chosen sprite, your message and the user's interaction.
 
 For example:
-+ "When the user click on a sprite my message appears as text"
++ "When the user clicks on the sprite my message appears as text"
 
-+ "When the user clicks on a sprite you can hear me say my message"
++ "When the user clicks on the sprite you can hear me say my message"
 
-Write your initial idea down or tell a friend or family member. It's easier when you can explain what your ideaa is.
+Write your initial idea down or tell a friend or family member. It's easier when you can explain what your idea is.
 
-You might have lots of other ideas. Just choose the initial idea to start with.
+You might have lots of other ideas. Start with the initial idea first.
 
 --- /task ---
 
 You now need to think about **how** you are going to say your message. You can either use **graphic text** or **sound**.
 
 --- task ---
-You can use sprites from the Scratch library including the letter and number sprites.
+You can choose sprites from the Scratch library by searching for **letters** and **numbers**.
 
-You might find it useful to use the text tool in the Paint editor to write a short message: 
+You might find it useful to use the **Text** tool in the Paint editor to write a short message: 
 
 --- collapse ---
 ---
-title: Using the text tool
+title: Using the Text tool in the Paint editor
 ---
 
 <mark>Text tool, fonts, resizing, centering.</mark>
 
 --- /collapse ---
 
-You can also use any other paint tool skills you have learned:
+You can also use any other skill and tool from the Paint editor which you have learned:
 
 + [Paint editor](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/6){:target="scratch_guide"}
 
