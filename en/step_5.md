@@ -63,6 +63,7 @@ Do you want to change the **Fill** colour? Select the **Fill (bucket)** tool and
 If you want each word in your message to be a different colour, size and font then go through the process above for each word in your message.
 
 Position your text and/or group of words with the **Arrow** tool at the centre of the Paint editor:
+![Show crosshair](images/from-me-paint-editor-centre.png){:width="400px"}
 
 Layer your words using the **Forward** and **Backward** tools:
 ![Show forward/backward](images/from-me-paint-editor-forward-backward.png){:width="400px"}
