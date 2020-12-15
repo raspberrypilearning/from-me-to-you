@@ -17,20 +17,20 @@ Think about **what** you want to say in your message in your digitial card.
 
 --- task ---
 
-Now think about the connection between your chosen sprite, your message and the user's interaction.
+Now think about the user interaction.
 
 For example:
-+ "When the user clicks on the sprite my message appears as text"
++ "When the user clicks on the green flag a sprite moves"
 
-+ "When the user clicks on the sprite you can hear me say my message"
++ "When the user clicks on the sprite, the sprite gets brighter"
 
-Write your initial idea down or tell a friend or family member. It's easier to make when you can explain what your idea is.
+Write your initial idea down or tell a friend or family member. It's easier to make a project when you can explain what your idea is.
 
-You might have lots of other ideas. Start with this initial idea first.
+You might have lots of other ideas. Start with the initial idea first.
 
 --- /task ---
 
-You now need to think about **how** you are going to say your message. You can either use **graphic text** or **sound**.
+You now need to think about **how** you are going to say your message. You can either add your message as **sprites** or **sound**.
 
 --- task ---
 You can choose sprites from the Scratch library by searching for **letters** and **numbers**.
