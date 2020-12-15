@@ -118,24 +118,22 @@ forever :: control
 
 Add the blocks you need to make your sprite do **what** you want it to do.
 
-For example, in the New Year project, the small firework has the code:
+Here's some code to get you started:
 
 ```blocks3
 when flag clicked
-set size to (70)%
+set size to (50)%
 go to [back v] layer
 set volume to (40)%
-point in direction (-35)
-```
-
-and, 
-
-```blocks3
-when this sprite clicked
-start sound (Rip v)
+point in direction (90)
+set rotation style [don't rotate v]
 forever
-move (8) steps
+move (2) steps
 if on edge, bounce
+
+when this sprite clicked
+change [color v] effect by (25)
+play sound (Pop v) until done
 ```
 
 You can use any of the skills you have learnt:
