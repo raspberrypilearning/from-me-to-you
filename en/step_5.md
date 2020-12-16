@@ -55,7 +55,7 @@ To layer your words, use the **Forward** and **Backward** tools:
 
 --- /collapse ---
 
-You can also use any other skill and tool from the Paint editor that you have learnt:
+You can also use any other skill and tool from the Paint editor that you have learned:
 
 + [Paint editor](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/6){:target="scratch_guide"}
 
@@ -109,7 +109,7 @@ Add a block for **when** your sprite should do something.
 
 --- collapse ---
 ---
-title: Start code with hat blocks
+title: Start code with Hat blocks
 ---
 
 ```blocks3
@@ -153,7 +153,7 @@ change [color v] effect by (25)
 play sound (Pop v) until done
 ```
 
-You can use any of the skills that you have learnt:
+You can use any of the skills that you have learned:
 
 + [Useful code](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/4){:target="scratch_guide"}
 + [Block reference](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/5){:target="scratch_guide"}
