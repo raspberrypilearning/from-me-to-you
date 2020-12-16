@@ -144,6 +144,8 @@ point in direction (90)
 set rotation style [don't rotate v]
 forever
 move (2) steps
+wait (0.1) seconds
+next costume
 if on edge, bounce
 
 when this sprite clicked
