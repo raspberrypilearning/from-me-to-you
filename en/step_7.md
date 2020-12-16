@@ -1,10 +1,10 @@
 ## Reflect
 How did you get on with your digital card project?
 
-Mark the tasks you have completed:
+Mark the tasks that you have completed:
 
 --- task ---
-Came up with original design ideas to create a project for someone specific
+Thought of original design ideas to create a project for someone specific
 --- /task ---
 
 --- task ---
@@ -24,11 +24,11 @@ Created a project independently with very little support
 --- /task ---
 
 --- task ---
-Used the feedback of others in my development process
+Used the feedback of other people in my development process
 --- /task ---
 
 --- task ---
-Filled in the Instructions, Notes and Credits in the Scratch Project Page
+Filled in the **Instructions** and **Notes and Credits** in the Scratch Project Page
 --- /task ---
 
 --- task ---
@@ -36,7 +36,7 @@ Shared my project with someone
 --- /task ---
 
 --- task ---
-Generated ideas for a new project which I plan to make
+Generated ideas for a new project that I plan to make
 --- /task ---
 
 You can go back and improve your project whenever you have time.
