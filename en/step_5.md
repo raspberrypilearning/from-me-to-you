@@ -133,7 +133,7 @@ forever :: control
 
 Add the blocks you need to make your sprite do **what** you want it to do.
 
-Here's some code to get you started:
+Here's some code to get you started, just add what you need for your project.
 
 ```blocks3
 when flag clicked
@@ -170,13 +170,23 @@ Test your new code. Is it running as you imagined? Here are some useful debuggin
 --- collapse ---
 ---
 
-title: Debugging tools
+title: Debugging tips
 
 ---
 
-+ You can click on block in the Menu and run it. You could try some `graphic effects`{:class="block3looks"} blocks to see what you like and then use `clear graphic effects`{:class="block3looks"} to make your sprite normal again.
++ **My sprite is going upside down** - add a `set rotation style to [left-right v]` or `set rotation style to [none v]` block
 
-+ You can drag some of your blocks away from the script but keep them within the Code area and add them back one at a time to help you understand what your code is doing.
++ **My sprite 'jumps' when it changes costume or bounces** - make sure the costume in centered in the Paint editor (line up the blue cross with the crosshair)
+
++ **My sprite stops when it gets to the edge of the Stage** - add an `if on edge, bounce` block.
+
++ **My sound doesn't play** -  Have you added a block to `play the sound` when the sprite is clicked? If you have copied code from another sprite, you will need to add the sound to this sprite from the `Sounds` tab. Check the volume on your computer and make sure you haven't lowered the volume in code, try `set volume to (100)%`.
+
++ **Other sprites keep going in front of my sprite** - Use a `go to [front v] layer` block.
+
++ **My sprite only moves/changes once** - put your code inside a forever loop so it keeps running.
+
++ **My sprite isn't changing when I move a variable slider** - put your code inside a forever block so it keeps updating. 
 
 --- /collapse ---
 
