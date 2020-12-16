@@ -1,31 +1,31 @@
 ## Make
-Now you're going to make your digital card project. 
+Now, you will make your digital card project. 
 
-Start small and add more to your project if you have time. You will need to decide on what to do first and what to save for later. You might want to add code to one sprite before you paint a costume for another. 
+Start small, and add more to your project if you have time. You will need to decide what to do first and what to save for later. You might want to add code to one sprite before you paint a costume for another. 
 
 As you work your way through your digital project, remind yourself how to do things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch) guide. 
 
 --- task ---
-If you haven't already chosen a backdrop and added a sprite then start now. You can always add more later including using the Paint editor to make your own. 
+If you have not already chosen a backdrop and added a sprite, then start now. You can always add more later, including using the Paint editor to make your own. 
 --- /task ---
 
 --- task ---
 
-Think about **what** you want to say in your message in your digitial card.
+Think about **what** you want to say in your message in your digital card.
 
 --- /task ---
 
-You now need to think about **how** you are going to say your message. You can either add your message as a **sprite/sprites** or a **sound**.
+Now, think about **how** you are going to say your message. You can either add your message as a **sprite/sprites** or a **sound**.
 
 --- task ---
-You can go to **Choose a Sprite** and select **Letters** from the Sprite library or search for **numbers**:
+You can go to **Choose a Sprite** and select **Letters** from the Sprite Library or search for `numbers`:
 ![Show Choose a Sprite letters/numbers](images/from-me-letters-numbers.png){:width="150px"}
 
 You might find it useful to use the **Text** tool in the Paint editor to write a short message: 
 
 --- collapse ---
 ---
-title: Using the Text tool in the Paint editor
+title: Use the Text tool in the Paint editor
 ---
 
 Select the first colour you want for your text:
@@ -36,7 +36,7 @@ Select the **Text** tool:
 
 Click on the Paint editor and start typing.
 
-Select the font you want by clicking the drop-down:
+Select the font you want by clicking on the drop-down menu:
 ![Show Font](images/from-me-text-font.png){:width="300px"}
 
 Click on the **Arrow** tool and select your text. Drag the corner handles to resize your text:
@@ -45,42 +45,42 @@ Click on the **Arrow** tool and select your text. Drag the corner handles to res
 Do you want to change the **Fill** colour? Select the **Fill (bucket)** tool and hover over your text - it will automatically change colour:
 ![Show Fill (bucket) tool](images/from-me-fill-bucket.png){:width="150px"}
 
-If you want each word in your message to be a different colour, size and font then go through the process above for each word in your message.
+If you want each word in your message to be a different colour, size, and font, then follow the process above for each word in your message.
 
 Position your text and/or group of words with the **Arrow** tool at the centre of the Paint editor:
 ![Show crosshair](images/from-me-paint-editor-centre.png){:width="400px"}
 
-Layer your words using the **Forward** and **Backward** tools:
+To layer your words, use the **Forward** and **Backward** tools:
 ![Show forward/backward](images/from-me-paint-editor-forward-backward.png){:width="400px"}
 
 --- /collapse ---
 
-You can also use any other skill and tool from the Paint editor which you have learned:
+You can also use any other skill and tool from the Paint editor that you have learnt:
 
 + [Paint editor](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/6){:target="scratch_guide"}
 
 --- /task ---
 
 --- task ---
-Do you need to add sounds to a sprite or to the Stage?
+Do you need to add sounds to a **sprite** or to the **Stage**?
 
 You can record a spoken message if you like:
 
 --- collapse ---
 ---
-title: Recording a sound
+title: Record a sound
 ---
 
-Select the sprite you want to add recorded sound to. Click on its **Sound** tab and select **Record**:
+Select the sprite that you want to add recorded sound to. Click on its **Sound** tab and select **Record**:
 ![Show Record](images/from-me-record.png){:width="200px"}
 
-Start recording by clicking the red circle button:
+To start recording, click the red circle button:
 ![Show play Record](images/from-me-start-sound.png){:width="200px"}
 
-Stop recording by clicking the red square button:
+To stop recording, click the red square button:
 ![Show stop  Record](images/from-me-stop-sound.png){:width="200px"}
 
-You can now **re-record**, **play** the recording and/or **save** your sound.
+You can now **re-record**, **play** the recording, and/or **save** your sound.
 
 Name your sound:
 ![Show name sound](images/from-me-name-sound.png){:width="300px"}
@@ -91,7 +91,7 @@ Name your sound:
 
 --- task ---
 
-Now think about how the user will interact with your project.
+Now, think about how the user will interact with your project.
 
 For example:
 + "When the user clicks on the green flag, a sprite moves"
@@ -109,7 +109,7 @@ Add a block for **when** your sprite should do something.
 
 --- collapse ---
 ---
-title: Starting code with hat blocks
+title: Start code with hat blocks
 ---
 
 ```blocks3
@@ -118,8 +118,8 @@ when this sprite clicked
 ```
 
 These blocks have a different shape, they are sometimes called **Hat blocks** and they start code running when a particular event happens.
-You could also use a `wait`{:class=“block3control”} block to add a delay before running other blocks.
-And you may need a `forever`{:class=“block3control”} loop that keeps running blocks.
+You could also use a `wait`{:class="block3control"} block to add a delay before running other blocks.
+You may also need a `forever`{:class="block3control"} loop that keeps running blocks.
 
 ```blocks3
 when green flag clicked
@@ -131,9 +131,9 @@ forever :: control
 
 --- task ---
 
-Add the blocks you need to make your sprite do **what** you want it to do.
+Add the blocks that you need to make your sprite do **what** you want it to do.
 
-Here's some code to get you started, just add what you need for your project.
+Here is some code to get you started. Just add what you need for your project.
 
 ```blocks3
 when flag clicked
@@ -153,7 +153,7 @@ change [color v] effect by (25)
 play sound (Pop v) until done
 ```
 
-You can use any of the skills you have learnt:
+You can use any of the skills that you have learnt:
 
 + [Useful code](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/4){:target="scratch_guide"}
 + [Block reference](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/5){:target="scratch_guide"}
@@ -174,19 +174,19 @@ title: Debugging tips
 
 ---
 
-+ **My sprite is going upside down** - add a `set rotation style to [left-right v]`{:class="block3motion"} or `set rotation style to [none v]`{:class="block3motion"} block
++ **My sprite is going upside down** — Add a `set rotation style [left-right v]`{:class="block3motion"} or `set rotation style [none v]`{:class="block3motion"} block.
 
-+ **My sprite 'jumps' when it changes costume or bounces** - make sure the costume is centered in the Paint editor (line up the blue cross with the crosshair)
++ **My sprite 'jumps' when it changes costume or bounces** — Make sure that the costume is centered in the Paint editor (line up the blue cross with the cross hairs).
 
-+ **My sprite stops when it gets to the edge of the Stage** - add an `if on edge, bounce`{:class="block3motion"} block.
++ **My sprite stops when it gets to the edge of the Stage** — Add an `if on edge, bounce`{:class="block3motion"} block.
 
-+ **My sound doesn't play** -  Have you added a block to `play the sound`{:class="block3sound"} when the sprite is clicked? If you have copied code from another sprite, you will need to add the sound to this sprite from the `Sounds`{:class="block3sound"} tab. Check the volume on your computer and make sure you haven't lowered the volume with code, try `set volume to (100)%`{:class="block3sound"}.
++ **My sound does not play** — Have you added a block to `play sound`{:class="block3sound"} when the sprite is clicked? If you have copied code from another sprite, you will need to add the sound to this sprite from the `Sounds`{:class="block3sound"} tab. Check the volume on your computer and make sure that you have not lowered the volume with code — try `set volume to (100)%`{:class="block3sound"}.
 
-+ **Other sprites keep going in front of my sprite** - Use a `go to [front v] layer`{:class="block3looks"} block.
++ **Other sprites keep going in front of my sprite** — Use a `go to [front v] layer`{:class="block3looks"} block.
 
-+ **My sprite only moves/changes once** - put your code inside a forever loop so it keeps running.
++ **My sprite only moves/changes once** — Put your code inside a `forever`{:class="block3control"} loop so it keeps running.
 
-+ **My sprite isn't changing when I move a variable slider** - put your code inside a forever block so it keeps updating. 
++ **My sprite is not changing when I move a variable slider** — Put your code inside a `forever`{:class="block3control"} loop so it keeps updating. 
 
 --- /collapse ---
 
@@ -194,18 +194,18 @@ title: Debugging tips
 
 --- task ---
 
-Show someone else your project and tell them what you’ve done and what your plans are. Ask for their honest feedback. You might want to improve your project based on their feedback.
+Show someone else your project and tell them what you have done and what your plans are. Ask for their honest feedback. You might want to improve your project based on their feedback.
 
 --- /task ---
 
-**Tip:** It’s ok to change your mind but always be clear about what you’re aiming for.
+**Tip:** It's ok to change your mind, but always be clear about what you are aiming for.
 
 --- task ---
-What’s your next step? It might be to add more code to your sprite. It might be to add code to another sprite. It might be to record a sound or paint a new costume. 
+What is your next step? It might be to add more code to your sprite. It might be to add code to another sprite. It might be to record a sound or paint a new costume. 
 
-Are you stuck for ideas? Don’t forget to look at step 3: [Investigate](https://learning-admin.raspberrypi.org/en/projects/digital-card/2){:target=”_blank”} and `See inside`{:class="block3motion"} some projects.
+Are you stuck for ideas? Don't forget to look at step 3: [Investigate](https://learning-admin.raspberrypi.org/en/projects/digital-card/2){:target=”_blank”} and **See inside** some projects.
 
-If you have finished or don't have much time left then carry on to the next step to share your digital card.
+If you have finished or don't have much time left, then move on to the next step to share your digital card.
 
 --- /task ---
 
