@@ -32,10 +32,8 @@ title: Share your Scratch project's web address
 ![Show web address](images/from-me-webaddress.png){:width="400px"}
 
 Now copy the web address. To do this, you can:
-+ write down the webaddress and give it to the person who you've made the digital card for. 
-+ OR you can message via email, whatsapp, email or use a social media platform to share the web address. Copy and paste the web address in the browser search bar. Depending on the device you are using you can copy using the keys **command** and **C**.
-
-Remember, people can see and engagewithyour project on a mobile device**
++ write down the web address and give it to the person who you've made the digital card for. 
++ Or, you can copy the web address and paste it into an email. 
 
 **Tip:** You can access completed Scratch projects on a computer or mobile device. 
 

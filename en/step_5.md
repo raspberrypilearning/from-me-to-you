@@ -15,21 +15,6 @@ Think about **what** you want to say in your message in your digitial card.
 
 --- /task ---
 
---- task ---
-
-Now think about how the user will interact with your project.
-
-For example:
-+ "When the user clicks on the green flag, a sprite moves"
-
-+ "When the user clicks on the sprite, the sprite gets brighter"
-
-Write your initial idea down or tell a friend or family member. It's easier to make a project when you can explain what your idea is.
-
-You might have lots of other ideas. Start with the initial idea first.
-
---- /task ---
-
 You now need to think about **how** you are going to say your message. You can either add your message as a **sprite/sprites** or a **sound**.
 
 --- task ---
@@ -105,6 +90,21 @@ Name your sound:
 --- /task ---
 
 --- task ---
+
+Now think about how the user will interact with your project.
+
+For example:
++ "When the user clicks on the green flag, a sprite moves"
+
++ "When the user clicks on a sprite, the sprite changes colour"
+
+Write your initial idea down or tell a friend or family member. It's easier to make a project when you can explain what your idea is.
+
+You might have lots of other ideas. Start with the initial idea first.
+
+--- /task ---
+
+--- task ---
 Add a block for **when** your sprite should do something.
 
 --- collapse ---
@@ -174,15 +174,15 @@ title: Debugging tips
 
 ---
 
-+ **My sprite is going upside down** - add a `set rotation style to [left-right v]` or `set rotation style to [none v]` block
++ **My sprite is going upside down** - add a `set rotation style to [left-right v]`{:class="block3motion"} or `set rotation style to [none v]`{:class="block3motion"} block
 
-+ **My sprite 'jumps' when it changes costume or bounces** - make sure the costume in centered in the Paint editor (line up the blue cross with the crosshair)
++ **My sprite 'jumps' when it changes costume or bounces** - make sure the costume is centered in the Paint editor (line up the blue cross with the crosshair)
 
-+ **My sprite stops when it gets to the edge of the Stage** - add an `if on edge, bounce` block.
++ **My sprite stops when it gets to the edge of the Stage** - add an `if on edge, bounce`{:class="block3motion"} block.
 
-+ **My sound doesn't play** -  Have you added a block to `play the sound` when the sprite is clicked? If you have copied code from another sprite, you will need to add the sound to this sprite from the `Sounds` tab. Check the volume on your computer and make sure you haven't lowered the volume in code, try `set volume to (100)%`.
++ **My sound doesn't play** -  Have you added a block to `play the sound`{:class="block3sound"} when the sprite is clicked? If you have copied code from another sprite, you will need to add the sound to this sprite from the `Sounds`{:class="block3sound"} tab. Check the volume on your computer and make sure you haven't lowered the volume with code, try `set volume to (100)%`{:class="block3sound"}.
 
-+ **Other sprites keep going in front of my sprite** - Use a `go to [front v] layer` block.
++ **Other sprites keep going in front of my sprite** - Use a `go to [front v] layer`{:class="block3looks"} block.
 
 + **My sprite only moves/changes once** - put your code inside a forever loop so it keeps running.
 
