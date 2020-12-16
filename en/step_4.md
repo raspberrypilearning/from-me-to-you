@@ -1,5 +1,5 @@
 ## Choose a theme
-Now decide who you will make your digital card for, the reason for making it and what it will look like.
+Now decide who you will make your digital card for, the reason for making it, and what it will look like.
 
 --- task ---
 
@@ -21,7 +21,7 @@ Pick a reason for the digital card. It could be a thank you, a birthday or an an
 
 --- task ---
 
-Choose a theme that they will like such as under the sea, space, a party, nature or something completely else. 
+Choose a theme that they will like, such as under the sea, space, a party, nature, or something else. 
 
 --- /task ---
 
