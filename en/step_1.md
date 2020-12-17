@@ -20,7 +20,7 @@ title: What you will need
 
 ### Software
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -64,7 +64,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can [download the completed project here](https://rpf.io/p/en/from-me-to-you-get).
+You can [download the completed project here](https://rpf.io/p/en/from-me-to-you-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/from-me-to-you/print){:target="_blank"}.
 
