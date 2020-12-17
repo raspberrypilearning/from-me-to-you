@@ -6,18 +6,18 @@ Click on your Scratch project's **See Project Page** where you can give some **I
 
 --- collapse ---
 ---
-title: Sharing Instructions as well as adding Notes and Credits
+title: Sharing Instructions & Notes and Credits
 ---
 
-In the **Instructions** box, tell people how to use your project such as clicking the green flag to start and which sprites to click on. 
-+ Make sure you include the instructions that the user needs to explore your project fully. 
-+ Make sure your instructions are given step-by-step and are simple. 
-+ The instructions will be easier to read if you list them.
-+ If your project includes sound then let the user know as they may need to wear headphones or turn the volume up on their device to hear the sounds you have included.
+In the **Instructions** box tell people how to use your project:
++ Include all the instructions that the user needs to explore your project fully. 
++ Make sure your instructions are given step-by-step and are simple. Instructions are easier to read if you list them.
++ Include all the user interaction requried such as clicking the green flag to start and which sprites to click on. 
++ Let the user know if the project includes sound as they may need to wear headphones or turn the volume up on their device.
 
-In the **Notes and Credits** box thank the people who created the projects that inspired you. 
-+ You could include the web addess of the projects that inspired you. 
-+ In your own project, did you include images for sprites and/or music or other sounds from elsewhere? If so, credit the sources for these in this box.
+In the **Notes and Credits** box be thankful:
++ Thank the people who created the projects that inspired you. You could even include the web addess of the projects.
++ In your own project, did you include images for sprites and/or music or other sounds which you sourced from another Scratch project or from the World Wide Web? If so, credit the source/s in this box.
 
 --- /collapse ---
 
