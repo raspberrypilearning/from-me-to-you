@@ -2,7 +2,7 @@
 Now, it is time to share your digital card with the person who you made it for. 
 
 --- task ---
-Click on **See Project Page**, where you can add more information. Fill in the **Instructions** to explain how to use your digital card, and complete the **Notes and Credits**.
+Click on **See Project Page**, where you can add more information. Fill in the **Instructions** to explain how to use your digital card, and complete your project's **Notes and Credits**.
 
 --- collapse ---
 ---
