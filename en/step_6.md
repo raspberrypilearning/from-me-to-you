@@ -2,11 +2,24 @@
 Now, it's time to share your digital card with the person who you made it for. 
 
 --- task ---
-Click on your Scratch project's **See Project Page** where you can fill in more information.
+Click on your Scratch project's **See Project Page** where you can give some **Instructions** and other additional information in **Notes and Credits**.
 
-Fill in the instructions to explain how to use your digital card as well as complete the Notes & Credits.
+--- collapse ---
+---
+title: Sharing Instructions as well as adding Notes and Credits
+---
 
-**Add in: scratch-sharing-instructions Notes & Credit**
+In the **Instructions** box, tell people how to use your project such as clicking the green flag to start and which sprites to click on. 
++ Make sure you include the instructions that the user needs to explore your project fully. 
++ Make sure your instructions are given step-by-step and are simple. 
++ The instructions will be easier to read if you list them.
++ If your project includes sound then let the user know as they may need to wear headphones or turn the volume up on their device to hear the sounds you have included.
+
+In the **Notes and Credits** box thank the people who created the projects that inspired you. 
++ You could include the web addess of the projects that inspired you. 
++ In your own project, did you include images for sprites and/or music or other sounds from elsewhere? If so, credit the sources for these in this box.
+
+--- /collapse ---
 
 --- /task ---
 
