@@ -4,7 +4,7 @@ The digital card that you make will be different to the cards that other people 
 
 --- task ---
 
-Look at some digital card projects that have been made using skills that you learned in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself) pathway.
+Look at some digital card projects that have been made using skills that you learned in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway.
 
 Whilst you explore the projects, ask yourself:
 + Can you tell what message is being sent? 
@@ -29,7 +29,7 @@ Investigate some digital cards, which you can find in the [Scratch studio](https
   <iframe src="https://scratch.mit.edu/projects/465299716/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**Happy birthday!**: [See Project Page](https://scratch.mit.edu/projects/460632311)
+**Happy birthday!**: [See Project Page](https://scratch.mit.edu/projects/460632311){:target="_blank"}
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/460632311/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
