@@ -116,14 +116,8 @@ when green flag clicked
 when this sprite clicked
 ```
 
-These blocks have a different shape, they are sometimes called **Hat blocks** and they start code running when a particular event happens.
-You could also use a `wait`{:class="block3control"} block to add a delay before running other blocks.
-You may also need a `forever`{:class="block3control"} loop that keeps running blocks.
+These blocks have a different shape, they are sometimes called **Hat blocks** and they start code running when a particular event, such as a user clicking, happens.
 
-```blocks3
-when green flag clicked
-forever :: control
-```
 --- /collapse ---
 
 --- /task ---
@@ -132,25 +126,9 @@ forever :: control
 
 Add the blocks that you need to make your sprite do **what** you want it to do.
 
-Here is some code to get you started. Just add what you need for your project.
+Choose the blocks you need and drag them underneath a hat block. Put blocks inside a `forever`{:class="block3control"} block if you want them to keep running.
 
-```blocks3
-when flag clicked
-set size to (50)%
-go to [back v] layer
-set volume to (40)%
-point in direction (90)
-set rotation style [don't rotate v]
-forever
-move (2) steps
-wait (0.1) seconds
-next costume
-if on edge, bounce
-
-when this sprite clicked
-change [color v] effect by (25)
-play sound (Pop v) until done
-```
+![Example code blocks](images/example-code-blocks.png)
 
 You can use any of the skills that you have learned:
 
