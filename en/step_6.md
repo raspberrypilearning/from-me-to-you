@@ -6,7 +6,7 @@ Click on your Scratch project's **See Project Page** where you can give some **I
 
 --- collapse ---
 ---
-title: Scratch Instructions and Notes and Credits
+title: Scratch project Instructions and Notes and Credits
 ---
 
 In the **Instructions** box tell people how to use your project:
