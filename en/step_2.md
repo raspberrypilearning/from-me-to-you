@@ -12,8 +12,8 @@ make :: custom
 interact :: custom
 ```
 + **Imagine** what you will make — you can go straight to Scratch or use paper if you prefer
-+ **Make** it using code, sounds, and the Paint editor
++ **Make** it — use code, sounds, and the Paint editor
 + **Interact** with it to **test** and see if it works, show someone else and get their feedback, **reflect** on what you have made and learned 
-+ Go round again, make improvements or add more
++ Work on your project again — make improvements or add more
 
-**Tip:** Start small and simple and keep adding to your project until you are happy with it or you run out of time. 
+**Tip:** Start small and simple, then add to your project until you are happy with it or you run out of time. 
