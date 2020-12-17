@@ -3,7 +3,7 @@ The **idea** for this project is to send a message to someone to let them know t
 
 You will make a **digital card** in Scratch with graphics, interaction, and sound.
 
-You will be able to share your digital card using the **web address** for your Scratch project.
+To share your digital card, you will be able to use the **web address** for your Scratch project.
 
 Now, decide who you will make your digital card for, the reason for making it, and what it will look like.
 
@@ -33,7 +33,7 @@ Pick a reason for sending the digital card. It could be a thank you card; or a c
 
 --- task ---
 
-Choose a theme that they will like, such as under the sea, space, a party, nature, or something else. 
+Think of the person who your card is for, and choose a theme that they will like, such as under the sea, space, a party, nature, or something else. 
 
 --- /task ---
 
