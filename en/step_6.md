@@ -56,7 +56,7 @@ Now, copy the web address. To do this, you can:
 
 --- task ---
 
-Enter your project for Coolest Projects, a online gallery and event giving you the chance to showcase your project under the Scratch category. 
+Enter your project for [Coolest Projects](https://online.coolestprojects.org), a online gallery and event giving you the chance to showcase your project under the Scratch category. 
 
 Then join other young people from all over the world in celebrating and recognising each other’s achievements as a community. 
 
