@@ -16,8 +16,9 @@ Think about **what** you want to say in your message in your digital card.
 --- task ---
 
 Now, think about **how** you are going to say your message. You can either add your message as a **sprite/sprites** or a **sound**.
+
 You can go to **Choose a Sprite** and select **Letters** from the Sprite Library or search for `numbers`:
-![Show Choose a Sprite letters/numbers](images/from-me-letters-numbers.png){:width="150px"}
+![Show Choose a Sprite letters/numbers](images/from-me-letters-numbers.png){:width="300px"}
 
 You could use the **Text** tool in the Paint editor to write a short message: 
 
