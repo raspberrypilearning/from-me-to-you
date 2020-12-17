@@ -1,5 +1,5 @@
 ## Reflect
-How did you get on with your digital card project?
+How did your digital card project go?
 
 Mark the tasks that you have completed:
 
@@ -24,7 +24,7 @@ Created a project independently with very little support
 --- /task ---
 
 --- task ---
-Used the feedback of other people in my development process
+Used feedback from other people in my development process
 --- /task ---
 
 --- task ---
