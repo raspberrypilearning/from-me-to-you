@@ -1,9 +1,7 @@
 ## Make
 Now, you will make your digital card project. 
 
-Start small, and add more to your project if you have time. You will need to decide what to do first and what to save for later. You might want to add code to one sprite before you paint a costume for another. 
-
-As you work your way through your digital project, remind yourself how to do things in Scratch with the [Getting started with Scratch](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch) guide. 
+Start small, and add more to your project if you have time. 
 
 --- task ---
 If you have not already chosen a backdrop and added a sprite, then start now. You can always add more later, including using the Paint editor to make your own. 
@@ -15,13 +13,13 @@ Think about **what** you want to say in your message in your digital card.
 
 --- /task ---
 
-Now, think about **how** you are going to say your message. You can either add your message as a **sprite/sprites** or a **sound**.
-
 --- task ---
+
+Now, think about **how** you are going to say your message. You can either add your message as a **sprite/sprites** or a **sound**.
 You can go to **Choose a Sprite** and select **Letters** from the Sprite Library or search for `numbers`:
 ![Show Choose a Sprite letters/numbers](images/from-me-letters-numbers.png){:width="150px"}
 
-You might find it useful to use the **Text** tool in the Paint editor to write a short message: 
+You could use the **Text** tool in the Paint editor to write a short message: 
 
 --- collapse ---
 ---
@@ -98,9 +96,9 @@ For example:
 
 + "When the user clicks on a sprite, the sprite changes colour"
 
-Write your initial idea down or tell a friend or family member. It's easier to make a project when you can explain what your idea is.
+**Tip:** Write your initial idea down or tell a friend or family member. It's easier to make a project when you can explain what your idea is.
 
-You might have lots of other ideas. Start with the initial idea first.
+You might have lots of other ideas, save them for later.
 
 --- /task ---
 
@@ -160,12 +158,12 @@ You can use any of the skills that you have learned:
 
 --- /task ---
 
-**Tip:** Have a go. Your computer won’t break!
-
 **Tip:** Some of the best ideas come from playing. You will come across good ideas by accident.
 
 --- task ---
-Test your new code. Is it running as you imagined? Here are some useful debugging tips:
+Test your new code. Is it running as you imagined? 
+
+**Debugging** is finding and fixing mistakes in your code which are called **bugs**.
 
 --- collapse ---
 ---
