@@ -15,7 +15,7 @@ Think about **what** you want to say in your message in your digital card.
 
 --- task ---
 
-Now, think about **how** you are going to say your message. You can either add your message as a **sprite/sprites** or a **sound**.
+Now, think about **how** you are going to say your message. You can add your message as either a **sprite/sprites** or a **sound**.
 
 You can go to **Choose a Sprite** and select **Letters** from the Sprite Library or search for `numbers`:
 ![Show Choose a Sprite letters/numbers](images/from-me-letters-numbers.png){:width="300px"}
@@ -27,7 +27,7 @@ You could use the **Text** tool in the Paint editor to write a short message:
 title: Use the Text tool in the Paint editor
 ---
 
-Select the first colour you want for your text:
+Click on the **Fill** colour chooser and select the first colour that you want for your text:
 ![Show Fill colour](images/from-me-fill-colour.png){:width="150px"}
 
 Select the **Text** tool:
@@ -35,18 +35,18 @@ Select the **Text** tool:
 
 Click on the Paint editor and start typing.
 
-Select the font you want by clicking on the drop-down menu:
+Click on the drop-down menu and select the font that you want:
 ![Show Font](images/from-me-text-font.png){:width="300px"}
 
-Click on the **Arrow** tool and select your text. Drag the corner handles to resize your text:
+Click on the **Select (Arrow)** tool and select your text. Drag the corner handles to resize your text:
 ![Show Arrow tool and resize handles](images/from-me-arrow-resize.png){:width="300px"}
 
-Do you want to change the **Fill** colour? Select the **Fill (bucket)** tool and hover over your text - it will automatically change colour:
+Do you want to change the **Fill** colour? Select the **Fill (Bucket)** tool and hover over your text. It will automatically change colour. Click on the text to make the change:
 ![Show Fill (bucket) tool](images/from-me-fill-bucket.png){:width="150px"}
 
 If you want each word in your message to be a different colour, size, and font, then follow the process above for each word in your message.
 
-Position your text and/or group of words with the **Arrow** tool at the centre of the Paint editor:
+Position your text and/or group of words with the cross in the centre of the Paint editor:
 ![Show crosshair](images/from-me-paint-editor-centre.png){:width="400px"}
 
 To layer your words, use the **Forward** and **Backward** tools:
@@ -54,7 +54,7 @@ To layer your words, use the **Forward** and **Backward** tools:
 
 --- /collapse ---
 
-You can also use any other skill and tool from the Paint editor that you have learned:
+You can also use any other skill and tool in the Paint editor that you have learned about:
 
 + [Paint editor](https://projects.raspberrypi.org/en/projects/getting-started-scratch/6){:target="scratch_guide"}
 
@@ -70,7 +70,7 @@ You can record a spoken message if you like:
 title: Record a sound
 ---
 
-Select the sprite that you want to add recorded sound to. Click on its **Sound** tab and select **Record**:
+Select the sprite that you want to add recorded sound to. Click on its **Sounds** tab, go to the menu in the bottom left-hand corner, and select **Record**:
 ![Show Record](images/from-me-record.png){:width="200px"}
 
 To start recording, click the red circle button:
@@ -79,7 +79,7 @@ To start recording, click the red circle button:
 To stop recording, click the red square button:
 ![Show stop  Record](images/from-me-stop-sound.png){:width="200px"}
 
-You can now **re-record**, **play** the recording, and/or **save** your sound.
+You can now **Re-record**, **Play** the recording, and/or **Save** your sound.
 
 Name your sound:
 ![Show name sound](images/from-me-name-sound.png){:width="300px"}
@@ -97,9 +97,9 @@ For example:
 
 + "When the user clicks on a sprite, the sprite changes colour"
 
-**Tip:** Write your initial idea down or tell a friend or family member. It's easier to make a project when you can explain what your idea is.
+**Tip:** Write your main idea down or tell a friend or family member. It is easier to make a project when you can explain what your idea is.
 
-You might have lots of other ideas, save them for later.
+You might have lots of other ideas. Save them for later.
 
 --- /task ---
 
@@ -116,7 +116,7 @@ when green flag clicked
 when this sprite clicked
 ```
 
-These blocks have a different shape, they are sometimes called **Hat blocks** and they start code running when a particular event, such as a user clicking, happens.
+These blocks have a different shape — they are sometimes called **Hat blocks**. They start code running when a particular event happens, such as a user clicking.
 
 --- /collapse ---
 
@@ -151,9 +151,9 @@ title: Debugging tips
 
 ---
 
-+ **My sprite is going upside down** — Add a `set rotation style [left-right v]`{:class="block3motion"} or `set rotation style [none v]`{:class="block3motion"} block.
++ **My sprite is going upside down** — Add a `set rotation style [left-right v]`{:class="block3motion"} or `set rotation style [don't rotate v]`{:class="block3motion"} block.
 
-+ **My sprite 'jumps' when it changes costume or bounces** — Make sure that the costume is centered in the Paint editor (line up the blue cross with the crosshair).
++ **My sprite 'jumps' when it changes costume or bounces** — Make sure that the costume is centered in the Paint editor (line up the blue cross with the cross hairs in the centre of the Paint editor).
 
 + **My sprite stops when it gets to the edge of the Stage** — Add an `if on edge, bounce`{:class="block3motion"} block.
 
@@ -163,7 +163,7 @@ title: Debugging tips
 
 + **My sprite only moves/changes once** — Put your code inside a `forever`{:class="block3control"} block so it keeps running.
 
-+ **My sprite is not changing when I move a variable slider** — Put your code inside a `forever`{:class="block3control"} block so it keeps updating. 
++ **My sprite does not change when I move a variable slider** — Put your code inside a `forever`{:class="block3control"} block so it keeps updating. 
 
 --- /collapse ---
 
@@ -178,9 +178,9 @@ Show someone else your project. Ask for their honest feedback. Can you make impr
 **Tip:** It's ok to change your mind, but always be clear about what you are aiming for.
 
 --- task ---
-What is your next step? It might be to add more code to your sprite. It might be to add code to another sprite. It might be to record a sound or paint a new costume. 
+What is your next step? It might be to add more code to your sprite. It might be to add code to another sprite. It might be to record a sound or create a new costume in the Paint editor. 
 
-Are you stuck for ideas? Don't forget to look at step 3: [Investigate](https://projects.raspberrypi.org/en/projects/from-me-to-you/2){:target=”_blank”} and **See inside** some projects.
+Are you stuck for ideas? Don't forget to look at step 3: [Get inspiration](https://projects.raspberrypi.org/en/projects/from-me-to-you/2){:target="_blank"} and **See inside** some projects.
 
 If you have finished or don't have much time left, then move on to the next step to share your digital card.
 
