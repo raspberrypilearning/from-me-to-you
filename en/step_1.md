@@ -2,11 +2,11 @@
 
 You will create a digital card to send to someone to cheer them up or help them celebrate an occasion, or for any other reason — it's up to you! You will decide who you will make the card for, and to help you develop your ideas, you will investigate cards that other people have made.
 
-You have a range of skills that you learnt in the Look after yourself pathway.
+You have a range of skills that you learned in the Look after yourself pathway.
 
 ### What you will make
 
-In this project, you will choose some of those skills to independently make your own original digital card.
+In this project, you will choose some of those skills and use them to independently make your own original digital card.
 
 ![Complete project](images/showcase_static.png)
 
@@ -35,7 +35,7 @@ Before you start this project, we recommend that you complete the first three Sk
 
 Also, we recommend that you complete the two Design projects:
 + [Interactive animation](https://projects.raspberrypi.org/en/projects/interactive-animation){:target="_blank"}
-+ [3D scene](https://projects.raspberrypi.org/en/projects/3d-scene){:target="_blank"}
++ [3D scene](https://projects.raspberrypi.org/en/projects/3D-scene){:target="_blank"}
 
 For this project, you need to know how to:  
 + Add code to sprites and a backdrop
