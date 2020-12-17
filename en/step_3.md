@@ -1,6 +1,6 @@
 ## Get inspiration
 
-The digital card that you make will be different to the cards that other people have made because you are creating an original project. Looking at projects that other people have made is a good way to get started with your own ideas.
+The digital card that you make will be different to the cards that other people have made because you are creating an original project. You can look at projects that other people have made, to help you start to think of your own ideas.
 
 --- task ---
 
