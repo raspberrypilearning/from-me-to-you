@@ -174,7 +174,7 @@ title: Debugging tips
 
 + **My sprite is going upside down** — Add a `set rotation style [left-right v]`{:class="block3motion"} or `set rotation style [none v]`{:class="block3motion"} block.
 
-+ **My sprite 'jumps' when it changes costume or bounces** — Make sure that the costume is centered in the Paint editor (line up the blue cross with the cross hairs).
++ **My sprite 'jumps' when it changes costume or bounces** — Make sure that the costume is centered in the Paint editor (line up the blue cross with the crosshair).
 
 + **My sprite stops when it gets to the edge of the Stage** — Add an `if on edge, bounce`{:class="block3motion"} block.
 
@@ -182,9 +182,9 @@ title: Debugging tips
 
 + **Other sprites keep going in front of my sprite** — Use a `go to [front v] layer`{:class="block3looks"} block.
 
-+ **My sprite only moves/changes once** — Put your code inside a `forever`{:class="block3control"} loop so it keeps running.
++ **My sprite only moves/changes once** — Put your code inside a `forever`{:class="block3control"} block so it keeps running.
 
-+ **My sprite is not changing when I move a variable slider** — Put your code inside a `forever`{:class="block3control"} loop so it keeps updating. 
++ **My sprite is not changing when I move a variable slider** — Put your code inside a `forever`{:class="block3control"} block so it keeps updating. 
 
 --- /collapse ---
 
@@ -192,7 +192,7 @@ title: Debugging tips
 
 --- task ---
 
-Show someone else your project and tell them what you have done and what your plans are. Ask for their honest feedback. You might want to improve your project based on their feedback.
+Show someone else your project. Ask for their honest feedback. Can you make improvements?
 
 --- /task ---
 
