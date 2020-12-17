@@ -1,23 +1,23 @@
 ## Share
-Now, it's time to share your digital card with the person who you made it for. 
+Now, it is time to share your digital card with the person who you made it for. 
 
 --- task ---
-Click on your Scratch project's **See Project Page** where you can give some **Instructions** and other additional information in **Notes and Credits**.
+Click on **See Project Page**, where you can add more information. Fill in the **Instructions** to explain how to use your digital card, and complete the **Notes and Credits**.
 
 --- collapse ---
 ---
-title: Scratch project Instructions and Notes and Credits
+title: Scratch project: Instructions and Notes and Credits
 ---
 
-In the **Instructions** box tell people how to use your project:
+In the **Instructions** box, tell people how to use your project:
 + Include all the instructions that the user needs to explore your project fully. 
-+ Make sure your instructions are given step-by-step and are simple. Instructions are easier to read if you list them.
-+ Include all the user interaction such as clicking the green flag to start and which sprites to click on. 
-+ Let the user know if the project includes sound as they may need to wear headphones or turn the volume up on their device.
++ Make sure that your instructions are given step by step and are simple. Instructions are easier to read if you list them.
++ Include all the user interaction, such as clicking on the green flag to start, and which sprites to click on. 
++ Let the user know if the project includes sound, as they may need to wear headphones or turn the volume up on their device.
 
 In the **Notes and Credits** box:
-+ Thank the people who created the projects that inspired you. You could even include the web addess of the projects.
-+ Did you include images or sounds which were created by someone else? If so, credit the source/s in this box.
++ Thank the people who created the projects that inspired you. You could even include the web address of the projects.
++ Did you include images or sounds that were created by someone else? If so, credit the source(s) in this box.
 
 --- /collapse ---
 
@@ -33,7 +33,7 @@ Share your Scratch project.
 --- /task ---
 
 --- task ---
-Use the project's unique web address to send to the person who you made the digital card for.
+Use the project's unique web address to send the digital card to the person who you made it for.
 
 --- collapse ---
 ---
