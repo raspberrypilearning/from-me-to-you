@@ -56,7 +56,7 @@ To layer your words, use the **Forward** and **Backward** tools:
 
 You can also use any other skill and tool from the Paint editor that you have learned:
 
-+ [Paint editor](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/6){:target="scratch_guide"}
++ [Paint editor](https://projects.raspberrypi.org/en/projects/getting-started-scratch/6){:target="scratch_guide"}
 
 --- /task ---
 
@@ -154,8 +154,8 @@ play sound (Pop v) until done
 
 You can use any of the skills that you have learned:
 
-+ [Useful code](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/4){:target="scratch_guide"}
-+ [Block reference](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/5){:target="scratch_guide"}
++ [Useful code](https://projects.raspberrypi.org/en/projects/getting-started-scratch/4){:target="scratch_guide"}
++ [Block reference](https://projects.raspberrypi.org/en/projects/getting-started-scratch/5){:target="scratch_guide"}
 
 --- /task ---
 
@@ -202,7 +202,7 @@ Show someone else your project. Ask for their honest feedback. Can you make impr
 --- task ---
 What is your next step? It might be to add more code to your sprite. It might be to add code to another sprite. It might be to record a sound or paint a new costume. 
 
-Are you stuck for ideas? Don't forget to look at step 3: [Investigate](https://learning-admin.raspberrypi.org/en/projects/digital-card/2){:target=”_blank”} and **See inside** some projects.
+Are you stuck for ideas? Don't forget to look at step 3: [Investigate](https://projects.raspberrypi.org/en/projects/from-me-to-you/2){:target=”_blank”} and **See inside** some projects.
 
 If you have finished or don't have much time left, then move on to the next step to share your digital card.
 
