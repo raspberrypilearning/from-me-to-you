@@ -8,7 +8,7 @@ You have a range of skills that you learned in the Look after yourself pathway.
 
 In this project, you will choose some of those skills and use them to independently make your own original digital card.
 
-![Complete project](images/showcase_static.png)
+![Complete project](images/showcase_static.png){:width="500px"}
 
 --- collapse ---
 ---
