@@ -15,7 +15,7 @@ Think about **what** you want to say in your message in your digital card.
 
 --- task ---
 
-Now, think about **how** you are going to say your message. You can add your message as either a **sprite/sprites** or a **sound**.
+Now, think about **how** you will say your message. You can add your message as either a **sprite/sprites** or a **sound**.
 
 You can go to **Choose a Sprite** and select **Letters** from the Sprite Library or search for `numbers`:
 ![Show Choose a Sprite letters/numbers](images/from-me-letters-numbers.png){:width="300px"}
@@ -46,7 +46,7 @@ Do you want to change the **Fill** colour? Select the **Fill (Bucket)** tool and
 
 If you want each word in your message to be a different colour, size, and font, then follow the process above for each word in your message.
 
-Position your text and/or group of words with the cross in the centre of the Paint editor:
+Position your text and/or group of words with the cross hairs in the centre of the Paint editor:
 ![Show crosshair](images/from-me-paint-editor-centre.png){:width="400px"}
 
 To layer your words, use the **Forward** and **Backward** tools:
@@ -126,7 +126,7 @@ These blocks have a different shape — they are sometimes called **Hat blocks**
 
 Add the blocks that you need to make your sprite do **what** you want it to do.
 
-Choose the blocks you need and drag them underneath a hat block. Put blocks inside a `forever`{:class="block3control"} block if you want them to keep running.
+Choose the blocks that you need and drag them underneath a Hat block. Put blocks inside a `forever`{:class="block3control"} block if you want them to keep running.
 
 ![Example code blocks](images/example-code-blocks.png)
 
@@ -137,12 +137,12 @@ You can use any of the skills that you have learned:
 
 --- /task ---
 
-**Tip:** Some of the best ideas come from playing. You will come across good ideas by accident.
+**Tip:** Some of the best ideas come from playing. You will find good ideas by accident.
 
 --- task ---
 Test your new code. Is it running as you imagined? 
 
-**Debugging** is finding and fixing mistakes in your code which are called **bugs**.
+**Debugging** is finding and fixing mistakes in your code that are called **bugs**.
 
 --- collapse ---
 ---
@@ -175,7 +175,7 @@ Show someone else your project. Ask for their honest feedback. Can you make impr
 
 --- /task ---
 
-**Tip:** It's ok to change your mind, but always be clear about what you are aiming for.
+**Tip:** It's ok to change your mind, but always be clear about what you want to make.
 
 --- task ---
 What is your next step? It might be to add more code to your sprite. It might be to add code to another sprite. It might be to record a sound or create a new costume in the Paint editor. 
