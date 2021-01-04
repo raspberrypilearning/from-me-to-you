@@ -11,7 +11,7 @@ title: Scratch project Instructions and Notes and Credits
 
 In the **Instructions** box, tell people how to use your project:
 + Include all the instructions that the user needs to explore your project fully. 
-+ Make sure that your instructions are given step by step and are simple. Instructions are easier to read if you list them.
++ Make sure that your instructions are given step by step and are simple. Instructions are easier to read if you write them in a list.
 + Include all the user interaction, such as clicking on the green flag to start, and which sprites to click on. 
 + Let the user know if the project includes sound, as they may need to wear headphones or turn the volume up on their device.
 
@@ -56,9 +56,7 @@ Now, copy the web address. To do this, you can:
 
 --- task ---
 
-Enter your project for [Coolest Projects](https://online.coolestprojects.org){:target="_blank"}, an online gallery and event giving you the chance to showcase your project under the Scratch category. 
-
-Then join other young people from all over the world in celebrating and recognising each other’s achievements as a community. 
+Register your project for [Coolest Projects](https://online.coolestprojects.org){:target="_blank"}, the world's leading technology fair for young people! Your project will be showcased in the Coolest Projects online gallery, for people all over the world to see. Join other young people in celebrating and recognising each other's achievements as a community. 
 
 --- /task ---
 
