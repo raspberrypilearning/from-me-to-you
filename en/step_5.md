@@ -97,7 +97,7 @@ For example:
 
 + "When the user clicks on a sprite, the sprite changes colour"
 
-**Tip:** Write your main idea down or tell a friend or family member. It is easier to make a project when you can explain what your idea is.
+**Tip:** Write down your main idea or tell a friend or family member. It is easier to make a project when you can explain what your idea is.
 
 You might have lots of other ideas. Save them for later.
 
