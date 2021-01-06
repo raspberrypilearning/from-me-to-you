@@ -175,7 +175,7 @@ Show someone else your project. Ask for their honest feedback. Can you make impr
 
 --- /task ---
 
-**Tip:** It's ok to change your mind, but always be clear about what you want to make.
+**Tip:** It's OK to change your mind, but always be clear about what you want to make.
 
 --- task ---
 What is your next step? It might be to add more code to your sprite. It might be to add code to another sprite. It might be to record a sound or create a new costume in the Paint editor. 
