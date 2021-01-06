@@ -58,7 +58,7 @@ Now, copy the web address. To do this, you can:
 
 Check out [Coolest Projects](https://online.coolestprojects.org){:target="_blank"}, the world's leading technology fair for young people! On the Coolest Projects website, you can find out when project registration is open, and get ready to register your project!
 
-When you have registered your project, your creation will be showcased in the Coolest Projects online gallery, for people all over the world to see. Join other young people in celebrating and recognising each other's achievements as a community. 
+When you have registered your project, your creation will be showcased in the Coolest Projects online gallery, for people all over the world to see! Join other young people in celebrating and recognising each other's achievements as a community. 
 
 --- /task ---
 
