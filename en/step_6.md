@@ -16,7 +16,7 @@ In the **Instructions** box, tell people how to use your project:
 + Let the user know if the project includes sound, as they may need to wear headphones or turn the volume up on their device.
 
 In the **Notes and Credits** box:
-+ Thank the people who created the projects that inspired you. You could even include the web address of the projects.
++ Thank the people who created the projects that inspired you. You could even include the web addresses of the projects.
 + Did you include images or sounds that were created by someone else? If so, credit the source(s) in this box.
 
 --- /collapse ---
@@ -56,7 +56,9 @@ Now, copy the web address. To do this, you can:
 
 --- task ---
 
-Register your project for [Coolest Projects](https://online.coolestprojects.org){:target="_blank"}, the world's leading technology fair for young people! Your project will be showcased in the Coolest Projects online gallery, for people all over the world to see. Join other young people in celebrating and recognising each other's achievements as a community. 
+Check out [Coolest Projects](https://online.coolestprojects.org){:target="_blank"}, the world's leading technology fair for young people! On the Coolest Projects website, you can find out when project registration is open, and get ready to register your project!
+
+When you have registered your project, your creation will be showcased in the Coolest Projects online gallery, for people all over the world to see. Join other young people in celebrating and recognising each other's achievements as a community. 
 
 --- /task ---
 
