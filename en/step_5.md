@@ -56,7 +56,7 @@ To layer your words, use the **Forward** and **Backward** tools:
 
 You can also use any other skill and tool in the Paint editor that you have learned about:
 
-+ [Paint editor](https://projects.raspberrypi.org/en/projects/getting-started-scratch/6){:target="scratch_guide"}
++ [Paint editor](https://projects.raspberrypi.org/en/projects/getting-started-scratch/9){:target="scratch_guide"}
 
 --- /task ---
 
@@ -132,8 +132,10 @@ Choose the blocks that you need and drag them underneath a Hat block. Put blocks
 
 You can use any of the skills that you have learned:
 
-+ [Useful code](https://projects.raspberrypi.org/en/projects/getting-started-scratch/4){:target="scratch_guide"}
-+ [Block reference](https://projects.raspberrypi.org/en/projects/getting-started-scratch/5){:target="scratch_guide"}
++ [Motion](https://projects.raspberrypi.org/en/projects/getting-started-scratch/5){:target="scratch_guide"}
++ [Looks](https://projects.raspberrypi.org/en/projects/getting-started-scratch/6){:target="scratch_guide"}
++ [Sound](https://projects.raspberrypi.org/en/projects/getting-started-scratch/7){:target="scratch_guide"}
++ [Variables](https://projects.raspberrypi.org/en/projects/getting-started-scratch/8){:target="scratch_guide"}
 
 --- /task ---
 
