@@ -188,4 +188,10 @@ If you have finished or don't have much time left, then move on to the next step
 
 --- /task ---
 
+--- task ---
+
+Take a look at some From me to you projects created by community members, which you can explore in the Raspberry Pi Foundation’s studio of From me to you Community Projects  [See inside](https://scratch.mit.edu/studios/28525955){:target="_blank"}.
+
+--- /task ---
+
 --- save ---
