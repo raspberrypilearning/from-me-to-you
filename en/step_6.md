@@ -66,7 +66,7 @@ When you have registered your project, your creation will be showcased in the Co
 
 Meanwhile, inspire the Raspberry Pi Foundation community with your project!
 
-We regularly share projects made by the community in our challenges. To submit your From me to you project, please complete [this form](https://www.tfaforms.com/4866927){:target="_blank"}.
+We regularly share projects made by the community in our challenges. To submit your From me to you project, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 Remember to revisit the project to get inspired by other creators and, who knows, one of the projects shared might be yours!
 
