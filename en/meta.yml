@@ -11,10 +11,12 @@ steps:
 - title: Introduction
 - title: The digital making process
 - title: Get inspiration
-  completion: engaged
+  completion:
+  - engaged
 - title: Choose a theme
-  completion: internal
 - title: Make
+  completion:
+  - internal
 - title: Share
 - title: Reflect
 - title: What next?
