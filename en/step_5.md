@@ -13,11 +13,11 @@ Some useful skills you could use for your card:
 + Use the `forever`{:class="block3control"} and `repeat`{:class="block3control"} loop blocks
 + Use the `next costume`{:class="block3looks"} and `wait`{:class="block3control"} blocks to animate a sprite
 + Use `layers`{:class="block3looks"} blocks to move sprites in front of or behind other sprites
-+ Use the `text to speech` and `translate` extensions 
++ Use the `text to speech`{:class="block3extensions"} and `translate`{:class="block3extensions"} Scratch extensions 
 
 --- task ---
 
-Add the backdrop and new sprites you need for this page. 
+Add the backdrop and sprites. 
 
 ![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
 
@@ -27,14 +27,30 @@ Add the backdrop and new sprites you need for this page.
 
 --- task ---
 
-You will need to add code to each character and object sprite in your book. Consider whether they will do anything when the project starts, when the backdrop switches to a particular page or when the sprite is clicked. 
+You will need to add code to each character and object sprite in your card. Consider whether they will do anything when the project starts, or when the sprite is clicked. 
+
+For example:
++ "When the user clicks on the green flag, a sprite moves"
++ "When the user clicks on a sprite, the sprite changes colour"
+
+--- collapse ---
+---
+title: Start code with Hat blocks
+---
+
+```blocks3
+when green flag clicked
+when this sprite clicked
+```
+
+These blocks have a different shape — they are sometimes called **Hat blocks**. They start code running when a particular event happens, such as a user clicking.
+
+--- /collapse ---
 
 ```blocks3
 when flag clicked
 
 when this sprite clicked
-
-when backdrop switches to [page v]
 ```
 
 [[[scratch3-change-costumes-to-show-mood]]]
@@ -45,26 +61,40 @@ when backdrop switches to [page v]
 
 [[[scratch3-jiggle-a-sprite]]]
 
+**Tip:** Some of the best ideas come from playing. You will find good ideas by accident.
+
 --- /task ---
 
 ### Your message
 
 --- task ---
 
- **How** you will say your message. You can add your message as either a **sprite/sprites** or a **sound**.
+You can add your message as either a **sprite/sprites** or a **sound**:
+
+--- collapse ---
+---
+
+title: Use letter sprites from the Sprite Library
+
+---
 
 You can go to **Choose a Sprite** and select **Letters** from the Sprite Library or search for `numbers`:
 ![Show Choose a Sprite letters/numbers](images/from-me-letters-numbers.png){:width="300px"}
+
+--- /collapse ---
+
 
 You could use the **Text** tool in the Paint editor to write a short message: 
 
 [[[scratch3-use-text-tool]]]
 
-You can record a spoken message if you like:
+You can record a spoken message:
 
 ![The record icon from the add sound menu.](images/record-sound.png)
 
 [[[scratch3-record-sound]]]
+
+You can type a message for Scratch to speak:
 
 ![The text to speech blocks menu icon.](images/text-to-speech.png)
 
@@ -86,81 +116,19 @@ You can record a spoken message if you like:
 
 --- task ---
 
-
-
-
-
-
---- /task ---
-
-
-
-
---- task ---
-
-Now, think about how the user will interact with your project.
-
-For example:
-+ "When the user clicks on the green flag, a sprite moves"
-
-+ "When the user clicks on a sprite, the sprite changes colour"
-
-**Tip:** Write down your main idea or tell a friend or family member. It is easier to make a project when you can explain what your idea is.
-
-You might have lots of other ideas. Save them for later.
-
---- /task ---
-
---- task ---
-Add a block for **when** your sprite should do something.
-
---- collapse ---
----
-title: Start code with Hat blocks
----
-
-```blocks3
-when green flag clicked
-when this sprite clicked
-```
-
-These blocks have a different shape — they are sometimes called **Hat blocks**. They start code running when a particular event happens, such as a user clicking.
-
---- /collapse ---
-
---- /task ---
-
---- task ---
-
-Add the blocks that you need to make your sprite do **what** you want it to do.
-
-Choose the blocks that you need and drag them underneath a Hat block. Put blocks inside a `forever`{:class="block3control"} block if you want them to keep running.
-
-![Example code blocks](images/example-code-blocks.png)
-
-You can use any of the skills that you have learned:
-
-+ [Motion](https://projects.raspberrypi.org/en/projects/getting-started-scratch/5){:target="scratch_guide"}
-+ [Looks](https://projects.raspberrypi.org/en/projects/getting-started-scratch/6){:target="scratch_guide"}
-+ [Sound](https://projects.raspberrypi.org/en/projects/getting-started-scratch/7){:target="scratch_guide"}
-+ [Variables](https://projects.raspberrypi.org/en/projects/getting-started-scratch/8){:target="scratch_guide"}
-
---- /task ---
-
-**Tip:** Some of the best ideas come from playing. You will find good ideas by accident.
-
---- task ---
-
-**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book? 
+**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your card? 
 
 ⏱️ If you have time, you can upgrade your project. 
 
 💡 You could:
 - Add more code to your sprites
 - Add another sprite
-- Add another page
-- Record a sound 
+- Record or add a sound 
 - Create a new costume in the Paint editor
+
+If you are stuck for ideas, don't forget to look at the ['From me to you' examples](https://scratch.mit.edu/studios/27073994){:target="_blank"} or the [From me to you Community Projects](https://scratch.mit.edu/studios/28525955){:target="_blank"} and **See inside**.
+
+If you have finished or don't have much time left, then move on to the next step to share your digital card.
 
 --- /task ---
 
@@ -199,20 +167,5 @@ You might find a bug that is not listed here. Can you work out how to fix it?
 
 --- /task ---
 
-
---- task ---
-What is your next step? It might be to add more code to your sprite. It might be to add code to another sprite. It might be to record a sound or create a new costume in the Paint editor. 
-
-Are you stuck for ideas? Don't forget to look at step 3: [Get inspiration](https://projects.raspberrypi.org/en/projects/from-me-to-you/2){:target="_blank"} and **See inside** some projects.
-
-If you have finished or don't have much time left, then move on to the next step to share your digital card.
-
---- /task ---
-
---- task ---
-
-Take a look at some From me to you projects created by community members, which you can explore in the Raspberry Pi Foundation’s studio of From me to you Community Projects  [See inside](https://scratch.mit.edu/studios/28525955){:target="_blank"}.
-
---- /task ---
-
 --- save ---
+
