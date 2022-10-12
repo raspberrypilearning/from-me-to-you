@@ -1,4 +1,4 @@
-## Reflect
+## Checklist
 How did your digital card project go?
 
 Mark the tasks that you have completed:

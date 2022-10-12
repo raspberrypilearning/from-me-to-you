@@ -1,7 +1,10 @@
 ## Make 🧱 and test 🔄
+
 Now, it's time to make your digital card. Start small, and add more to your project if you have time. 
 
 **Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+
+![A strip of example projects including cards for world hello day, new year, world environment day, a thank you card and a happy birthday card..](images/showcase_static.png)
 
 For this project, you need to know how to:  
 + Add code to sprites and a backdrop

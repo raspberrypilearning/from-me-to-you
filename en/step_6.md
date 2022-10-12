@@ -1,4 +1,4 @@
-## Share
+## Share and play
 Now, it is time to share your digital card with the person who you made it for. 
 
 --- task ---

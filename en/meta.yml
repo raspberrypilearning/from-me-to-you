@@ -17,6 +17,6 @@ steps:
 - title: Make 🧱 and test 🔄
   completion:
   - internal
-- title: Share
-- title: Reflect
+- title: Share and play
+- title: Checklist
 - title: What next?

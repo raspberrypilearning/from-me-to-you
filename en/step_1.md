@@ -57,7 +57,7 @@ Your card should:
 Your book could:
 + 🔉 Have sound effects or music
 + 🎨 Have costumes you have painted or edited in the Paint editor
-+ 🖱️ Have interactive features to click on
++ 🖱️ Have interactive features to click
 </div>
 
 --- no-print ---
@@ -68,24 +68,24 @@ Your book could:
 
 Play with these example projects to get ideas for your card:
 
-⭐ Share your finished Fom me to you project for a chance of it being featured here.
+⭐ Share your finished 'From me to you' project for a chance of it being featured here.
 
-**Space thank you 👾**: [See Project Page](https://scratch.mit.edu/projects/461080920){:target="_blank"}
+**Space thank you 👾**: [See inside](https://scratch.mit.edu/projects/461080920){:target="_blank"}
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/461080920/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**World Environment Day 🌍**: [See Project Page](https://scratch.mit.edu/projects/460628546){:target="_blank"}
+**World Environment Day 🌍**: [See inside](https://scratch.mit.edu/projects/460628546){:target="_blank"}
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/460628546/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**Happy New Year 🏮**: [See Project Page](https://scratch.mit.edu/projects/465299716){:target="_blank"}
+**Happy New Year 🏮**: [See inside](https://scratch.mit.edu/projects/465299716){:target="_blank"}
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/465299716/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**⭐ Happy birthday! 🎂**: [See Project Page](https://scratch.mit.edu/projects/460632311){:target="_blank"} (featured community project)
+**⭐ Happy birthday! 🎂**: [See inside](https://scratch.mit.edu/projects/460632311){:target="_blank"} (featured community project)
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/460632311/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
