@@ -24,7 +24,7 @@ Which blocks do you think were used?
 </div>
 <div>
 
-**Farm hello**: [See Project Page](https://scratch.mit.edu/projects/744399060){:target="_blank"}
+**Farmyard hello**: [See Project Page](https://scratch.mit.edu/projects/744399060){:target="_blank"}
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/744399060/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
