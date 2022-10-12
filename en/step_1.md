@@ -104,5 +104,5 @@ https://scratch.mit.edu/studios/27073994
 ![A strip of example projects including cards for world hello day, new year, world environment day, a thank you card and a happy birthday card..](images/showcase_static.png)
 
 --- /print-only ---
---
+
 
