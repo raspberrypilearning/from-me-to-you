@@ -1,38 +1,48 @@
-## Get inspiration
+## Your idea 💡
 
-The digital card that you make will be different to the cards that other people have made because you are creating an original project. You can look at projects that other people have made, to help you start to think of your own ideas.
+Decide the theme of your card and who will you make your card for. 
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">**digital card**</span> 💌📲 (or paperless card) is a card created and read on a computer, tablet, phone, or other electronic device. 
+
+❓ Digital cards are being used for celebrations worldwide. They are better for the environment than sending paper cards. Can you think of reasons why? 
+</p>
+
+### Why are you making the card?
+
+The idea for this project is to send a message to someone to let them know that you are thinking of them.
 
 --- task ---
 
-Look at some digital card projects that have been made using skills that you learned in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway.
+Think about the purpose of your card. 
 
-Whilst you explore the projects, ask yourself:
-+ Can you tell what message is being sent? 
-+ How does the user access the text and/or audio message?
-
-Is it easy to know what to do? If not, click on **See Project Page** and read the **Instructions** section.
-
-Investigate some digital cards, which you can find in the [Scratch studio](https://scratch.mit.edu/studios/27073994){:target="_blank"} or below:
-
-**Space thank you**: [See Project Page](https://scratch.mit.edu/projects/461080920){:target="_blank"}
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/461080920/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-**World Environment Day**: [See Project Page](https://scratch.mit.edu/projects/460628546){:target="_blank"}
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/460628546/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-**Happy New Year**: [See Project Page](https://scratch.mit.edu/projects/465299716){:target="_blank"}
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/465299716/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-**Happy birthday!**: [See Project Page](https://scratch.mit.edu/projects/460632311){:target="_blank"}
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/460632311/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
+It could be:
+- 🙏 A thank you card
+- 🎂 A birthday card
+- 📅 An anniversary of something
+- 🎉 An annual day of celebration
+- ♻️ An important message
+- Or something else!
 
 --- /task ---
+
+### Who is it for?
+
+--- task ---
+
+Think about who you will make your card for (your **audience**).
+
+It could be:
+
+- 👧 For a friend
+- 👴 For a family member
+- 👩‍🎓 For a school class
+- 🏇 For people who share your hobby
+- 👨‍🎤 For a musician 
+- 👩‍💼 For a politician 
+- For someone else
+
+--- /task ---
+
+
 

@@ -1,61 +1,108 @@
-## Introduction
+## You will make
 
-You will create a digital card to send to someone to cheer them up or help them celebrate an occasion, or for any other reason — it's up to you! You will decide who you will make the card for, and to help you develop your ideas, you will investigate cards that other people have made.
+Create a digital card 💌 to send to someone based on your own idea 💡.
 
-You have a range of skills that you learned in the Look after yourself pathway.
+You will:
 
-### What you will make
++ Create a digital card for someone specific
++ Choose which skills to use to make your card
++ Share a web address for your card
 
-In this project, you will choose some of those skills and use them to independently make your own original digital card.
+--- no-print ---
 
-![Complete project](images/showcase_static.png){:width="500px"}
+--- task ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1">
 
-+ A computer or tablet capable of running Scratch
+### Play ▶️ 
 
-### Software
+What happens when you click on each sprite?
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+Which blocks do you think were used?
 
---- /collapse ---
+</div>
+<div>
 
---- collapse ---
----
-title: Skills you should have
----
-Before you start this project, we recommend that you complete the first three Skills projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway: 
-+ [Stress ball](https://projects.raspberrypi.org/en/projects/stress-ball){:target="_blank"}
-+ [Butterfly garden](https://projects.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}
-+ [Serene scene](https://projects.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
+**Farm hello**: [See Project Page](https://scratch.mit.edu/projects/744399060){:target="_blank"}
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/744399060/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
-Also, we recommend that you complete the two Design projects:
-+ [Interactive animation](https://projects.raspberrypi.org/en/projects/interactive-animation){:target="_blank"}
-+ [3D scene](https://projects.raspberrypi.org/en/projects/3D-scene){:target="_blank"}
+</div>
+</div>
 
-For this project, you need to know how to:  
-+ Add code to sprites and a backdrop
-+ Customise sprites in the Paint editor
-+ Add `graphic effects`{:class="block3looks"}, `motion`{:class="block3motion"}, and `sound`{:class="block3sound"} to a sprite
-+ Use the `forever`{:class="block3control"} block
-+ Use the `next costume`{:class="block3looks"} and `wait`{:class="block3control"} blocks to animate a sprite
-+ Make a `variable`{:class="block3variables"}, turn it into a slider with a range, and use it as an input to a block
-+ Use `layers`{:class="block3looks"} blocks to move sprites in front of or behind other sprites
+--- /task ---
 
---- /collapse ---
+--- /no-print ---
 
---- collapse ---
----
-title: What you will learn
----
+Your card will need to meet the **project brief**.
 
-+ How to think of original design ideas to create a project for someone specific
-+ How to break down a project into smaller tasks and decide what order to do them in
-+ How to explain how to use the project online via a web address
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+</p>
 
---- /collapse ---
+<div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
+
+### 🎯 PROJECT BRIEF: Create a **digital book**
+<hr style="border-top: 2px solid black;">
+
+You will need to decide what type of card you would like to make and who it is for. 
+
+Your card should:
++ 🖼️ Have a backdrop to set the scene
++ 🐢 Have at least one sprite
++ 💬 Have text or speech to share a message
+
+Your book could:
++ 🔉 Have sound effects or music
++ 🎨 Have costumes you have painted or edited in the Paint editor
++ 🖱️ Have interactive features to click on
+</div>
+
+--- no-print ---
+
+### Get ideas 💭
+
+--- task ---
+
+Play with these example projects to get ideas for your card:
+
+⭐ Share your finished Fom me to you project for a chance of it being featured here.
+
+**Space thank you 👾**: [See Project Page](https://scratch.mit.edu/projects/461080920){:target="_blank"}
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/461080920/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+**World Environment Day 🌍**: [See Project Page](https://scratch.mit.edu/projects/460628546){:target="_blank"}
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/460628546/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+**Happy New Year 🏮**: [See Project Page](https://scratch.mit.edu/projects/465299716){:target="_blank"}
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/465299716/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+**⭐ Happy birthday! 🎂**: [See Project Page](https://scratch.mit.edu/projects/460632311){:target="_blank"} (featured community project)
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/460632311/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+--- /task ---
+
+--- /no-print ---
+
+--- print-only ---
+
+### Get ideas 💭
+
+To get ideas for your card 💌, **See inside** example projects in the 'From me to you — Examples' Scratch studio: 
+https://scratch.mit.edu/studios/27073994
+
+![A strip of example projects including cards for world hello day, new year, world environment day, a thank you card and a happy birthday card..](images/showcase_static.png)
+
+--- /print-only ---
+--
 

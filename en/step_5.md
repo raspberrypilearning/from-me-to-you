@@ -1,7 +1,20 @@
-## Make
-Now, you will make your digital card project. 
+## Make 🧱 and test 🔄
+Now, it's time to make your digital card. Start small, and add more to your project if you have time. 
 
-Start small, and add more to your project if you have time. 
+**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+
+For this project, you need to know how to:  
++ Add code to sprites and a backdrop
++ Customise sprites in the Paint editor
++ Add `graphic effects`{:class="block3looks"}, `motion`{:class="block3motion"}, and `sound`{:class="block3sound"} to a sprite
++ Use the `forever`{:class="block3control"} block
++ Use the `next costume`{:class="block3looks"} and `wait`{:class="block3control"} blocks to animate a sprite
++ Make a `variable`{:class="block3variables"}, turn it into a slider with a range, and use it as an input to a block
++ Use `layers`{:class="block3looks"} blocks to move sprites in front of or behind other sprites
+
+
+
+
 
 --- task ---
 If you have not already chosen a backdrop and added a sprite, then start now. You can always add more later, including using the Paint editor to make your own. 

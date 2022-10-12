@@ -8,13 +8,13 @@ listed: false
 copyedit: true
 last_tested: '2020-07-07'
 steps:
-- title: Introduction
+- title: You will make
 - title: The digital making process
-- title: Get inspiration
+- title: Your idea 💡
   completion:
   - engaged
-- title: Choose a theme
-- title: Make
+- title: Plan your card 💌
+- title: Make 🧱 and test 🔄
   completion:
   - internal
 - title: Share
