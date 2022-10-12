@@ -17,7 +17,7 @@ You will:
 
 ### Play ▶️ 
 
-What happens when you click on each sprite?
+What happens when you click on each animal sprite?
 
 Which blocks do you think were used?
 
@@ -49,15 +49,15 @@ A <span style="color: #0faeb0">**project brief**</span> describes what a project
 
 You will need to decide what type of card you would like to make and who it is for. 
 
-Your card should:
-+ 🖼️ Have a backdrop to set the scene
-+ 🐢 Have at least one sprite
-+ 💬 Have text or speech to share a message
+Your card should have:
++ 🖼️ A backdrop to set the scene
++ 🐢 At least one sprite
++ 💬 Text or speech to share a message
 
-Your book could:
-+ 🔉 Have sound effects or music
-+ 🎨 Have costumes you have painted or edited in the Paint editor
-+ 🖱️ Have interactive features to click
+Your book could have:
++ 🔉 Sound effects or music
++ 🎨 Costumes you have painted or edited in the Paint editor
++ 🖱️ Interactive features to click
 </div>
 
 --- no-print ---

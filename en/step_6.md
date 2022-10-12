@@ -42,8 +42,6 @@ Now, copy the web address. To do this, you can:
 + Write down the web address and give it to the person who you want to share the project with
 + Or, you can copy the web address and paste it into an email
 
---- /collapse ---
-
 --- /task ---
 
 --- task ---
