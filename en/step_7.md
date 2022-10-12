@@ -1,42 +1,85 @@
-## Reflect
-How did your digital card project go?
+## Checklist ✅
 
-Mark the tasks that you have completed:
+Did you meet the project brief? Think about your project and go through the checklist below, Check off the features that your project has.
+
+### Your card should have
 
 --- task ---
-Thought of original design ideas to create a project for someone specific
+
+A backdrop or background colour to set the scene
+
 --- /task ---
 
 --- task ---
-Investigated other projects to help me get ideas
+
+At least one sprite
+
 --- /task ---
 
 --- task ---
-Decided on a small part of my project to make first and then added more
+
+A Text or spoken message 
+
+--- /task ---
+
+### Your card could also have
+
+--- task ---
+
+Sound effects or music
+
 --- /task ---
 
 --- task ---
-Looked at relevant information when I needed help
+
+Painted or edited costumes 
+
 --- /task ---
 
 --- task ---
-Created a project independently with very little support
+
+Interactive features to click
+
+--- /task ---
+
+### The digital making process
+
+--- task ---
+
+Created a card based on your own idea
+
 --- /task ---
 
 --- task ---
-Used feedback from other people in my development process
+
+Made your card using your Scratch skills 
+
 --- /task ---
 
 --- task ---
-Filled in the **Instructions** and **Notes and Credits** in the Scratch Project Page
+
+Interacted with your card to test it while making it
+
 --- /task ---
 
 --- task ---
-Shared my project with someone
+
+Used feedback from other people to improve your card
+
 --- /task ---
 
 --- task ---
-Generated ideas for a new project that I plan to make
+
+Filled in the **Instructions** on the Scratch Project Page
+
 --- /task ---
 
-You can go back and improve your project whenever you have time.
+--- task ---
+
+Shared your card with someone to let them know you are thinking about them
+
+--- /task ---
+
+### Now, you are the creator of a digital card!
+
+🎉 Take a moment to celebrate what you have made.
