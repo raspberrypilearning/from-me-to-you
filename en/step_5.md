@@ -4,8 +4,6 @@ Now, it's time to make your digital card. Start small, and add more to your proj
 
 **Tip:** Remember to test your project each time you add something. 🐞 It is much easier to find and fix bugs before you make more changes.
 
-![A strip of example projects including cards for world hello day, new year, world environment day, a thank you card and a happy birthday card..](images/showcase_static.png)
-
 Some useful skills you could use for your card:  
 + Add code to sprites and a backdrop
 + Customise sprites in the Paint editor
@@ -15,12 +13,13 @@ Some useful skills you could use for your card:
 + Use `layers`{:class="block3looks"} blocks to move sprites in front of or behind other sprites
 + Use the `text to speech`{:class="block3extensions"} and `translate`{:class="block3extensions"} Scratch extensions 
 
+![A strip of example projects including cards for world hello day, new year, world environment day, a thank you card and a happy birthday card..](images/showcase_static.png)
 
-### Set the scene 🖼️
-
---- task ---
+## Set the scene 🖼️
 
 Add the backdrop and sprites. 
+
+--- task ---
 
 ![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
 
@@ -58,7 +57,7 @@ Edit a Sprite's costumes:
 
 --- /task ---
 
-### For each sprite 🐈 🐢 🎈
+## For each sprite 🐈 🐢 🎈
 
 You will probably need to add code to each sprite in your card. 
 
@@ -82,11 +81,7 @@ These blocks have a different shape — they are sometimes called **Hat blocks**
 
 --- /collapse ---
 
-```blocks3
-when flag clicked
 
-when this sprite clicked
-```
 
 ### Prepare your Sprites
 
@@ -188,9 +183,11 @@ go to x: (-200) y: (50) // starting position
 
 --- /task ---
 
-### Animate your Sprites
+### Add movement and sound
 
-Think about costumes, graphic effects, motion and sound: 
+Choose how to animate your card with costumes, graphic effects, motion and sound: 
+
+**Tip:** Some of the best ideas come from playing. You will find good ideas by accident!
 
 --- task ---
 
@@ -279,15 +276,19 @@ end
 
 [[[scratch3-add-sound]]]
 
-**Tip:** Some of the best ideas come from playing. You will find good ideas by accident.
+
 
 --- /task ---
 
-### Your message
+## Your message
 
 --- task ---
 
-You can add your message as either a **sprite/sprites** or a **sound**:
+**Choose:** Create your own message in the style you want: 
++ Add your message as either a **sprite/sprites** or a **sound**
++ Use the **Text** tool in the Paint editor to write a short message
++ Record a spoken message
++ Type a message for Scratch to speak
 
 --- collapse ---
 ---
@@ -296,25 +297,14 @@ title: Use letter sprites from the Sprite Library
 
 ---
 
-You can go to **Choose a Sprite** and select **Letters** from the Sprite Library or search for `numbers`:
+**Choose a Sprite** and select **Letters** from the Sprite Library or search for `numbers`:
 ![Show Choose a Sprite letters/numbers](images/from-me-letters-numbers.png){:width="300px"}
 
 --- /collapse ---
 
-
-You could use the **Text** tool in the Paint editor to write a short message: 
-
 [[[scratch3-use-text-tool]]]
 
-You can record a spoken message:
-
-![The record icon from the add sound menu.](images/record-sound.png)
-
 [[[scratch3-record-sound]]]
-
-You can type a message for Scratch to speak:
-
-![The text to speech blocks menu icon.](images/text-to-speech.png)
 
 [[[scratch3-text-to-speech]]]
 
