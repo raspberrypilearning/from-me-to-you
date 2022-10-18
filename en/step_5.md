@@ -31,10 +31,9 @@ Add the backdrop and sprites.
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
 
-
 ### Sprites
 
-Choose a sprite:
+Add a sprite:
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -53,17 +52,17 @@ Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose t
 
 Edit a Sprite's costumes:
 
-[[[scratch3-copy-parts-between-sprite-costumes]]]
-
 [[[scratch3-add-costumes-to-a-sprite]]]
+
+[[[scratch3-copy-parts-between-sprite-costumes]]]
 
 --- /task ---
 
 ### For each sprite 🐈 🐢 🎈
 
---- task ---
+You will probably need to add code to each sprite in your card. 
 
-You will probably need to add code to each sprite in your card. Consider whether they will do anything when the project starts, or when the sprite is clicked. 
+Consider whether they will do anything when the project starts, or when the sprite is clicked. 
 
 For example:
 + "When the user clicks on the green flag, a sprite moves"
@@ -91,26 +90,34 @@ when this sprite clicked
 
 ### Prepare your Sprites
 
-Think about `Looks`{:class="block3looks"} layers, size, visibility. and `Motion`{:class="block3motion"} direction, starting position:
+Think about:
++ `Looks`{:class="block3looks"} size, layers, visibility
++ `Motion`{:class="block3motion"} direction, starting position
 
-[[[scratch3-positioning-with-layers]]]
+--- task ---
 
 --- collapse ---
 ---
 title: Resize your sprites
 ---
 
-To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
+### Set size for the whole project
+
+Change the number in the **Size** property in the Sprite pane:
 
 ![](images/sprite-pane-size.png)
 
-To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project. 
+### Change size for part of the project
+
+Add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project. 
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
 ```
 
 --- /collapse ---
+
+[[[scratch3-positioning-with-layers]]]
 
 --- collapse ---
 ---
@@ -146,11 +153,15 @@ title: Set the direction of your sprites
 
 Your sprites might be facing the wrong way when you add them to your project. 
 
-To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
+### Set direction for the whole project
+
+Change the **Direction** and **rotation style** in the Sprite pane:
 
 ![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
 
-To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
+### Change direction for part of the project
+
+Add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
 
 ```blocks3
 set rotation style [left-right v]
@@ -164,26 +175,24 @@ point in direction (-90) // turn to the left
 title: Set the starting position and looks for a sprite
 ---
 
-Choose the blocks that you need to set the position and looks for a sprite at the start.
+Drag the sprite to the starting position then add the `go to x: y:`{:class="block3motion"} block.
+
+**Tip:** The values in the block will be the position you have moved the sprite to.
 
 ```blocks3
-when flag clicked // add blocks to set up the start 
-switch costume to [costume1 v]
-set size to (100) % // starting size
+when flag clicked 
 go to x: (-200) y: (50) // starting position
-point in direction [90]
-set [brightness v] effect to [80]
-show
 ```
-
-**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have. 
 
 --- /collapse ---
 
+--- /task ---
 
 ### Animate your Sprites
 
 Think about costumes, graphic effects, motion and sound: 
+
+--- task ---
 
 ### Costumes
 
@@ -212,6 +221,12 @@ next costume
 
 [[[scratch3-animate-movement-costumes]]]
 
+
+--- /task ---
+
+
+--- task ---
+
 ### Graphic effects
 
 --- collapse ---
@@ -227,6 +242,11 @@ change [color v] effect by (25)
 --- /collapse ---
 
 [[[scratch3-graphic-effects]]]
+
+
+--- /task ---
+
+--- task ---
 
 ### Movement
 
@@ -248,6 +268,12 @@ end
 --- /collapse ---
 
 [[[scratch3-animate-movement-costumes]]]
+
+
+--- /task ---
+
+
+--- task ---
 
 ### Sound
 
