@@ -186,7 +186,7 @@ go to x: (-200) y: (50) // starting position
 
 --- /collapse ---
 
---- task ---
+--- /task ---
 
 ### Animate your Sprites
 
