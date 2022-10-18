@@ -21,13 +21,17 @@ Add the backdrop and sprites.
 
 ![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
 
-[[[generic-scratch3-sprite-from-library]]]
+### Backdrops
 
 [[[generic-scratch3-backdrop-from-library]]]
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
+
+### Sprites
+
+[[[generic-scratch3-sprite-from-library]]]
 
 [[[scratch3-copy-parts-between-sprite-costumes]]]
 
@@ -44,7 +48,39 @@ Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose t
 
 --- /collapse ---
 
-[[[scratch3-add-costumes-to-a-sprite]]]
+--- /task ---
+
+### For each sprite 🐈 🐢 🎈
+
+--- task ---
+
+You will need to add code to each character and object sprite in your card. Consider whether they will do anything when the project starts, or when the sprite is clicked. 
+
+For example:
++ "When the user clicks on the green flag, a sprite moves"
++ "When the user clicks on a sprite, the sprite changes colour"
+
+--- collapse ---
+---
+title: Start code with Hat blocks
+---
+
+```blocks3
+when green flag clicked
+when this sprite clicked
+```
+
+These blocks have a different shape — they are sometimes called **Hat blocks**. They start code running when a particular event happens, such as a user clicking.
+
+--- /collapse ---
+
+```blocks3
+when flag clicked
+
+when this sprite clicked
+```
+
+### Prepare your Sprites
 
 [[[scratch3-positioning-with-layers]]]
 
@@ -106,37 +142,7 @@ show
 
 --- /collapse ---
 
---- /task ---
-
-### For each sprite 🐈 🐢 🎈
-
---- task ---
-
-You will need to add code to each character and object sprite in your card. Consider whether they will do anything when the project starts, or when the sprite is clicked. 
-
-For example:
-+ "When the user clicks on the green flag, a sprite moves"
-+ "When the user clicks on a sprite, the sprite changes colour"
-
---- collapse ---
----
-title: Start code with Hat blocks
----
-
-```blocks3
-when green flag clicked
-when this sprite clicked
-```
-
-These blocks have a different shape — they are sometimes called **Hat blocks**. They start code running when a particular event happens, such as a user clicking.
-
---- /collapse ---
-
-```blocks3
-when flag clicked
-
-when this sprite clicked
-```
+### Animate your Sprites
 
 --- collapse ---
 ---
@@ -180,8 +186,6 @@ change [color v] effect by (25)
 [[[scratch3-jiggle-a-sprite]]]
 
 [[[scratch3-add-sound]]]
-
-[[[scratch3-positioning-with-layers]]]
 
 --- collapse ---
 ---
