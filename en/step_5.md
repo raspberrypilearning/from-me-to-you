@@ -15,6 +15,9 @@ Some useful skills you could use for your card:
 + Use `layers`{:class="block3looks"} blocks to move sprites in front of or behind other sprites
 + Use the `text to speech`{:class="block3extensions"} and `translate`{:class="block3extensions"} Scratch extensions 
 
+
+### Set the scene 🖼️
+
 --- task ---
 
 Add the backdrop and sprites. 
@@ -27,15 +30,15 @@ Add the backdrop and sprites.
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
-[[[scratch3-backdrops-and-sprites-using-shapes]]]
+
 
 ### Sprites
 
+Choose a sprite:
+
 [[[generic-scratch3-sprite-from-library]]]
 
-[[[scratch3-copy-parts-between-sprite-costumes]]]
-
-[[[scratch3-add-costumes-to-a-sprite]]]
+[[[scratch3-backdrops-and-sprites-using-shapes]]]
 
 --- collapse ---
 ---
@@ -48,13 +51,19 @@ Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose t
 
 --- /collapse ---
 
+Edit a Sprite's costumes:
+
+[[[scratch3-copy-parts-between-sprite-costumes]]]
+
+[[[scratch3-add-costumes-to-a-sprite]]]
+
 --- /task ---
 
 ### For each sprite 🐈 🐢 🎈
 
 --- task ---
 
-You will need to add code to each character and object sprite in your card. Consider whether they will do anything when the project starts, or when the sprite is clicked. 
+You will probably need to add code to each sprite in your card. Consider whether they will do anything when the project starts, or when the sprite is clicked. 
 
 For example:
 + "When the user clicks on the green flag, a sprite moves"
@@ -82,6 +91,8 @@ when this sprite clicked
 
 ### Prepare your Sprites
 
+Think about `Looks`{:class="block3looks"} layers, size, visibility. and `Motion`{:class="block3motion"} direction, starting position:
+
 [[[scratch3-positioning-with-layers]]]
 
 --- collapse ---
@@ -98,6 +109,33 @@ To change the size of a sprite for part of the project, add code to `set size to
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
 ```
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Hide and show sprites
+---
+
+To make one sprite appear to turn into another sprite you could `show`{:class="block3looks"} one sprite and `hide`{:class="block3looks"} the other. After a `wait`{:class="block3control"} you can then `hide`{:class="block3looks"} the first sprite and `show`{:class="block3looks"} the second: 
+
+The 🎂🎾🎁 **interesting object** sprite:
+```blocks3
+when flag clicked
+show
+wait (5) seconds
+hide
+```
+
+The 🎷👻⚡**surprise object** sprite:
+```blocks3
+when flag clicked
+hide
+wait (5) seconds
+show
+```
+
+**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -142,7 +180,12 @@ show
 
 --- /collapse ---
 
+
 ### Animate your Sprites
+
+Think about costumes, graphic effects, motion and sound: 
+
+### Costumes
 
 --- collapse ---
 ---
@@ -169,6 +212,8 @@ next costume
 
 [[[scratch3-animate-movement-costumes]]]
 
+### Graphic effects
+
 --- collapse ---
 ---
 title: Change graphic effects when the sprite is clicked
@@ -183,9 +228,9 @@ change [color v] effect by (25)
 
 [[[scratch3-graphic-effects]]]
 
-[[[scratch3-jiggle-a-sprite]]]
+### Movement
 
-[[[scratch3-add-sound]]]
+[[[scratch3-jiggle-a-sprite]]]
 
 --- collapse ---
 ---
@@ -202,30 +247,11 @@ end
 
 --- /collapse ---
 
---- collapse ---
----
-title: Hide and show sprites
----
+[[[scratch3-animate-movement-costumes]]]
 
-The 🎂🎾🎁 **interesting object** sprite:
-```blocks3
-when flag clicked
-show
-wait (5) seconds
-hide
-```
+### Sound
 
-The 🎷👻⚡**surprise object** sprite:
-```blocks3
-when flag clicked
-hide
-wait (5) seconds
-show
-```
-
-**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
-
---- /collapse ---
+[[[scratch3-add-sound]]]
 
 **Tip:** Some of the best ideas come from playing. You will find good ideas by accident.
 
