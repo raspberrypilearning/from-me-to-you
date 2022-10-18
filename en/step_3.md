@@ -3,9 +3,9 @@
 Decide the theme of your card and who will you make your card for. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital card**</span> 💌📲 (or paperless card) is a card created and read on a computer, tablet, phone, or other electronic device. 
-
-❓ Digital cards are being used for celebrations worldwide. They are better for the environment than sending paper cards. Can you think of reasons why? 
+A <span style="color: #0faeb0">**digital (or paperless) card**</span> 💌📲  is a card created and read on a computer, tablet, phone, or other electronic device. 
+<br>
+🎉 Digital cards are being used for celebrations worldwide. They are better for the environment than sending paper cards. ❓ Can you think of reasons why? 
 </p>
 
 ### Why are you making the card?

@@ -2,7 +2,7 @@
 
 Now, it's time to make your digital card. Start small, and add more to your project if you have time. 
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Tip:** Remember to test your project each time you add something. 🐞 It is much easier to find and fix bugs before you make more changes.
 
 ![A strip of example projects including cards for world hello day, new year, world environment day, a thank you card and a happy birthday card..](images/showcase_static.png)
 
@@ -20,6 +20,91 @@ Some useful skills you could use for your card:
 Add the backdrop and sprites. 
 
 ![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+
+[[[generic-scratch3-sprite-from-library]]]
+
+[[[generic-scratch3-backdrop-from-library]]]
+
+[[[scratch3-paint-a-new-backdrop-extended]]]
+
+[[[scratch3-backdrops-and-sprites-using-shapes]]]
+
+[[[scratch3-copy-parts-between-sprite-costumes]]]
+
+[[[scratch3-add-costumes-to-a-sprite]]]
+
+--- collapse ---
+---
+title: Get a surprise sprite
+---
+
+Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
+
+![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
+
+--- /collapse ---
+
+[[[scratch3-add-costumes-to-a-sprite]]]
+
+[[[scratch3-positioning-with-layers]]]
+
+--- collapse ---
+---
+title: Resize your sprites
+---
+
+To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
+
+![](images/sprite-pane-size.png)
+
+To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project. 
+
+```blocks3
+set size to [100] % // <100 is smaller, >100 is bigger
+```
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Set the direction of your sprites
+---
+
+Your sprites might be facing the wrong way when you add them to your project. 
+
+To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
+
+![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
+
+To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
+
+```blocks3
+set rotation style [left-right v]
+point in direction (-90) // turn to the left
+```
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Set the starting position and looks for a sprite
+---
+
+Choose the blocks that you need to set the position and looks for a sprite at the start.
+
+```blocks3
+when flag clicked // add blocks to set up the start 
+switch costume to [costume1 v]
+set size to (100) % // starting size
+go to x: (-200) y: (50) // starting position
+point in direction [90]
+set [brightness v] effect to [80]
+show
+```
+
+**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have. 
+
+--- /collapse ---
 
 --- /task ---
 
@@ -53,13 +138,90 @@ when flag clicked
 when this sprite clicked
 ```
 
+--- collapse ---
+---
+title: Make a sprite change costume when clicked
+---
+
+**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
+<div class="scratch-preview">
+<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
+</div>
+
+Some sprites already have a choice of costumes.
+
+You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
+
+```blocks3
+when this sprite clicked
+next costume
+```
+
+--- /collapse ---
+
 [[[scratch3-change-costumes-to-show-mood]]]
 
 [[[scratch3-animate-movement-costumes]]]
 
+--- collapse ---
+---
+title: Change graphic effects when the sprite is clicked
+---
+
+```blocks3
+when this sprite clicked  
+change [color v] effect by (25)
+```
+
+--- /collapse ---
+
 [[[scratch3-graphic-effects]]]
 
 [[[scratch3-jiggle-a-sprite]]]
+
+[[[scratch3-add-sound]]]
+
+[[[scratch3-positioning-with-layers]]]
+
+--- collapse ---
+---
+title: Make a sprite point towards the mouse pointer
+---
+
+```blocks3
+when flag clicked
+set rotation style [all around v]
+forever
+point towards (mouse-pointer v)
+end
+```
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Hide and show sprites
+---
+
+The 🎂🎾🎁 **interesting object** sprite:
+```blocks3
+when flag clicked
+show
+wait (5) seconds
+hide
+```
+
+The 🎷👻⚡**surprise object** sprite:
+```blocks3
+when flag clicked
+hide
+wait (5) seconds
+show
+```
+
+**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+
+--- /collapse ---
 
 **Tip:** Some of the best ideas come from playing. You will find good ideas by accident.
 
