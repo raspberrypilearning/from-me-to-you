@@ -17,9 +17,9 @@ Some useful skills you could use for your card:
 
 ## Set the scene 🖼️
 
-Add the backdrop and sprites. 
-
 --- task ---
+
+Add the backdrop and sprites. 
 
 ![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
 
@@ -81,6 +81,7 @@ These blocks have a different shape — they are sometimes called **Hat blocks**
 
 --- /collapse ---
 
+--- task ---
 
 
 ### Prepare your Sprites
@@ -89,7 +90,6 @@ Think about:
 + `Looks`{:class="block3looks"} size, layers, visibility
 + `Motion`{:class="block3motion"} direction, starting position
 
---- task ---
 
 --- collapse ---
 ---
@@ -183,15 +183,15 @@ go to x: (-200) y: (50) // starting position
 
 --- /task ---
 
+--- task ---
+
 ### Add movement and sound
 
-Choose how to animate your card with costumes, graphic effects, motion and sound: 
+Choose how to animate your card with `costumes`{:class="block3looks"}, `graphic effects`{:class="block3looks"}, `motion`{:class="block3motion"} and `sound`{:class="block3sound"}: 
 
 **Tip:** Some of the best ideas come from playing. You will find good ideas by accident!
 
---- task ---
-
-### Costumes
+### Costumes 👓
 
 --- collapse ---
 ---
@@ -219,12 +219,7 @@ next costume
 [[[scratch3-animate-movement-costumes]]]
 
 
---- /task ---
-
-
---- task ---
-
-### Graphic effects
+### Graphic effects 🎨
 
 --- collapse ---
 ---
@@ -241,11 +236,7 @@ change [color v] effect by (25)
 [[[scratch3-graphic-effects]]]
 
 
---- /task ---
-
---- task ---
-
-### Movement
+### Movement 🏃‍♀️
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -267,12 +258,7 @@ end
 [[[scratch3-animate-movement-costumes]]]
 
 
---- /task ---
-
-
---- task ---
-
-### Sound
+### Sound 🔊
 
 [[[scratch3-add-sound]]]
 
@@ -284,8 +270,8 @@ end
 
 --- task ---
 
-**Choose:** Create your own message in the style you want: 
-+ Add your message as either a **sprite/sprites** or a **sound**
+**Choose:** Add your message as either a **sprite/sprites** or a **sound**:
++ Add letter spriites from the Sprite library
 + Use the **Text** tool in the Paint editor to write a short message
 + Record a spoken message
 + Type a message for Scratch to speak
@@ -293,7 +279,7 @@ end
 --- collapse ---
 ---
 
-title: Use letter sprites from the Sprite Library
+title: Use letter sprites from the Sprite library
 
 ---
 
