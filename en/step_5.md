@@ -25,7 +25,13 @@ Add the backdrop and sprites.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
+[[[scratch3-paint-a-new-backdrop-extended]]]
+
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
+
+[[[scratch3-copy-parts-between-sprite-costumes]]]
+
+[[[scratch3-add-costumes-to-a-sprite]]]
 
 --- collapse ---
 ---
@@ -172,6 +178,10 @@ change [color v] effect by (25)
 [[[scratch3-graphic-effects]]]
 
 [[[scratch3-jiggle-a-sprite]]]
+
+[[[scratch3-add-sound]]]
+
+[[[scratch3-positioning-with-layers]]]
 
 --- collapse ---
 ---
