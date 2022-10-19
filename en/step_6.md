@@ -71,6 +71,11 @@ Take a look at these fabulous community projects from our ['From me to you — C
  <iframe src="https://scratch.mit.edu/projects/747916089/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
+**Happy Halloween**: [See inside](https://scratch.mit.edu/projects/747982478/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+ <iframe src="https://scratch.mit.edu/projects/747982478/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
 --- /task ---
 
 --- task ---
