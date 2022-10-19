@@ -48,17 +48,27 @@ Now, copy the web address. To do this, you can:
 
 Inspire others who do this project with your card! 
 
-To submit your project to our ['From me to you — Community' Scratch studio](https://scratch.mit.edu/studios/27073994){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+To submit your project to our ['From me to you — Community' Scratch studio](https://scratch.mit.edu/studios/28525955){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['From me to you — Community' Scratch studio](https://scratch.mit.edu/studios/27073994){:target="_blank"}:
+Take a look at these fabulous community projects from our ['From me to you — Community' Scratch studio](https://scratch.mit.edu/studios/28525955){:target="_blank"}:
 
-**blah**: [See inside](https://scratch.mit.edu/projects//editor){:target="_blank"}
+**Finished school**: [See inside](https://scratch.mit.edu/projects/747905716/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed//?autostart=false" frameborder="0"></iframe>
+ <iframe src="https://scratch.mit.edu/projects/747899510/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+**Family Pride**: [See inside](https://scratch.mit.edu/projects/747905716/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+ <iframe src="https://scratch.mit.edu/projects/747899510/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+**Best friends**: [See inside](https://scratch.mit.edu/projects/747916089/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+ <iframe src="https://scratch.mit.edu/projects/747916089/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 --- /task ---
