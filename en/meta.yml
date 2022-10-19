@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Make your own interactive digital card to share with someone by giving
   them a web address
 version: 4
-listed: false
+listed: true
 copyedit: true
 last_tested: '2020-07-07'
 steps:
