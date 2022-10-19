@@ -58,10 +58,10 @@ Take a look at these fabulous community projects from our ['From me to you — C
 
 **Finished school**: [See inside](https://scratch.mit.edu/projects/747905716/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
- <iframe src="https://scratch.mit.edu/projects/747899510/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+ <iframe src="https://scratch.mit.edu/projects/747905716/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**Family Pride**: [See inside](https://scratch.mit.edu/projects/747905716/editor){:target="_blank"}
+**Family Pride**: [See inside](https://scratch.mit.edu/projects/747899510/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
  <iframe src="https://scratch.mit.edu/projects/747899510/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
