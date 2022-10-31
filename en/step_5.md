@@ -271,7 +271,7 @@ end
 --- task ---
 
 **Choose:** Add your message as either a **sprite/sprites** or a **sound**:
-+ Add letter spriites from the Sprite library
++ Add letter sprites from the Sprite library
 + Use the **Text** tool in the Paint editor to write a short message
 + Record a spoken message
 + Type a message for Scratch to speak
