@@ -1,85 +1,13 @@
-## Checklist ✅
+## What next?
 
-Did you meet the project brief? Think about your project and go through the checklist below, Check off the features that your project has.
+Try using Scratch to make more cool stuff. 
 
-### Your card should have
+To learn more skills, so you can bring all your ideas to life in Scratch, move on to our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) path! 
 
---- task ---
+If you need a reminder of what you have learned, you can go to our ['Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
 
-A backdrop or background colour to set the scene
+[[[scratch-coolest-projects]]]
 
---- /task ---
+You can also explore our [other Scratch projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) and try them out.
 
---- task ---
-
-At least one sprite
-
---- /task ---
-
---- task ---
-
-A Text or spoken message 
-
---- /task ---
-
-### Your card could also have
-
---- task ---
-
-Sound effects or music
-
---- /task ---
-
---- task ---
-
-Painted or edited costumes 
-
---- /task ---
-
---- task ---
-
-Interactive features to click
-
---- /task ---
-
-### The digital making process
-
---- task ---
-
-Created a card based on your own idea
-
---- /task ---
-
---- task ---
-
-Made your card using your Scratch skills 
-
---- /task ---
-
---- task ---
-
-Interacted with your card to test it while making it
-
---- /task ---
-
---- task ---
-
-Used feedback from other people to improve your card
-
---- /task ---
-
---- task ---
-
-Filled in the **Instructions** on the Scratch Project Page
-
---- /task ---
-
---- task ---
-
-Shared your card with someone to let them know you are thinking about them
-
---- /task ---
-
-### Now, you are the creator of a digital card!
-
-🎉 Take a moment to celebrate what you have made.
+Did you enjoy the project? Have you spotted an issue? Please click the **Send feedback** button below and let us know!

@@ -1,19 +1,48 @@
-## The digital making process
+## Your idea 💡
 
-**Digital making** is learning about digital technology by making things. It starts with an idea of something to make and/or an issue to address.
+Decide the theme of your card and who will you make your card for. 
 
-The digital making process looks like this: 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">**digital (or paperless) card**</span> 💌📲  is a card created and read on a computer, tablet, phone, or other electronic device. 
+<br>
+🎉 Digital cards are being used for celebrations worldwide. They are better for the environment than sending paper cards. ❓ Can you think of reasons why? 
+</p>
 
-```blocks3
-when green flag clicked
-forever
-imagine :: custom
-make :: custom
-interact :: custom
-```
-+ **Imagine** what you will make — you can go straight to Scratch or use paper if you prefer
-+ **Make** it — use code, sounds, and the Paint editor
-+ **Interact** with it to **test** and see if it works, show someone else and get their feedback, **reflect** on what you have made and learned 
-+ Work on your project again — make improvements or add more
+### Why are you making the card?
 
-**Tip:** Start small and simple, then add to your project until you are happy with it or you run out of time. 
+The idea for this project is to send a message to someone to let them know that you are thinking of them.
+
+--- task ---
+
+Think about the purpose of your card. 
+
+It could be:
+- 🙏 A thank you card
+- 🎂 A birthday card
+- 📅 An anniversary of something
+- 🎉 An annual day of celebration
+- ♻️ An important message
+- Or something else!
+
+--- /task ---
+
+### Who is it for?
+
+--- task ---
+
+Think about who you will make your card for (your **audience**).
+
+It could be:
+
+- 👧 For a friend
+- 👴 For a family member
+- 👩‍🎓 For a school class
+- 🏇 For people who share your hobby
+- 👨‍🎤 For a musician 
+- 👩‍💼 For a politician 
+- For someone else
+
+--- /task ---
+
+
+

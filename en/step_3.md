@@ -1,48 +1,36 @@
-## Your idea 💡
+## Plan your card 💌
 
-Decide the theme of your card and who will you make your card for. 
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital (or paperless) card**</span> 💌📲  is a card created and read on a computer, tablet, phone, or other electronic device. 
-<br>
-🎉 Digital cards are being used for celebrations worldwide. They are better for the environment than sending paper cards. ❓ Can you think of reasons why? 
-</p>
-
-### Why are you making the card?
-
-The idea for this project is to send a message to someone to let them know that you are thinking of them.
+Use this step to plan your card. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
 
 --- task ---
 
-Think about the purpose of your card. 
+Open the [From me to you starter project](https://scratch.mit.edu/projects/744422715/editor/){:target="_blank"}. Scratch will open in another browser tab.
 
-It could be:
-- 🙏 A thank you card
-- 🎂 A birthday card
-- 📅 An anniversary of something
-- 🎉 An annual day of celebration
-- ♻️ An important message
-- Or something else!
+⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/27073994){:target="_blank"}. 
+
+--- collapse ---
+---
+title: Working offline
+---
+
+For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+
+--- /collapse ---
 
 --- /task ---
-
-### Who is it for?
 
 --- task ---
 
-Think about who you will make your card for (your **audience**).
+Use your new Scratch project to plan your card. You don't have to add all the sprites and sounds now you can add more later. 
 
-It could be:
+You can also use ✏️ a pencil and a piece of paper to sketch your ideas.
 
-- 👧 For a friend
-- 👴 For a family member
-- 👩‍🎓 For a school class
-- 🏇 For people who share your hobby
-- 👨‍🎤 For a musician 
-- 👩‍💼 For a politician 
-- For someone else
+Think about the backdrop and sprites:
+- 🖼️ Which backdrop or background colours will you use in your card? 
+- 🗒️ What will your message look or sound like?
+- 🦁 Which characters and objects will you have in your card? 
+- 🏃‍♀️ Will the sprites be animated with movement or graphic effects
+- 👉 Will your audience interact with your card?
+- 🔉 Will your card have sound?
 
 --- /task ---
-
-
-
