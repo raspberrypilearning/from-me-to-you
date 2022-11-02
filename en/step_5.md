@@ -46,14 +46,6 @@ Now, copy the web address. To do this, you can:
 
 --- task ---
 
-Inspire others who do this project with your card! 
-
-To submit your project to our ['From me to you — Community' Scratch studio](https://scratch.mit.edu/studios/28525955){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
-
---- /task ---
-
---- task ---
-
 Take a look at these fabulous community projects from our ['From me to you — Community' Scratch studio](https://scratch.mit.edu/studios/28525955){:target="_blank"}:
 
 **Finished school**: [See inside](https://scratch.mit.edu/projects/747905716/editor){:target="_blank"}
