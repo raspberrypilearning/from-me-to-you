@@ -54,7 +54,7 @@ Your card should have:
 + 🐢 At least one sprite
 + 💬 Text or speech to share a message
 
-Your book could have:
+Your card could have:
 + 🔉 Sound effects or music
 + 🎨 Costumes you have painted or edited in the Paint editor
 + 🖱️ Interactive features to click
