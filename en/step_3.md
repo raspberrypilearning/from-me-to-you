@@ -21,7 +21,7 @@ For information about how to set up Scratch for offline use, visit [our 'Getting
 
 --- task ---
 
-Use your new Scratch project to plan your card. You don't have to add all the sprites and sounds now you can add more later. 
+Use your new Scratch project to plan your card. You don't have to add all the sprites and sounds now — you can add more later. 
 
 You can also use ✏️ a pencil and a piece of paper to sketch your ideas.
 
@@ -29,7 +29,7 @@ Think about the backdrop and sprites:
 - 🖼️ Which backdrop or background colours will you use in your card? 
 - 🗒️ What will your message look or sound like?
 - 🦁 Which characters and objects will you have in your card? 
-- 🏃‍♀️ Will the sprites be animated with movement or graphic effects
+- 🏃‍♀️ Will the sprites be animated with movement or graphic effects?
 - 👉 Will your audience interact with your card?
 - 🔉 Will your card have sound?
 

@@ -13,7 +13,7 @@ Some useful skills you could use for your card:
 + Use `layers`{:class="block3looks"} blocks to move sprites in front of or behind other sprites
 + Use the `text to speech`{:class="block3extensions"} and `translate`{:class="block3extensions"} Scratch extensions 
 
-![A strip of example projects including cards for world hello day, new year, world environment day, a thank you card and a happy birthday card..](images/showcase_static.png)
+![A strip of example projects including cards for World Hello Day, New Year, and World Environment Day; a thank you card; and a birthday card.](images/showcase_static.png)
 
 ## Set the scene 🖼️
 
@@ -21,7 +21,7 @@ Some useful skills you could use for your card:
 
 Add the backdrop and sprites. 
 
-![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+![The 'Choose a Sprite' and 'Choose a Backdrop' icons.](images/sprite-and-backdrop.png)
 
 ### Backdrops
 
@@ -69,7 +69,7 @@ For example:
 
 --- collapse ---
 ---
-title: Start code with Hat blocks
+title: Start code with hat blocks
 ---
 
 ```blocks3
@@ -77,18 +77,18 @@ when green flag clicked
 when this sprite clicked
 ```
 
-These blocks have a different shape — they are sometimes called **Hat blocks**. They start code running when a particular event happens, such as a user clicking.
+These blocks have a different shape — they are sometimes called **hat blocks**. They start code running when a particular event happens, such as a user clicking.
 
 --- /collapse ---
 
 --- task ---
 
 
-### Prepare your Sprites
+### Prepare your sprites
 
 Think about:
-+ `Looks`{:class="block3looks"} size, layers, visibility
-+ `Motion`{:class="block3motion"} direction, starting position
++ `Looks`{:class="block3looks"} — size, layers, visibility
++ `Motion`{:class="block3motion"} — direction, starting position
 
 
 --- collapse ---
@@ -96,13 +96,13 @@ Think about:
 title: Resize your sprites
 ---
 
-### Set size for the whole project
+### Set the size for the whole project
 
 Change the number in the **Size** property in the Sprite pane:
 
 ![](images/sprite-pane-size.png)
 
-### Change size for part of the project
+### Change the size for part of the project
 
 Add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project. 
 
@@ -119,7 +119,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 title: Hide and show sprites
 ---
 
-To make one sprite appear to turn into another sprite you could `show`{:class="block3looks"} one sprite and `hide`{:class="block3looks"} the other. After a `wait`{:class="block3control"} you can then `hide`{:class="block3looks"} the first sprite and `show`{:class="block3looks"} the second: 
+To make one sprite appear to turn into another sprite, you could `show`{:class="block3looks"} one sprite and `hide`{:class="block3looks"} the other. After a `wait`{:class="block3control"}, you can then `hide`{:class="block3looks"} the first sprite and `show`{:class="block3looks"} the second: 
 
 The 🎂🎾🎁 **interesting object** sprite:
 ```blocks3
@@ -148,13 +148,13 @@ title: Set the direction of your sprites
 
 Your sprites might be facing the wrong way when you add them to your project. 
 
-### Set direction for the whole project
+### Set the direction for the whole project
 
 Change the **Direction** and **rotation style** in the Sprite pane:
 
 ![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
 
-### Change direction for part of the project
+### Change the direction for part of the project
 
 Add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
 
@@ -187,7 +187,7 @@ go to x: (-200) y: (50) // starting position
 
 ### Add movement and sound
 
-Choose how to animate your card with `costumes`{:class="block3looks"}, `graphic effects`{:class="block3looks"}, `motion`{:class="block3motion"} and `sound`{:class="block3sound"}: 
+Choose how to animate your card with `costumes`{:class="block3looks"}, `graphic effects`{:class="block3looks"}, `motion`{:class="block3motion"}, and `sound`{:class="block3sound"}: 
 
 **Tip:** Some of the best ideas come from playing. You will find good ideas by accident!
 
@@ -271,7 +271,7 @@ end
 --- task ---
 
 **Choose:** Add your message as either a **sprite/sprites** or a **sound**:
-+ Add letter sprites from the Sprite library
++ Add letter sprites from the Sprite Library
 + Use the **Text** tool in the Paint editor to write a short message
 + Record a spoken message
 + Type a message for Scratch to speak
@@ -279,12 +279,12 @@ end
 --- collapse ---
 ---
 
-title: Use letter sprites from the Sprite library
+title: Use letter sprites from the Sprite Library
 
 ---
 
 **Choose a Sprite** and select **Letters** from the Sprite Library or search for `numbers`:
-![Show Choose a Sprite letters/numbers](images/from-me-letters-numbers.png){:width="300px"}
+![The Sprite Library with "numbers" in the search box and the 'Letters' category highlighted.](images/from-me-letters-numbers.png){:width="300px"}
 
 --- /collapse ---
 
@@ -320,7 +320,7 @@ title: Use letter sprites from the Sprite library
 - Record or add a sound 
 - Create a new costume in the Paint editor
 
-If you are stuck for ideas, don't forget to look at the ['From me to you' examples](https://scratch.mit.edu/studios/27073994){:target="_blank"} or the [From me to you Community Projects](https://scratch.mit.edu/studios/28525955){:target="_blank"} and **See inside**.
+If you are stuck for ideas, don't forget to look at the ['From me to you' examples](https://scratch.mit.edu/studios/27073994){:target="_blank"} or the ['From me to you' community projects](https://scratch.mit.edu/studios/28525955){:target="_blank"} and **See inside**.
 
 If you have finished or don't have much time left, then move on to the next step to share your digital card.
 

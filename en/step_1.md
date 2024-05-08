@@ -101,7 +101,7 @@ Play with these example projects to get ideas for your card:
 To get ideas for your card 💌, **See inside** example projects in the 'From me to you — Examples' Scratch studio: 
 https://scratch.mit.edu/studios/27073994
 
-![A strip of example projects including cards for world hello day, new year, world environment day, a thank you card and a happy birthday card..](images/showcase_static.png)
+![A strip of example projects including cards for World Hello Day, New Year, and World Environment Day; a thank you card; and a birthday card.](images/showcase_static.png)
 
 --- /print-only ---
 

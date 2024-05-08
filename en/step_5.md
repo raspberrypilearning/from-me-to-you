@@ -35,8 +35,8 @@ If you have a Scratch account, you can share your project through Scratch.
 
 Use the project's unique web address to send the digital card to the person who you made it for.
 
-Click in the browser bar and the web address of your project will highlight:
-![Show web address](images/from-me-webaddress.png){:width="400px"}
+Click in the browser bar and the web address of your project will be highlighted:
+![The web address highlighted in the browser bar.](images/from-me-webaddress.png){:width="400px"}
 
 Now, copy the web address. To do this, you can:
 + Write down the web address and give it to the person who you want to share the project with
@@ -80,6 +80,6 @@ Take a look at these fabulous community projects from our ['From me to you — C
 
 --- task ---
 
-You can also look at the remixes for the [From me to you - starter](https://scratch.mit.edu/projects/744422715/remixes){:target="_blank"} project to see what other creators have made.
+You can also look at the remixes for the [From me to you starter project](https://scratch.mit.edu/projects/744422715/remixes){:target="_blank"} to see what other creators have made.
 
 --- /task ---
