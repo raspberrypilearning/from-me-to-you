@@ -1,6 +1,6 @@
 ## Checklist ✅
 
-Did you meet the project brief? Think about your project and go through the checklist below, Check off the features that your project has.
+Did you meet the project brief? Think about your project and go through the checklist below. Check off the features that your project has.
 
 ### Your card should have
 
@@ -18,7 +18,7 @@ At least one sprite
 
 --- task ---
 
-A Text or spoken message 
+A text or spoken message 
 
 --- /task ---
 
