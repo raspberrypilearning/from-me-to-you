@@ -18,6 +18,5 @@ steps:
   - internal
 - title: Share 🗣️ and play
 - title: Checklist ✅
-- title: What next?
   completion:
   - external
