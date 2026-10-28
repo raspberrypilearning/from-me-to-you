@@ -72,7 +72,7 @@ Play with these example projects to get ideas for your card:
 
 **Space thank you 👾**: [See inside](https://scratch.mit.edu/projects/1396682258){:target="_blank"}
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/461080920/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/1396682258/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 **World Environment Day 🌍**: [See inside](https://scratch.mit.edu/projects/460628546){:target="_blank"}
